@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="India Vs Afghanistan" tvg-logo="" group-title="Cricket",India Vs Afghanistan
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bdc614e076190e536c7aca7f66ae3f88:7e43190efc077a8e34d29efe88667f0d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ksfl0gxlwo/out/v1/b899e33185bf4917be233d3c0da7a30c/cenc.mpd
-#EXTINF:-1 tvg-name="India Vs Afghanistan" tvg-logo="" group-title="Cricket",India Vs Afghanistan
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60838a3176127fed0eaf038a5575de11:d14658a0ede94debcb4013b2056ba6d1
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
 #EXTINF:-1 tvg-name="Afghanistan Tour Of India 2026 - 3rd Odi - India Vs Afghanistan" tvg-logo="" group-title="Cricket",Afghanistan Tour Of India 2026 - 3rd Odi - India Vs Afghanistan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b27756aac13b4118b31213e99cbb272d:ca0ef74a7e6237857cbfbef54cc09322
