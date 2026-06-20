@@ -1,15 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Pakistan Vs. Bangladesh" tvg-logo="" group-title="Cricket",Pakistan Vs. Bangladesh
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=434f07d93d4ba702bed5d41b1cc21d22:065c5585a1b94dc36379421ba923a415
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yuoix8o52c/out/v1/5c380397b3a14f2b94019893c0734d0e/cenc.mpd
 #EXTINF:-1 tvg-name="New Zealand Tour Of England 2026 - 2nd Test - England Vs New Zealand" tvg-logo="" group-title="Cricket",New Zealand Tour Of England 2026 - 2nd Test - England Vs New Zealand
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e8624c46cedebe34782dd60fdb442ac:74ab991465428992b5043218ca50926c
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6yhaslh2a7/out/v1/e05749a7cc374d5a9b93f2d94f2fdb3e/cenc.mpd
-#EXTINF:-1 tvg-name="Stockholm City Vs Vasteras United" tvg-logo="" group-title="Cricket",Stockholm City Vs Vasteras United
-https://bd-mc-flive.fancode.com/mumbai/143192_english_hls_0a5226cb9032584_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782049867~_GO=Generated~acl=/mumbai/143192_english_hls_0a5226cb9032584_1ta-di_h264/*~Signature=Afto3p0QQNJe7gm0-B1DJ8X0ctN2GKdFxnDlgKKfizJjo4ZEKC6ZD2pQAtexIc8TvOH3yA0MClmp1Usr0Nz-3hgg2NQB
-#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Mysore Warriors" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Mysore Warriors
-https://bd-mc-flive.fancode.com/mumbai/143416_english_hls_7f3da9432298046_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782049870~_GO=Generated~acl=/mumbai/143416_english_hls_7f3da9432298046_1ta-di_h264/*~Signature=Afto3p38NRvBJ1eDoYnhdni73AItUsnCqqPadip2R6PVozLjufx62ld7vRSM10V9KI29XQh5Ry5v1TL7WBzGDScRUnEH
-#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Mysore Warriors" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Mysore Warriors
-https://bd-mc-flive.fancode.com/mumbai/143416_kannada_hls_0d0e834e0550730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782049871~_GO=Generated~acl=/mumbai/143416_kannada_hls_0d0e834e0550730_1ta-di_h264/*~Signature=Afto3p2GXJX67xS89Jt9_f6BhGZLoDDHaiOe2Cn3af7HFz-bk7n82-iZoUhTIGA48kMXQzaC_iPwR2fqkqUTz-UnQUUC
+#EXTINF:-1 tvg-name="Bangladesh Vs Australia" tvg-logo="" group-title="Cricket",Bangladesh Vs Australia
+https://seriealeague.akamaized.net/hls/live/2107107/tap5tju8g1i/master.m3u8
+#EXTINF:-1 tvg-name="West Indies Vs Sri Lanka" tvg-logo="" group-title="Cricket",West Indies Vs Sri Lanka
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b8a17598129a3618535c8fb05f103fe:7e9239c1982d984a002df3ed049d0756
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-name="Bangladesh Vs Pakistan" tvg-logo="" group-title="Cricket",Bangladesh Vs Pakistan
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-name="India Vs Afghanistan" tvg-logo="" group-title="Cricket",India Vs Afghanistan
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
+#EXTINF:-1 tvg-name="England Vs. Scotland" tvg-logo="" group-title="Cricket",England Vs. Scotland
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6c352b66291d5043225d6a0ff8c8410:8010e9037ac479a73b5d7ecf47a7ab8c
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/po5nmmky0w/out/v1/6e466c179f064cd786fd9bcd0b819176/cenc.mpd
