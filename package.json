@@ -1,0 +1,13 @@
+{
+  "name": "daily-links",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "generate": "node scripts/generate-playlists.js",
+    "generate:force": "node scripts/generate-playlists.js --force"
+  }
+}
