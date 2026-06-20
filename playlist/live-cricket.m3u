@@ -1,21 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="New Zealand Tour Of England 2026 - 2nd Test - England Vs New Zealand" tvg-logo="" group-title="Cricket",New Zealand Tour Of England 2026 - 2nd Test - England Vs New Zealand
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e8624c46cedebe34782dd60fdb442ac:74ab991465428992b5043218ca50926c
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6yhaslh2a7/out/v1/e05749a7cc374d5a9b93f2d94f2fdb3e/cenc.mpd
 #EXTINF:-1 tvg-name="Pakistan Vs. Bangladesh" tvg-logo="" group-title="Cricket",Pakistan Vs. Bangladesh
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=434f07d93d4ba702bed5d41b1cc21d22:065c5585a1b94dc36379421ba923a415
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yuoix8o52c/out/v1/5c380397b3a14f2b94019893c0734d0e/cenc.mpd
-#EXTINF:-1 tvg-name="Namibia Vs Nigeria" tvg-logo="" group-title="Cricket",Namibia Vs Nigeria
-https://bd-mc-flive.fancode.com/mumbai/143316_english_hls_74b80ef3ef76526_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782042667~_GO=Generated~acl=/mumbai/143316_english_hls_74b80ef3ef76526_1ta-di_h264/*~Signature=Afto3p22UotbM3NBQGGZAooHQIRLPF8bhU-h_cNk-5BoQ2eN-9LKwXWaGEhbC22MWuICL7hi3cnDT_J1PXyG6hYgfh0K
+#EXTINF:-1 tvg-name="New Zealand Tour Of England 2026 - 2nd Test - England Vs New Zealand" tvg-logo="" group-title="Cricket",New Zealand Tour Of England 2026 - 2nd Test - England Vs New Zealand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e8624c46cedebe34782dd60fdb442ac:74ab991465428992b5043218ca50926c
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6yhaslh2a7/out/v1/e05749a7cc374d5a9b93f2d94f2fdb3e/cenc.mpd
 #EXTINF:-1 tvg-name="Stockholm City Vs Vasteras United" tvg-logo="" group-title="Cricket",Stockholm City Vs Vasteras United
 https://bd-mc-flive.fancode.com/mumbai/143192_english_hls_0a5226cb9032584_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782049867~_GO=Generated~acl=/mumbai/143192_english_hls_0a5226cb9032584_1ta-di_h264/*~Signature=Afto3p0QQNJe7gm0-B1DJ8X0ctN2GKdFxnDlgKKfizJjo4ZEKC6ZD2pQAtexIc8TvOH3yA0MClmp1Usr0Nz-3hgg2NQB
 #EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Mysore Warriors" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Mysore Warriors
 https://bd-mc-flive.fancode.com/mumbai/143416_english_hls_7f3da9432298046_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782049870~_GO=Generated~acl=/mumbai/143416_english_hls_7f3da9432298046_1ta-di_h264/*~Signature=Afto3p38NRvBJ1eDoYnhdni73AItUsnCqqPadip2R6PVozLjufx62ld7vRSM10V9KI29XQh5Ry5v1TL7WBzGDScRUnEH
 #EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Mysore Warriors" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Mysore Warriors
 https://bd-mc-flive.fancode.com/mumbai/143416_kannada_hls_0d0e834e0550730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782049871~_GO=Generated~acl=/mumbai/143416_kannada_hls_0d0e834e0550730_1ta-di_h264/*~Signature=Afto3p2GXJX67xS89Jt9_f6BhGZLoDDHaiOe2Cn3af7HFz-bk7n82-iZoUhTIGA48kMXQzaC_iPwR2fqkqUTz-UnQUUC
-#EXTINF:-1 tvg-name="Afghanistan Tour Of India 2026 - 3rd Odi - India Vs Afghanistan" tvg-logo="" group-title="Cricket",Afghanistan Tour Of India 2026 - 3rd Odi - India Vs Afghanistan
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b27756aac13b4118b31213e99cbb272d:ca0ef74a7e6237857cbfbef54cc09322
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gzyicjiy44/out/v1/388277c3c7a7495e9a7c48bbb0f639a3/cenc.mpd
