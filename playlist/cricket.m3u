@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kalyani Bengaluru Blasters Vs Shivamogga Yodhas" tvg-logo="" group-title="Cricket",Kalyani Bengaluru Blasters Vs Shivamogga Yodhas
-https://bd-mc-flive.fancode.com/mumbai/143418_english_hls_ce2bd0636688281_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782149165~_GO=Generated~acl=/mumbai/143418_english_hls_ce2bd0636688281_1ta-di_h264/*~Signature=Afto3p2g8M7TBzBOGruwQJ7LRmOFl3ZClCcax3BQOq2qo4PbiTG1MtIOInp70QFdiLn63jpr7wMKE5RtRuG_Sg4rNBAG
+#EXTINF:-1 tvg-name="Major League Cricket 2026 - 6th Match - Seattle Orcas Vs Los Angeles Knight Riders" tvg-logo="" group-title="Cricket",Major League Cricket 2026 - 6th Match - Seattle Orcas Vs Los Angeles Knight Riders
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55588334195c73f5ddf74f40216a2d89:6de59c86a6afbfec96012045d009a135
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/twug1hauhn/out/v1/f779b08445434874bd16d7be36666eb9/cenc.mpd
 #EXTINF:-1 tvg-name="West Indies Vs Sri Lanka" tvg-logo="" group-title="Cricket",West Indies Vs Sri Lanka
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b8a17598129a3618535c8fb05f103fe:7e9239c1982d984a002df3ed049d0756
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1 tvg-name="Kalyani Bengaluru Blasters Vs Shivamogga Yodhas" tvg-logo="" group-title="Cricket",Kalyani Bengaluru Blasters Vs Shivamogga Yodhas
-https://bd-mc-flive.fancode.com/mumbai/143418_kannada_hls_7ea824412149613_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782149166~_GO=Generated~acl=/mumbai/143418_kannada_hls_7ea824412149613_1ta-di_h264/*~Signature=Afto3p3bvbScU5J8tUTXHE4V2-NtT9db0uUENMnzj2wcqknOsG97-e-91swvmkrz9I2wQdR1wfo7Wo5E6frHpZdrwgAI
-#EXTINF:-1 tvg-name="Bundelkhand Bulls Vs Ujjain Falcons" tvg-logo="" group-title="Cricket",Bundelkhand Bulls Vs Ujjain Falcons
-https://bd-mc-flive.fancode.com/mumbai/143096_english_hls_c7e9c074a352548_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782137522~_GO=Generated~acl=/mumbai/143096_english_hls_c7e9c074a352548_1ta-di_h264/*~Signature=Afto3p0MLocXQrNNn4KZuXGH5e6chytDJVZRlyeU0lmRcZqlrbhLz40xCbA9_lGUgza3DgnjJzIohEZf4NpbtmGDuKsM
-#EXTINF:-1 tvg-name="Bermuda Vs Bahamas" tvg-logo="" group-title="Cricket",Bermuda Vs Bahamas
-https://bd-mc-flive.fancode.com/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782150663~_GO=Generated~acl=/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/*~Signature=Afto3p3e2dR9YSGMmswxdrBgUAHl9O-dxJm5UwNuO3VG_6xr4YGC-EMy5B0JL3kdMu-KPrbvPlmkVECqjGJ6pxn7sCIB
