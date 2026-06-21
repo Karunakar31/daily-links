@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Tri Nation A Series In Sri Lanka 2026 - Final - India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",Tri Nation A Series In Sri Lanka 2026 - Final - India A Vs Sri Lanka A
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8094deb4bf11428aa0d663b3168bc69d:da904540e06da7a77270d63422cb0f69
-https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/ty2hlbyyk3/out/v1/0e4990351b97426db382b30cb01cf645/cenc.mpd
-#EXTINF:-1 tvg-name="Jabalpur Royal Lions Vs Gwalior Cheetahs" tvg-logo="" group-title="Cricket",Jabalpur Royal Lions Vs Gwalior Cheetahs
-https://bd-mc-fblive.fancode.com/mumbai/143095_english_hls_49216852c95430_1ta-di_h264/1080p.m3u8
 #EXTINF:-1 tvg-name="Australia Tour Of Bangladesh 2026 - 3rd T20i - Bangladesh Vs Australia" tvg-logo="" group-title="Cricket",Australia Tour Of Bangladesh 2026 - 3rd T20i - Bangladesh Vs Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e5d713e767c1a6cffd1881387b207cd:1f97487e54111023d37c80d74cb3bb4c
 https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/zpnqiahxef/out/v1/f5a57dc142584558a8669a44e3b6aa11/cenc.mpd
+#EXTINF:-1 tvg-name="Jabalpur Royal Lions Vs Gwalior Cheetahs" tvg-logo="" group-title="Cricket",Jabalpur Royal Lions Vs Gwalior Cheetahs
+https://bd-mc-fblive.fancode.com/mumbai/143095_english_hls_49216852c95430_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Tri Nation A Series In Sri Lanka 2026 - Final - India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",Tri Nation A Series In Sri Lanka 2026 - Final - India A Vs Sri Lanka A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8094deb4bf11428aa0d663b3168bc69d:da904540e06da7a77270d63422cb0f69
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/ty2hlbyyk3/out/v1/0e4990351b97426db382b30cb01cf645/cenc.mpd
 #EXTINF:-1 tvg-name="England Vs. New Zealand" tvg-logo="" group-title="Cricket",England Vs. New Zealand
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4496b9a9e83b9dc0dedba157712ad1c:189df9061b7c96db75bb8d60bdc18c73
