@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="South Africa Vs. India" tvg-logo="" group-title="Cricket",South Africa Vs. India
+#EXTINF:-1 tvg-name="Kalyani Bengaluru Blasters Vs Shivamogga Yodhas" tvg-logo="" group-title="Cricket",Kalyani Bengaluru Blasters Vs Shivamogga Yodhas
+https://bd-mc-flive.fancode.com/mumbai/143418_english_hls_ce2bd0636688281_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782134437~_GO=Generated~acl=/mumbai/143418_english_hls_ce2bd0636688281_1ta-di_h264/*~Signature=Afto3p28s6Sc9wEffdWCRv_i6ovCb9KuGsFM1LSWriHzoxCH9NBTsA_XLa65IWKh1Ym1cFbpQh2ZuZvRRde-TGTYKiUE
+#EXTINF:-1 tvg-name="West Indies Vs Sri Lanka" tvg-logo="" group-title="Cricket",West Indies Vs Sri Lanka
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f124481fc5fcc4c55fa0d972a2015f3a:dd542c320e7f1d2bb7a5e894eae38c6d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/38inezkhzl/out/v1/76f949dc15d1470f83f784daa682c40c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1b8a17598129a3618535c8fb05f103fe:7e9239c1982d984a002df3ed049d0756
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-name="Bangladesh Vs Australia" tvg-logo="" group-title="Cricket",Bangladesh Vs Australia
+https://seriealeague.akamaized.net/hls/live/2107107/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-name="Kalyani Bengaluru Blasters Vs Shivamogga Yodhas" tvg-logo="" group-title="Cricket",Kalyani Bengaluru Blasters Vs Shivamogga Yodhas
 https://bd-mc-flive.fancode.com/mumbai/143418_kannada_hls_7ea824412149613_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782134438~_GO=Generated~acl=/mumbai/143418_kannada_hls_7ea824412149613_1ta-di_h264/*~Signature=Afto3p2qySebNFZMLaG9xrfzuofd9Yf1FAGnv03grssgAB7z5pUeg1PEyapEQrUVxLIVV7hh39f3XrTtjezB1zrOeVsM
 #EXTINF:-1 tvg-name="Bundelkhand Bulls Vs Ujjain Falcons" tvg-logo="" group-title="Cricket",Bundelkhand Bulls Vs Ujjain Falcons
 https://bd-mc-flive.fancode.com/mumbai/143096_english_hls_c7e9c074a352548_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782137522~_GO=Generated~acl=/mumbai/143096_english_hls_c7e9c074a352548_1ta-di_h264/*~Signature=Afto3p0MLocXQrNNn4KZuXGH5e6chytDJVZRlyeU0lmRcZqlrbhLz40xCbA9_lGUgza3DgnjJzIohEZf4NpbtmGDuKsM
 #EXTINF:-1 tvg-name="Panama Vs Belize" tvg-logo="" group-title="Cricket",Panama Vs Belize
 https://bd-mc-flive.fancode.com/mumbai/143283_english_hls_e580e7e89a44559_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782134440~_GO=Generated~acl=/mumbai/143283_english_hls_e580e7e89a44559_1ta-di_h264/*~Signature=Afto3p13IeXA1U5r84wJSQstmDSNp62wNWFzKXxBM0Gwh1Q-lmFpJHKsnHQM9mW7DQAV7staYsXjxLVezAlOxUbEZ6sM
-#EXTINF:-1 tvg-name="Kalyani Bengaluru Blasters Vs Shivamogga Yodhas" tvg-logo="" group-title="Cricket",Kalyani Bengaluru Blasters Vs Shivamogga Yodhas
-https://bd-mc-flive.fancode.com/mumbai/143418_english_hls_ce2bd0636688281_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782134437~_GO=Generated~acl=/mumbai/143418_english_hls_ce2bd0636688281_1ta-di_h264/*~Signature=Afto3p28s6Sc9wEffdWCRv_i6ovCb9KuGsFM1LSWriHzoxCH9NBTsA_XLa65IWKh1Ym1cFbpQh2ZuZvRRde-TGTYKiUE
-#EXTINF:-1 tvg-name="Bangladesh Vs Australia" tvg-logo="" group-title="Cricket",Bangladesh Vs Australia
-https://seriealeague.akamaized.net/hls/live/2107107/PSLE_tapmad2026-Backup/master.m3u8
-#EXTINF:-1 tvg-name="West Indies Vs Sri Lanka" tvg-logo="" group-title="Cricket",West Indies Vs Sri Lanka
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b8a17598129a3618535c8fb05f103fe:7e9239c1982d984a002df3ed049d0756
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
