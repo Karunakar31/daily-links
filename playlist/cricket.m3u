@@ -1,16 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Major League Cricket 2026 - 5th Match - Washington Freedom Vs Mi New York" tvg-logo="" group-title="Cricket",Major League Cricket 2026 - 5th Match - Washington Freedom Vs Mi New York
+#EXTINF:-1 tvg-name="Australia Tour Of Bangladesh 2026 - 3rd T20i - Bangladesh Vs Australia" tvg-logo="" group-title="Cricket",Australia Tour Of Bangladesh 2026 - 3rd T20i - Bangladesh Vs Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f34da68ad4aae9480040ad666342a0eb:4fb1a76606fd6ba34e8b0eef1896a5c3
-https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/gu3yfomqva/out/v1/583855fb8e0f42ac820f8c195ac771fc/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1e5d713e767c1a6cffd1881387b207cd:1f97487e54111023d37c80d74cb3bb4c
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/zpnqiahxef/out/v1/f5a57dc142584558a8669a44e3b6aa11/cenc.mpd
+#EXTINF:-1 tvg-name="Tri Nation A Series In Sri Lanka 2026 - Final - India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",Tri Nation A Series In Sri Lanka 2026 - Final - India A Vs Sri Lanka A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8094deb4bf11428aa0d663b3168bc69d:da904540e06da7a77270d63422cb0f69
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/ty2hlbyyk3/out/v1/0e4990351b97426db382b30cb01cf645/cenc.mpd
+#EXTINF:-1 tvg-name="India Vs Afghanistan" tvg-logo="" group-title="Cricket",India Vs Afghanistan
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh Vs Australia" tvg-logo="" group-title="Cricket",Bangladesh Vs Australia
 https://seriealeague.akamaized.net/hls/live/2107107/tap5tju8g1i/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh Vs Pakistan" tvg-logo="" group-title="Cricket",Bangladesh Vs Pakistan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
 https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-name="India Vs Afghanistan" tvg-logo="" group-title="Cricket",India Vs Afghanistan
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-name="West Indies Vs Sri Lanka" tvg-logo="" group-title="Cricket",West Indies Vs Sri Lanka
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b8a17598129a3618535c8fb05f103fe:7e9239c1982d984a002df3ed049d0756
