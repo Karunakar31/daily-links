@@ -20,12 +20,12 @@ jobs:
         run: npm run generate
       - name: Detect changes
         id: changes
-        run: echo "changed=$(git diff --quiet -- playlist data && echo false || echo true)" >> "$GITHUB_OUTPUT"
+        run: echo "changed=$(git diff --quiet -- playlist && echo false || echo true)" >> "$GITHUB_OUTPUT"
       - name: Commit and push updated playlists
         if: steps.changes.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add playlist data
+          git add playlist
           git commit -m "chore: update IPTV playlists"
           git push

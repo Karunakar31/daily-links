@@ -1,12 +1,11 @@
 #!/usr/bin/env node
 
 /**
- * Fetches the upstream sports feed and writes M3U playlists only when it changes.
+ * Fetches the upstream sports feed and regenerates M3U playlists on every run.
  * The field discovery intentionally uses patterns rather than a fixed schema, so
  * newly numbered stream_url/drm_key columns keep working without a code change.
  */
-import { createHash } from 'node:crypto';
-import { mkdir, readFile, writeFile } from 'node:fs/promises';
+import { mkdir, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
@@ -14,9 +13,7 @@ const SOURCE_URL = 'https://raw.githubusercontent.com/sm-monirulislam/Upcoming-a
 const RETRIES = 3;
 const TIMEOUT_MS = 20_000;
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
-const DATA_DIR = join(ROOT, 'data');
 const PLAYLIST_DIR = join(ROOT, 'playlist');
-const force = process.argv.includes('--force');
 
 const playlistNames = ['cricket', 'live-cricket', 'upcoming-cricket', 'india', 'women'];
 
@@ -118,23 +115,31 @@ function walkValues(value, path = [], output = []) {
   return output;
 }
 
+function matchingPathPart(path, expression) {
+  return [...path].reverse().find((part) => expression.test(part)) || '';
+}
+
 function streamsFor(match) {
   const drmByIndex = new Map();
   const values = walkValues(match);
   for (const item of values) {
-    const index = fieldIndex(item.key, 'drm');
-    const keyIsDrm = /(?:drm|license)[_\s-]*(?:key|token)|(?:key|token)[_\s-]*(?:drm|license)/i.test(item.key);
-    if ((index !== null || keyIsDrm) && item.value) drmByIndex.set(index ?? numericSuffix(item.key), item.value);
+    const drmPart = matchingPathPart(item.path, /(?:drm|license)[_\s-]*(?:key|token)|(?:key|token)[_\s-]*(?:drm|license)/i);
+    const index = fieldIndex(drmPart || item.key, 'drm');
+    if ((index !== null || drmPart) && item.value) drmByIndex.set(index ?? numericSuffix(drmPart || item.key), item.value);
   }
   const streams = [];
   for (const item of values) {
-    const index = fieldIndex(item.key, 'stream');
-    const keyIsStreamLike = /stream|url|link|source|manifest|m3u8|play/i.test(item.key);
-    const keyIsArtwork = /logo|flag|image|poster|banner|thumbnail/i.test(item.key);
+    // Use the complete path: { m3u8_urls: ["https://..."] } has a numeric
+    // leaf key, but its parent still correctly identifies it as a stream field.
+    const streamPart = matchingPathPart(item.path, /stream|url|link|source|manifest|m3u8|play/i);
+    const artworkPart = matchingPathPart(item.path, /logo|flag|image|poster|banner|thumbnail/i);
+    const index = fieldIndex(streamPart || item.key, 'stream');
+    const keyIsStreamLike = Boolean(streamPart);
+    const keyIsArtwork = Boolean(artworkPart);
     // Prefer canonical stream_url fields, while accepting future/nested fields whose
     // names are clearly stream-like. Artwork URLs are deliberately excluded.
     if ((index !== null || keyIsStreamLike) && !keyIsArtwork && isPlayableUrl(item.value)) {
-      const streamIndex = index ?? numericSuffix(item.key);
+      const streamIndex = index ?? numericSuffix(streamPart || item.key);
       streams.push({ url: item.value, drmKey: drmByIndex.get(streamIndex) || '' });
     }
   }
@@ -192,33 +197,18 @@ function buildPlaylists(matches) {
   return { entries, duplicates, playable };
 }
 
-async function readState(file) {
-  try { return (await readFile(file, 'utf8')).trim(); } catch (error) { if (error.code === 'ENOENT') return ''; throw error; }
-}
-
 async function main() {
   const raw = await fetchSource();
   let payload;
   try { payload = JSON.parse(raw); } catch { throw new Error('Source returned invalid JSON'); }
   const source = resolveSource(payload);
-  const hash = createHash('sha256').update(raw).digest('hex');
-  const [previousHash, previousUpdate] = await Promise.all([readState(join(DATA_DIR, 'last_hash.txt')), readState(join(DATA_DIR, 'last_update.txt'))]);
-  const hashChanged = hash !== previousHash;
-  const updateChanged = source.lastUpdate !== previousUpdate;
   console.log(`Source Last Update: ${source.lastUpdate || '(missing)'}`);
-  console.log(`Previous Last Update: ${previousUpdate || '(none)'}`);
-  console.log(`Hash Changed: ${hashChanged}`);
-  if (!force && !hashChanged && !updateChanged) {
-    console.log('Playlists Generated: no (source is unchanged)');
-    return;
-  }
+  console.log('Regeneration Mode: always generate; Git commits only changed playlist content');
   const cricket = source.matches.filter(isCricket);
   const { entries, duplicates, playable } = buildPlaylists(cricket);
-  await Promise.all([mkdir(DATA_DIR, { recursive: true }), mkdir(PLAYLIST_DIR, { recursive: true })]);
+  await mkdir(PLAYLIST_DIR, { recursive: true });
   await Promise.all([
     ...playlistNames.map((name) => writeFile(join(PLAYLIST_DIR, `${name}.m3u`), `#EXTM3U\n${entries[name].join('\n')}\n`, 'utf8')),
-    writeFile(join(DATA_DIR, 'last_hash.txt'), `${hash}\n`, 'utf8'),
-    writeFile(join(DATA_DIR, 'last_update.txt'), `${source.lastUpdate}\n`, 'utf8'),
   ]);
   const live = cricket.filter((match) => matchMetadata(match).status === 'LIVE').length;
   const upcoming = cricket.filter((match) => matchMetadata(match).status === 'UPCOMING').length;

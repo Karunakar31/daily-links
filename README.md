@@ -12,7 +12,7 @@ This Node.js project builds cricket-focused M3U playlists from the upstream spor
 | `india.m3u` | Matches involving India, India A, or Indian Women |
 | `women.m3u` | Women's matches (including `_w`) |
 
-The generator discovers every `stream_url*` and corresponding `drm_key*` field at runtime, including future numbered variations. It rejects empty or malformed stream URLs, pairs DRM keys by suffix, and removes duplicates using event name + stream URL.
+The generator discovers stream-like URL fields at runtime, including nested `m3u8` arrays and future numbered variations. It rejects empty or malformed stream URLs, pairs DRM keys by suffix, and removes duplicates using event name + stream URL.
 
 ## Local use
 
@@ -22,13 +22,7 @@ Install Node.js 22 or newer, then run:
 npm run generate
 ```
 
-The generator retries downloads three times, uses a 20-second request timeout, validates JSON, and writes state to `data/last_hash.txt` and `data/last_update.txt`. If both the SHA-256 content hash and source update time are unchanged, it exits successfully without rewriting playlists.
-
-To regenerate regardless of state:
-
-```bash
-npm run generate:force
-```
+The generator retries downloads three times, uses a 20-second request timeout, and validates JSON. It regenerates every playlist on every run; GitHub Actions commits only when the generated playlist content actually differs.
 
 No package dependencies are required; Node's built-in `fetch`, crypto, and filesystem APIs are used.
 
@@ -38,7 +32,7 @@ No package dependencies are required; Node's built-in `fetch`, crypto, and files
 2. In **Settings → Actions → General**, ensure workflows have **Read and write permissions**.
 3. Run **Update IPTV playlists** once from the Actions tab to generate the first update.
 
-The workflow runs hourly (`0 * * * *`) and can also be started manually. It generates files and commits only genuine changes under `playlist/` and `data/`. It does not deploy or host anything with GitHub Pages.
+The workflow runs hourly (`0 * * * *`) and can also be started manually. It regenerates files every time, but commits only genuine changes under `playlist/`. It does not deploy or host anything with GitHub Pages.
 
 Use the repository's raw-file URLs in your IPTV player, replacing the placeholders below:
 

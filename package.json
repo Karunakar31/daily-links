@@ -7,7 +7,6 @@
     "node": ">=22"
   },
   "scripts": {
-    "generate": "node scripts/generate-playlists.js",
-    "generate:force": "node scripts/generate-playlists.js --force"
+    "generate": "node scripts/generate-playlists.js"
   }
 }
