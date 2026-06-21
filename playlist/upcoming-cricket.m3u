@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="India Vs Afghanistan" tvg-logo="" group-title="Cricket",India Vs Afghanistan
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh Vs Australia" tvg-logo="" group-title="Cricket",Bangladesh Vs Australia
-https://seriealeague.akamaized.net/hls/live/2107107/tap5tju8g1i/master.m3u8
-#EXTINF:-1 tvg-name="Bangladesh Vs Pakistan" tvg-logo="" group-title="Cricket",Bangladesh Vs Pakistan
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
-https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://seriealeague.akamaized.net/hls/live/2107107/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-name="West Indies Vs Sri Lanka" tvg-logo="" group-title="Cricket",West Indies Vs Sri Lanka
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b8a17598129a3618535c8fb05f103fe:7e9239c1982d984a002df3ed049d0756
