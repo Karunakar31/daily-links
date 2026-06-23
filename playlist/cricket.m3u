@@ -1,6 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="New Zealand Vs. Scotland" tvg-logo="" group-title="Cricket",New Zealand Vs. Scotland
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e653a8e693b44560774daffba7da42a:6a0ec8b7cd68d77125c93e8481268d4a
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vu7tptxxnp/out/v1/fe391038bc77451dba2426e7774e6e12/cenc.mpd
 #EXTINF:-1 tvg-name="Uzbekistan Vs Indonesia" tvg-logo="" group-title="Cricket",Uzbekistan Vs Indonesia
 https://bd-mc-flive.fancode.com/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782277924~_GO=Generated~acl=/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/*~Signature=Afto3p0a1WXFSTWSPG1UUU0mpoxKg7Ohy15zujyE88K0TOkgWyb7XbTIN85BqmaNXUZLBbpUc3o1R0Oz_ORAs5dLsI8L
+#EXTINF:-1 tvg-name="Women's T20" tvg-logo="" group-title="Cricket",Women's T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-name="West Indies Vs Sri Lanka" tvg-logo="" group-title="Cricket",West Indies Vs Sri Lanka
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b8a17598129a3618535c8fb05f103fe:7e9239c1982d984a002df3ed049d0756
