@@ -1,17 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Panama Vs Bahamas" tvg-logo="" group-title="Cricket",Panama Vs Bahamas
-https://bd-mc-flive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782393543~_GO=Generated~acl=/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/*~Signature=ARZJ1WIqiGbElqijpkZ2wSWE-VO_oUOgGGPUXLCWDuOx-LVU64yykUGQ09YH2vISz-a_FYONDPR04ZROUsC8TVuuU3oM
-#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Hubli Tigers" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Hubli Tigers
-https://bd-mc-flive.fancode.com/mumbai/143424_kannada_hls_7cbd6b638824995_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782393545~_GO=Generated~acl=/mumbai/143424_kannada_hls_7cbd6b638824995_1ta-di_h264/*~Signature=ARZJ1WIdcwt9JbMWHIMcIJ0_l2u6Uvutc4CFKd74VqveUvG4enV_xvt-L9QqS0AUWaXwCosW_nw4gsIemPW--j5xe50O
-#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Hubli Tigers" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Hubli Tigers
-https://bd-mc-flive.fancode.com/mumbai/143424_english_hls_7c1d8217a985311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782393544~_GO=Generated~acl=/mumbai/143424_english_hls_7c1d8217a985311_1ta-di_h264/*~Signature=ARZJ1WJlXsgpADvgIClXV_7lncmuZ6oelbgknOf_GSuqf1O65UWbmMBT0Uo2hKa6zsNLnV4nAcIBQGh0nexORlqAUBUC
-#EXTINF:-1 tvg-name="Flying Fire Delhi Chargers Vs Karim Capital Chargers" tvg-logo="" group-title="Cricket",Flying Fire Delhi Chargers Vs Karim Capital Chargers
-https://bd-mc-fblive.fancode.com/mumbai/143552_english_hls_d56e97fbf474930_1ta-di_h264/1080p5.m3u8
-#EXTINF:-1 tvg-name="West Indies Vs Sri Lanka" tvg-logo="" group-title="Cricket",West Indies Vs Sri Lanka
+#EXTINF:-1 tvg-name="England Vs. West Indies" tvg-logo="" group-title="Cricket",England Vs. West Indies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b8a17598129a3618535c8fb05f103fe:7e9239c1982d984a002df3ed049d0756
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b35978c7b6988c16a493e67cb35e3ed7:78cb4762e924126a02e0d19a3c7d5203
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zxv9btuhk4/out/v1/18a0b7d0d0054b728bc322e5ab14058a/cenc.mpd
 #EXTINF:-1 tvg-name="Women's T20" tvg-logo="" group-title="Cricket",Women's T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
 https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-name="West Indies Vs Sri Lanka" tvg-logo="" group-title="Cricket",West Indies Vs Sri Lanka
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b8a17598129a3618535c8fb05f103fe:7e9239c1982d984a002df3ed049d0756
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-name="Brazil Vs Belize" tvg-logo="" group-title="Cricket",Brazil Vs Belize
+https://bd-mc-flive.fancode.com/mumbai/143288_english_hls_6a8031a1bc62827_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782409863~_GO=Generated~acl=/mumbai/143288_english_hls_6a8031a1bc62827_1ta-di_h264/*~Signature=ARZJ1WIq3DOWoCnC1fmXXCzDqwpsyZdcAL_eDDyOWBFxqMQ_wTT9Y6rv7y0sfRc4WxZtJ4FXyGxKTFbhwCrXUJoh2akG
+#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Hubli Tigers" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Hubli Tigers
+https://bd-mc-flive.fancode.com/mumbai/143424_kannada_hls_7cbd6b638824995_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782408365~_GO=Generated~acl=/mumbai/143424_kannada_hls_7cbd6b638824995_1ta-di_h264/*~Signature=ARZJ1WKPH_MZ3zcJ1atRi_xTvgVDfwP3sx98FWmECbv6MS6D6nzALC1W0N4rLBH7NWFTQLVboo9uKsUf5pCM2K77m5QP
+#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Hubli Tigers" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Hubli Tigers
+https://bd-mc-flive.fancode.com/mumbai/143424_english_hls_7c1d8217a985311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782408365~_GO=Generated~acl=/mumbai/143424_english_hls_7c1d8217a985311_1ta-di_h264/*~Signature=ARZJ1WKKKM9nhxJGAFl2tanJ5VfxcyW4cdZF0qLhD1PalmwTIT20YCZd2hYFwt9lIVbwI_gCKYzSElBXuOKHklE9VkUN
