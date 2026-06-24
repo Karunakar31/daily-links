@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kalyani Bengaluru Blasters Vs Coastal Kings Mangaluru" tvg-logo="" group-title="Cricket",Kalyani Bengaluru Blasters Vs Coastal Kings Mangaluru
-https://bd-mc-flive.fancode.com/mumbai/143423_english_hls_d96ec095a07084_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782377463~_GO=Generated~acl=/mumbai/143423_english_hls_d96ec095a07084_1ta-di_h264/*~Signature=Afto3p0NGuuvoC-JnDIeRhZbpX3krqEHWBz1K9vIPNMVtmdTeqibeprZkJWCA8FVOZw2a94eh5LVFmKP5la-3DXlgncJ
-#EXTINF:-1 tvg-name="Bahadurgarh Royals Vs Aca Gurugram Vipers" tvg-logo="" group-title="Cricket",Bahadurgarh Royals Vs Aca Gurugram Vipers
-https://bd-mc-flive.fancode.com/mumbai/143551_english_hls_74e30ebb5f89225_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782379144~_GO=Generated~acl=/mumbai/143551_english_hls_74e30ebb5f89225_1ta-di_h264/*~Signature=Afto3p1jtb4tKWlbeE0QP4hIsvZ7l-j4vxfSs5HUNIcR54k1bHdeLpP9Xyp9HDpCBsT7GlarjhJ84SgCvJBwJb6MFEMD
-#EXTINF:-1 tvg-name="Kalyani Bengaluru Blasters Vs Coastal Kings Mangaluru" tvg-logo="" group-title="Cricket",Kalyani Bengaluru Blasters Vs Coastal Kings Mangaluru
-https://bd-mc-flive.fancode.com/mumbai/143423_kannada_hls_ec0d84362912922_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782377465~_GO=Generated~acl=/mumbai/143423_kannada_hls_ec0d84362912922_1ta-di_h264/*~Signature=Afto3p0uHyQs5mXUiHpZUIus5pejf2a2S97DVskdhjRueIjL5BGxWV-JfyrjimDtcmRfU0a0Gq4fjhziKEnghwyrdcQL
-#EXTINF:-1 tvg-name="Jabalpur Royal Lions Vs Bundelkhand Bulls" tvg-logo="" group-title="Cricket",Jabalpur Royal Lions Vs Bundelkhand Bulls
-https://bd-mc-flive.fancode.com/mumbai/143101_english_hls_ded83d1e2c49031_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782379143~_GO=Generated~acl=/mumbai/143101_english_hls_ded83d1e2c49031_1ta-di_h264/*~Signature=Afto3p0g_-1J6WdzqCOG1JJK2Kbdu4wfXwQff9wZyG2BBy3ymEJHlcMbsTdo7WpnQcKGtN9PaC5G3bPeIehFGW2C5HMF
+#EXTINF:-1 tvg-name="Panama Vs Bahamas" tvg-logo="" group-title="Cricket",Panama Vs Bahamas
+https://bd-mc-flive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782393543~_GO=Generated~acl=/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/*~Signature=ARZJ1WIqiGbElqijpkZ2wSWE-VO_oUOgGGPUXLCWDuOx-LVU64yykUGQ09YH2vISz-a_FYONDPR04ZROUsC8TVuuU3oM
+#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Hubli Tigers" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Hubli Tigers
+https://bd-mc-flive.fancode.com/mumbai/143424_kannada_hls_7cbd6b638824995_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782393545~_GO=Generated~acl=/mumbai/143424_kannada_hls_7cbd6b638824995_1ta-di_h264/*~Signature=ARZJ1WIdcwt9JbMWHIMcIJ0_l2u6Uvutc4CFKd74VqveUvG4enV_xvt-L9QqS0AUWaXwCosW_nw4gsIemPW--j5xe50O
+#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Hubli Tigers" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Hubli Tigers
+https://bd-mc-flive.fancode.com/mumbai/143424_english_hls_7c1d8217a985311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782393544~_GO=Generated~acl=/mumbai/143424_english_hls_7c1d8217a985311_1ta-di_h264/*~Signature=ARZJ1WJlXsgpADvgIClXV_7lncmuZ6oelbgknOf_GSuqf1O65UWbmMBT0Uo2hKa6zsNLnV4nAcIBQGh0nexORlqAUBUC
+#EXTINF:-1 tvg-name="Flying Fire Delhi Chargers Vs Karim Capital Chargers" tvg-logo="" group-title="Cricket",Flying Fire Delhi Chargers Vs Karim Capital Chargers
+https://bd-mc-fblive.fancode.com/mumbai/143552_english_hls_d56e97fbf474930_1ta-di_h264/1080p5.m3u8
 #EXTINF:-1 tvg-name="West Indies Vs Sri Lanka" tvg-logo="" group-title="Cricket",West Indies Vs Sri Lanka
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b8a17598129a3618535c8fb05f103fe:7e9239c1982d984a002df3ed049d0756
