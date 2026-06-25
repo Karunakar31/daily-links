@@ -1,10 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Namibia Vs Nigeria" tvg-logo="" group-title="Cricket",Namibia Vs Nigeria
-https://bd-mc-flive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782458763~_GO=Generated~acl=/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/*~Signature=ARZJ1WJEaShFeU4jqdfQYM5I0GTepQcRgTj-euTAxAe5KgDgeCg7InybT08ov3t2uP1l8cw_IQggGL5h-msRjhGfbi4O
 #EXTINF:-1 tvg-name="New Zealand Tour Of England 2026 - 3rd Test - England Vs New Zealand" tvg-logo="" group-title="Cricket",New Zealand Tour Of England 2026 - 3rd Test - England Vs New Zealand
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=65d2015d222aafe7d1848b800e5cf64c:d044090c84196787b83c540653cc52d2
 https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/b6djbkac7i/out/v1/dcbd6e8854f347e88aa930f86749a874/cenc.mpd
+#EXTINF:-1 tvg-name="India Vs Bangladesh | Icc Women's T20 World Cup" tvg-logo="" group-title="Cricket",India Vs Bangladesh | Icc Women's T20 World Cup
+https://livecdn-bp-iptv.rumsport7.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=835920ac3283923c4fe8c934a66b3db2d27dc3fd&x-sign=babd5daf4f0ec15be1940fd4f802f441&x-time=1782395160
+#EXTINF:-1 tvg-name="India Vs Bangladesh | Icc Women's T20 World Cup" tvg-logo="" group-title="Cricket",India Vs Bangladesh | Icc Women's T20 World Cup
+https://iframe.rumsport10.live/
 #EXTINF:-1 tvg-name="Mysore Warriors Vs Coastal Kings Mangaluru" tvg-logo="" group-title="Cricket",Mysore Warriors Vs Coastal Kings Mangaluru
 https://bd-mc-flive.fancode.com/mumbai/143425_english_hls_917d421df854148_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782463443~_GO=Generated~acl=/mumbai/143425_english_hls_917d421df854148_1ta-di_h264/*~Signature=ARZJ1WKLQZafml9RpZz7mYA2PKy4JWr0zRUHmE4GC0d73gBuuTJsYVCnZgUFio1bBnA5ypaDbNx_jt6-Pwdiur0YfqgA
 #EXTINF:-1 tvg-name="Mysore Warriors Vs Coastal Kings Mangaluru" tvg-logo="" group-title="Cricket",Mysore Warriors Vs Coastal Kings Mangaluru
@@ -13,6 +15,14 @@ https://bd-mc-flive.fancode.com/mumbai/143425_kannada_hls_b98a02233667772_1ta-di
 https://bd-mc-flive.fancode.com/mumbai/143103_english_hls_55a82b541020876_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782465544~_GO=Generated~acl=/mumbai/143103_english_hls_55a82b541020876_1ta-di_h264/*~Signature=ARZJ1WJYjdCci0izvVgMe0R3AMebeNYK1Jl1y3gVZp28lm3SaLpx5JuEM2yLG21_EbQF2QKKEP4xejxsafGIVGQWjNEB
 #EXTINF:-1 tvg-name="Sonipat Kings Vs Jayqo Panthers Faridabad" tvg-logo="" group-title="Cricket",Sonipat Kings Vs Jayqo Panthers Faridabad
 https://bd-mc-flive.fancode.com/mumbai/143553_english_hls_50fb9f63d177693_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782465546~_GO=Generated~acl=/mumbai/143553_english_hls_50fb9f63d177693_1ta-di_h264/*~Signature=ARZJ1WKFT-J2Imq-4hB8TaAL9e4n7q5UM52s0nXWH8c34_cYPuFc7cZ2ndDXk-qaaOYJatpBnq7UubXpWmhktV1gCeME
+#EXTINF:-1 tvg-name="Singapore Vs Indonesia" tvg-logo="" group-title="Cricket",Singapore Vs Indonesia
+https://bd-mc-flive.fancode.com/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782469143~_GO=Generated~acl=/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/*~Signature=ARZJ1WJ7sQMOttJuLUt6BowAEPerlsFlBnMWuA8gAQzfvRCUFvr2xnLtD5wi2PT0-3QykjIirl5YrSyaH7CjYCgFKGgO
+#EXTINF:-1 tvg-name="Namibia Vs Nigeria" tvg-logo="" group-title="Cricket",Namibia Vs Nigeria
+https://bd-mc-flive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782473403~_GO=Generated~acl=/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/*~Signature=ARZJ1WJl5GquDF7ZkZnHL2kJCAOosr-9Dl5ATP_aJz-QK15Jvue8Vjse-xZ_Hin9y-c4aoGHe6q77HjxXrO0Tohj5R4K
+#EXTINF:-1 tvg-name="India Vs. Bangladesh" tvg-logo="" group-title="Cricket",India Vs. Bangladesh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/hmnd2wk12a/out/v1/c1c5dfe36aeb4547b8b50d5ad96c7a7e/cenc.mpd
 #EXTINF:-1 tvg-name="West Indies Vs Sri Lanka" tvg-logo="" group-title="Cricket",West Indies Vs Sri Lanka
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b8a17598129a3618535c8fb05f103fe:7e9239c1982d984a002df3ed049d0756
