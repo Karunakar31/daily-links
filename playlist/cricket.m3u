@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Chambal Ghariyals Vs Jabalpur Royal Lions" tvg-logo="" group-title="Cricket",Chambal Ghariyals Vs Jabalpur Royal Lions
-https://bd-mc-flive.fancode.com/mumbai/143104_english_hls_306edfa66575752_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782481863~_GO=Generated~acl=/mumbai/143104_english_hls_306edfa66575752_1ta-di_h264/*~Signature=ARZJ1WIV3lTT8pt41Q0ULMcJhAiHAf80pmuCIn3pPaWeR7ntqN95ZJcZcV41fUO_pqwdCE5kCIvFbYGtkpOlswZ8P5oO
+#EXTINF:-1 tvg-name="South Africa Vs. Netherlands" tvg-logo="" group-title="Cricket",South Africa Vs. Netherlands
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84719bf3c1f899410a57fcf00a2577be:1a1f22f8044984aa60511cf8771ed65a
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/q4mqxqezxl/out/v1/a4cf7232de3f41b89682fdbcdfce733c/cenc.mpd
 #EXTINF:-1 tvg-name="Sri Lanka Tour Of West Indies 2026 - 1st Test - West Indies Vs Sri Lanka" tvg-logo="" group-title="Cricket",Sri Lanka Tour Of West Indies 2026 - 1st Test - West Indies Vs Sri Lanka
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13c76e512751a7c64d52540bcf70186e:d91ec76df7fc7b50e22ca599e846f1e2
@@ -9,25 +11,11 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pdcl67vbop/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33
 https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/hmnd2wk12a/out/v1/c1c5dfe36aeb4547b8b50d5ad96c7a7e/cenc.mpd
-#EXTINF:-1 tvg-name="New Zealand Tour Of England 2026 - 3rd Test - England Vs New Zealand" tvg-logo="" group-title="Cricket",New Zealand Tour Of England 2026 - 3rd Test - England Vs New Zealand
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=65d2015d222aafe7d1848b800e5cf64c:d044090c84196787b83c540653cc52d2
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/b6djbkac7i/out/v1/dcbd6e8854f347e88aa930f86749a874/cenc.mpd
 #EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="" group-title="Cricket",Sri Lanka Vs West Indies
-https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782480362~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/*~Signature=ARZJ1WKXl4VK8-TXA_6iH6SF-YmiP0pUU5yeEFRGM1BWEym8BiZAx-99OUd796V7iw9FiZdKkbknqWXg4Mac3j3ffoAO
-#EXTINF:-1 tvg-name="Bermuda Vs Panama" tvg-logo="" group-title="Cricket",Bermuda Vs Panama
-https://bd-mc-flive.fancode.com/mumbai/143289_english_hls_e71118a81b13949_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782479523~_GO=Generated~acl=/mumbai/143289_english_hls_e71118a81b13949_1ta-di_h264/*~Signature=ARZJ1WIQdE-KaX8h-HF00XpvQbyfiUxb-PXkWm1hbfkNC0C6d9CUi3ZUFiOTdL2m9hqBEypBCefrVrPn7UcPXSEjbqkK
-#EXTINF:-1 tvg-name="Hubli Tigers Vs Gulbarga Mystics" tvg-logo="" group-title="Cricket",Hubli Tigers Vs Gulbarga Mystics
-https://bd-mc-flive.fancode.com/mumbai/143426_english_hls_e550875d2c76111_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782479525~_GO=Generated~acl=/mumbai/143426_english_hls_e550875d2c76111_1ta-di_h264/*~Signature=ARZJ1WJ5R1Q3kTJFX7Wxkpizt5iDvRzWt4w_VXkXJfarz7h_LPkKfbjBnY90g_WEwVDnRpOK0P9XaAWPLX-p60SWmSIM
-#EXTINF:-1 tvg-name="Hubli Tigers Vs Gulbarga Mystics" tvg-logo="" group-title="Cricket",Hubli Tigers Vs Gulbarga Mystics
-https://bd-mc-flive.fancode.com/mumbai/143426_kannada_hls_945b058a2f63087_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782479526~_GO=Generated~acl=/mumbai/143426_kannada_hls_945b058a2f63087_1ta-di_h264/*~Signature=ARZJ1WJ4yoHiHrfIbDFFY7L3MZAxzgDDVl2XQCIImWeMbd7fGn99PigDEiuvgZUib62CM-7sEFTEJr3LYicIttoiAIUK
-#EXTINF:-1 tvg-name="Ddh Meerut Spartans Vs Ka Noida Blaze" tvg-logo="" group-title="Cricket",Ddh Meerut Spartans Vs Ka Noida Blaze
-https://bd-mc-flive.fancode.com/mumbai/143554_english_hls_a90e59a9d611812_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782481866~_GO=Generated~acl=/mumbai/143554_english_hls_a90e59a9d611812_1ta-di_h264/*~Signature=ARZJ1WKqsrzQnNmwAOwIGYwO-tIXN8ZDzuCqMFFifl8wXBkCegBWCISQavsULc3-D48zCWw13fiUAG_9oJdzekw6mNcN
-#EXTINF:-1 tvg-name="West Indies Vs Sri Lanka" tvg-logo="" group-title="Cricket",West Indies Vs Sri Lanka
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08d55a8f5fc93a9375f9b0cb2e1739ca:12413e2c2855cfc59ce0fe6b20cc71ca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
-#EXTINF:-1 tvg-name="Bangladesh Vs India" tvg-logo="" group-title="Cricket",Bangladesh Vs India
+https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782495004~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/*~Signature=ARZJ1WLTTyzu-DGt6E8hXNDmTcoqKwTJ1CitYuHeI_QwuUNCNVRinEVU2g7ZUejpa9LCqnW3Rt-hXy8UybXB5QbC7usJ
+#EXTINF:-1 tvg-name="Brazil Vs Bahamas" tvg-logo="" group-title="Cricket",Brazil Vs Bahamas
+https://bd-mc-flive.fancode.com/mumbai/143290_english_hls_d0268ab6e651415_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782496264~_GO=Generated~acl=/mumbai/143290_english_hls_d0268ab6e651415_1ta-di_h264/*~Signature=ARZJ1WLbFrPwR_vXG2pxt5W9FjE0mU6f2SScKMLPBtQVYUiT28n7vpa1AvXxwdH8Ko-rBq6JtbxOq0URdJHWT1aXEncO
+#EXTINF:-1 tvg-name="Netherlands Vs South Africa" tvg-logo="" group-title="Cricket",Netherlands Vs South Africa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
