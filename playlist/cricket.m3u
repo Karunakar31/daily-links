@@ -3,6 +3,10 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33
 https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/hmnd2wk12a/out/v1/c1c5dfe36aeb4547b8b50d5ad96c7a7e/cenc.mpd
+#EXTINF:-1 tvg-name="Major League Cricket 2026 - 9th Match - Washington Freedom Vs Seattle Orcas" tvg-logo="" group-title="Cricket",Major League Cricket 2026 - 9th Match - Washington Freedom Vs Seattle Orcas
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d01ca2ae1d3d27ead2ea85fb851259e7:c17e77b2b50977d2d166d581dd151bdd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/psnzmzvjd6/out/v1/3ec7fb7607ee461fb70022d64c73319c/cenc.mpd
 #EXTINF:-1 tvg-name="Netherlands Vs South Africa" tvg-logo="" group-title="Cricket",Netherlands Vs South Africa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
