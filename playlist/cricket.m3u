@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Rml Sports Vs Kcc" tvg-logo="" group-title="Cricket",Rml Sports Vs Kcc
 https://bd-mc-flive.fancode.com/mumbai/143522_english_hls_e0bf049e9b44320_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782544330~_GO=Generated~acl=/mumbai/143522_english_hls_e0bf049e9b44320_1ta-di_h264/*~Signature=ARZJ1WII9jT6iBfDpVrOQf4jNB11YGl_2PT8RGZKxxgDLte4aJajENOSj5AvzDph7-iOwNwMjRnQtbClWauqkpzTPjgK
-#EXTINF:-1 tvg-name="India Tour Of Ireland 2026 - 1st T20i - Ireland Vs India" tvg-logo="" group-title="Cricket",India Tour Of Ireland 2026 - 1st T20i - Ireland Vs India
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fff0c88530698729506de226786a0ce2:473273ba6a5323ff4174a55ab2e3dfca
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wkyr0oiayl/out/v1/ab6df1604fe34712a1a5bc16cc8489c3/cenc.mpd
-#EXTINF:-1 tvg-name="New Zealand Tour Of England 2026 - 3rd Test - England Vs New Zealand" tvg-logo="" group-title="Cricket",New Zealand Tour Of England 2026 - 3rd Test - England Vs New Zealand
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a30b4c29151709f4878395d7246a150:825bd600ed2fa677195974879847a11e
-https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/nozef97xag/out/v1/d914986951c04c639cd7a6f67ab27dc5/cenc.mpd
 #EXTINF:-1 tvg-name="India Vs. Bangladesh" tvg-logo="" group-title="Cricket",India Vs. Bangladesh
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33
 https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/hmnd2wk12a/out/v1/c1c5dfe36aeb4547b8b50d5ad96c7a7e/cenc.mpd
-#EXTINF:-1 tvg-name="Flying Fire Delhi Chargers Vs Sonipat Kings" tvg-logo="" group-title="Cricket",Flying Fire Delhi Chargers Vs Sonipat Kings
-https://bd-mc-flive.fancode.com/mumbai/143555_english_hls_33ab03887046427_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782551949~_GO=Generated~acl=/mumbai/143555_english_hls_33ab03887046427_1ta-di_h264/*~Signature=ARZJ1WKG7lfCXa0UnzftxWyNX6CVhSo26hk6uYJLaIsTdDEaEZxpn0_ugmgL6q4B9Y36uKOl271p-6sjQX4MmkwGRhkL
 #EXTINF:-1 tvg-name="Singapore Vs Thailand" tvg-logo="" group-title="Cricket",Singapore Vs Thailand
 https://bd-mc-flive.fancode.com/mumbai/143550_english_hls_573cb7b5b941706_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782555544~_GO=Generated~acl=/mumbai/143550_english_hls_573cb7b5b941706_1ta-di_h264/*~Signature=ARZJ1WIwZxPQLhNxoaTywdDUy2BlNgVqPal-Cb6fT9CnFmWqc_CAkoVKVBi79hM7fDndxjgCc2DN9LOukMdROi-O3X0F
+#EXTINF:-1 tvg-name="New Zealand Tour Of England 2026 - 3rd Test - England Vs New Zealand" tvg-logo="" group-title="Cricket",New Zealand Tour Of England 2026 - 3rd Test - England Vs New Zealand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a30b4c29151709f4878395d7246a150:825bd600ed2fa677195974879847a11e
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/nozef97xag/out/v1/d914986951c04c639cd7a6f67ab27dc5/cenc.mpd
+#EXTINF:-1 tvg-name="India Tour Of Ireland 2026 - 1st T20i - Ireland Vs India" tvg-logo="" group-title="Cricket",India Tour Of Ireland 2026 - 1st T20i - Ireland Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fff0c88530698729506de226786a0ce2:473273ba6a5323ff4174a55ab2e3dfca
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wkyr0oiayl/out/v1/ab6df1604fe34712a1a5bc16cc8489c3/cenc.mpd
+#EXTINF:-1 tvg-name="Flying Fire Delhi Chargers Vs Sonipat Kings" tvg-logo="" group-title="Cricket",Flying Fire Delhi Chargers Vs Sonipat Kings
+https://bd-mc-flive.fancode.com/mumbai/143555_english_hls_33ab03887046427_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782551949~_GO=Generated~acl=/mumbai/143555_english_hls_33ab03887046427_1ta-di_h264/*~Signature=ARZJ1WKG7lfCXa0UnzftxWyNX6CVhSo26hk6uYJLaIsTdDEaEZxpn0_ugmgL6q4B9Y36uKOl271p-6sjQX4MmkwGRhkL
 #EXTINF:-1 tvg-name="India Vs Ireland" tvg-logo="" group-title="Cricket",India Vs Ireland
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60838a3176127fed0eaf038a5575de11:d14658a0ede94debcb4013b2056ba6d1
