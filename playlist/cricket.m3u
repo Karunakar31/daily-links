@@ -9,15 +9,15 @@ https://live.inplyr.com/room/139384.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-name="Bermuda Vs Brazil" tvg-logo="" group-title="Cricket",Bermuda Vs Brazil
+https://bd-mc-flive.fancode.com/mumbai/143292_english_hls_b8c9f1e18614963_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782669065~_GO=Generated~acl=/mumbai/143292_english_hls_b8c9f1e18614963_1ta-di_h264/*~Signature=ARZJ1WLpJL3rfb8Fs85K3vN13B-E31HANC3-aMlPyOfJvS3m6GnSy2TgfGXaENbroRcJGs0ay1brpQKqBX9Zj77wcv4F
+#EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="" group-title="Cricket",Sri Lanka Vs West Indies
+https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782683052~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/*~Signature=ARZJ1WKh-s37uAGJxODUyt5WS_dxCWV8VI8gkssqoLzfhSmHwnWE1yKqEHif9hXH9G_7Qg2gjrEf7Y1C0IQmWYJ4omIB
 #EXTINF:-1 tvg-name="India Vs Ireland" tvg-logo="" group-title="Cricket",India Vs Ireland
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60838a3176127fed0eaf038a5575de11:d14658a0ede94debcb4013b2056ba6d1
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
-#EXTINF:-1 tvg-name="Bermuda Vs Brazil" tvg-logo="" group-title="Cricket",Bermuda Vs Brazil
-https://bd-mc-flive.fancode.com/mumbai/143292_english_hls_b8c9f1e18614963_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782669065~_GO=Generated~acl=/mumbai/143292_english_hls_b8c9f1e18614963_1ta-di_h264/*~Signature=ARZJ1WLpJL3rfb8Fs85K3vN13B-E31HANC3-aMlPyOfJvS3m6GnSy2TgfGXaENbroRcJGs0ay1brpQKqBX9Zj77wcv4F
-#EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="" group-title="Cricket",Sri Lanka Vs West Indies
-https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782668229~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/*~Signature=ARZJ1WJbnFYOEF6Go_Ma9GtpRqQxdY0UNFQJFDOTeMVkpLb1ZMiWSiiRO5Q_Qs4vT3e7SCP1zImrcMA3z6-oCMpKqa4H
-#EXTINF:-1 tvg-name="England Vs. New Zealand" tvg-logo="" group-title="Cricket",England Vs. New Zealand
+#EXTINF:-1 tvg-name="Major League Cricket 2026 - 12th Match - Mi New York Vs Los Angeles Knight Riders" tvg-logo="" group-title="Cricket",Major League Cricket 2026 - 12th Match - Mi New York Vs Los Angeles Knight Riders
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5f1cc0a032196b308b0a54f1a32ef10b:08d8911aead804e7417da0b280e1110c
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nycwhuave7/out/v1/051d0b0ae17442c4b5636fc1c96b8e2f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=4efe3974fd23018c815a14d12fb03980:5b0bbfdae1b6245ea22653c34fa75471
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/naw2ujp0kp/out/v1/3860c899aeff494eaa813614df1382ce/cenc.mpd
