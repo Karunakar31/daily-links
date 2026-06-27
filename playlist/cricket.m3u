@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Mills Cricket Club Vs Hpca Patna" tvg-logo="" group-title="Cricket",Mills Cricket Club Vs Hpca Patna
-https://bd-mc-flive.fancode.com/mumbai/143523_english_hls_8a2dda769586109_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782616324~_GO=Generated~acl=/mumbai/143523_english_hls_8a2dda769586109_1ta-di_h264/*~Signature=ARZJ1WICbeeGugEPtvXYgXmWh-JHapOuPC0YW4kGDCLR5r8oxpxOJIQp8HjQRkQ42F8vA0-BThYCK-6uxYrFLhOAnNUA
+#EXTINF:-1 tvg-name="Pakistan Vs. Netherlands" tvg-logo="" group-title="Cricket",Pakistan Vs. Netherlands
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=15cb6a46b28fc380faab795e4ade11c7:bc0a81fd5fd0c056f0e25bea5a9deef1
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fpfokpwebt/out/v1/3c0e5eba7c4944298dc46b564a3226e1/cenc.mpd
+#EXTINF:-1 tvg-name="Itahari Super Kings Vs Rml Sports" tvg-logo="" group-title="Cricket",Itahari Super Kings Vs Rml Sports
+https://bd-mc-flive.fancode.com/mumbai/143524_english_hls_4cdc10756e30710_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782629885~_GO=Generated~acl=/mumbai/143524_english_hls_4cdc10756e30710_1ta-di_h264/*~Signature=ARZJ1WLSW3YEGYRlrbZwxbEF0UqmW0P8QPthxqU4Z4khrSu_-X3h3M8uEoPaWewAOHynJTDD3sI73-4_T9j-EFgJTyQB
+#EXTINF:-1 tvg-name="Namibia Vs Nigeria" tvg-logo="" group-title="Cricket",Namibia Vs Nigeria
+https://bd-mc-flive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782631147~_GO=Generated~acl=/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/*~Signature=ARZJ1WI7cZbrjhkg8ANqwQBpDJpxUSGkwtr9nSVEWYV0a5hXOeQqtjUdX198o407PyWTFVo-QMnt-f2DMF3bJTLOtE4G
 #EXTINF:-1 tvg-name="Netherlands Vs South Africa" tvg-logo="" group-title="Cricket",Netherlands Vs South Africa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
