@@ -1,17 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Kalyani Bengaluru Blasters" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Kalyani Bengaluru Blasters
-https://bd-mc-flive.fancode.com/mumbai/143427_english_hls_f0d21b9fd237474_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782636245~_GO=Generated~acl=/mumbai/143427_english_hls_f0d21b9fd237474_1ta-di_h264/*~Signature=ARZJ1WLuFKMu42yxSMwJ6baGHVzi_c5gv8ZjTgfYcZVWVm8KQ9fxGMFIrTaSOiS0JtyFt20U8pZe1wT1CEHiK3P_kn0L
-#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Kalyani Bengaluru Blasters" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Kalyani Bengaluru Blasters
-https://bd-mc-flive.fancode.com/mumbai/143427_kannada_hls_325eb2db9513560_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782636246~_GO=Generated~acl=/mumbai/143427_kannada_hls_325eb2db9513560_1ta-di_h264/*~Signature=ARZJ1WIi4t8S6YeUMZYSqon4wYAkhbbK4IYHT6pDyp91P79HaB2VfaonJslUkwWfQako6WzUKDZlWqMyAMf2hNrmxNAB
-#EXTINF:-1 tvg-name="Karim Capital Chargers Vs Jayqo Panthers Faridabad" tvg-logo="" group-title="Cricket",Karim Capital Chargers Vs Jayqo Panthers Faridabad
-https://bd-mc-flive.fancode.com/mumbai/143557_english_hls_ae6fcdfae786940_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782638344~_GO=Generated~acl=/mumbai/143557_english_hls_ae6fcdfae786940_1ta-di_h264/*~Signature=ARZJ1WIBS0RFXeBGy0SYS2hH-nP-9fWHn14MCLuXxOyyBiLc5vSATXUozMT2UwpqhABZyPA6mAuezBMhOTstBr2GCzYE
-#EXTINF:-1 tvg-name="Namibia Vs Nigeria" tvg-logo="" group-title="Cricket",Namibia Vs Nigeria
-https://bd-mc-flive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782645965~_GO=Generated~acl=/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/*~Signature=ARZJ1WLgrkunVvLxNFMNqkgFgtoBEjC_h6tstq3wzoewFeWhOFPMXYAwNU-k7FSg-InPpLDg9XWFIKa34Fb1JEWPLF8J
-#EXTINF:-1 tvg-name="New Zealand Tour Of England 2026 - 3rd Test - England Vs New Zealand" tvg-logo="" group-title="Cricket",New Zealand Tour Of England 2026 - 3rd Test - England Vs New Zealand
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a58eaea09c8159c8e4a3bea3064dfa3c:56b318070e628a9e3e7501392ef472a5
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h6yoxnltlz/out/v1/f8e35f2f8441467fafd4a5398a71ecbe/cenc.mpd
+#EXTINF:-1 tvg-name="Mysore Warriors Vs Gulbarga Mystics" tvg-logo="" group-title="Cricket",Mysore Warriors Vs Gulbarga Mystics
+https://bd-mc-flive.fancode.com/mumbai/143428_kannada_hls_c22c2ea29546644_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782652749~_GO=Generated~acl=/mumbai/143428_kannada_hls_c22c2ea29546644_1ta-di_h264/*~Signature=ARZJ1WKjclB7lwhFlnQ7-oBWqqrPyQpTVv10af1xxeP_0zFY6EETBC8XOMiEyqZWT0CjXg8CFMnowEzhTCFRtmON2AsF
 #EXTINF:-1 tvg-name="West Indies Vs. Ireland" tvg-logo="" group-title="Cricket",West Indies Vs. Ireland
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba814c82a2b000ea5fb210d2d6258942:3fc1f6f9c9135906d176b2b6e49590a9
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nsy1o0arb3/out/v1/c75901ad633e4c4b97712bfdd4251c9a/cenc.mpd
+#EXTINF:-1 tvg-name="New Zealand Tour Of England 2026 - 3rd Test - England Vs New Zealand" tvg-logo="" group-title="Cricket",New Zealand Tour Of England 2026 - 3rd Test - England Vs New Zealand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a58eaea09c8159c8e4a3bea3064dfa3c:56b318070e628a9e3e7501392ef472a5
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h6yoxnltlz/out/v1/f8e35f2f8441467fafd4a5398a71ecbe/cenc.mpd
+#EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="" group-title="Cricket",Sri Lanka Vs West Indies
+https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782653405~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/*~Signature=ARZJ1WK99VmSDvYB9sT-Ts6Kk7pZ7ecI37Q4kkx47t0GnsSGsWfqLAAzGHqPShjIoezjjcXEvuTqiwDn76vfGDxXW0oC
+#EXTINF:-1 tvg-name="Namibia Vs Nigeria" tvg-logo="" group-title="Cricket",Namibia Vs Nigeria
+https://bd-mc-flive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782660608~_GO=Generated~acl=/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/*~Signature=ARZJ1WIFFxvz1M5AtqLo8l3fc46SGAJJIi8BIYhmt1lvIbmF5YC985gGFmp6am7X9M83mkmSYX51BF6C-oHKKdJuwpEA
+#EXTINF:-1 tvg-name="Bahamas Vs Belize" tvg-logo="" group-title="Cricket",Bahamas Vs Belize
+https://bd-mc-flive.fancode.com/mumbai/143291_english_hls_99ccc73a6254743_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782652745~_GO=Generated~acl=/mumbai/143291_english_hls_99ccc73a6254743_1ta-di_h264/*~Signature=ARZJ1WL2kHU8NNbJloVFjvoQqn6rsBASYoP-LCSyQsk4q1timT9Ils-ODx5-_KkIMgVuDR1cHUydY4V2VNLk0MOF52wK
+#EXTINF:-1 tvg-name="Mysore Warriors Vs Gulbarga Mystics" tvg-logo="" group-title="Cricket",Mysore Warriors Vs Gulbarga Mystics
+https://bd-mc-flive.fancode.com/mumbai/143428_english_hls_93a969305e82200_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782652748~_GO=Generated~acl=/mumbai/143428_english_hls_93a969305e82200_1ta-di_h264/*~Signature=ARZJ1WIg7c_iEhRBTzqNp1ktMPLx-nlw6FMG2-M_PbMWk9AMaC6pzoDKYxbmqMko1DcwMLgoKGU5-6kJ8PpjKhYd7PoO
+#EXTINF:-1 tvg-name="Bahadurgarh Royals Vs Ddh Meerut Spartans" tvg-logo="" group-title="Cricket",Bahadurgarh Royals Vs Ddh Meerut Spartans
+https://bd-mc-flive.fancode.com/mumbai/143558_english_hls_98d768fa7665916_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782654664~_GO=Generated~acl=/mumbai/143558_english_hls_98d768fa7665916_1ta-di_h264/*~Signature=ARZJ1WLjWdlwofmytz8kjcAs7CMzKvwLoUXqbuVSaM9U2_tbQksWNY7ON9cb-ExQ76h7aKZ7fcN2Bcj7xvoNyXLBTKsM
