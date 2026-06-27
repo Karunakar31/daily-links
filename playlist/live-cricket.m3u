@@ -1,15 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Mysore Warriors Vs Gulbarga Mystics" tvg-logo="" group-title="Cricket",Mysore Warriors Vs Gulbarga Mystics
-https://bd-mc-flive.fancode.com/mumbai/143428_english_hls_93a969305e82200_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782652748~_GO=Generated~acl=/mumbai/143428_english_hls_93a969305e82200_1ta-di_h264/*~Signature=ARZJ1WIg7c_iEhRBTzqNp1ktMPLx-nlw6FMG2-M_PbMWk9AMaC6pzoDKYxbmqMko1DcwMLgoKGU5-6kJ8PpjKhYd7PoO
-#EXTINF:-1 tvg-name="New Zealand Tour Of England 2026 - 3rd Test - England Vs New Zealand" tvg-logo="" group-title="Cricket",New Zealand Tour Of England 2026 - 3rd Test - England Vs New Zealand
+#EXTINF:-1 tvg-name="Women's T20" tvg-logo="" group-title="Cricket",Women's T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a58eaea09c8159c8e4a3bea3064dfa3c:56b318070e628a9e3e7501392ef472a5
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h6yoxnltlz/out/v1/f8e35f2f8441467fafd4a5398a71ecbe/cenc.mpd
-#EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="" group-title="Cricket",Sri Lanka Vs West Indies
-https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782653405~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/*~Signature=ARZJ1WK99VmSDvYB9sT-Ts6Kk7pZ7ecI37Q4kkx47t0GnsSGsWfqLAAzGHqPShjIoezjjcXEvuTqiwDn76vfGDxXW0oC
-#EXTINF:-1 tvg-name="Bahamas Vs Belize" tvg-logo="" group-title="Cricket",Bahamas Vs Belize
-https://bd-mc-flive.fancode.com/mumbai/143291_english_hls_99ccc73a6254743_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782652745~_GO=Generated~acl=/mumbai/143291_english_hls_99ccc73a6254743_1ta-di_h264/*~Signature=ARZJ1WL2kHU8NNbJloVFjvoQqn6rsBASYoP-LCSyQsk4q1timT9Ils-ODx5-_KkIMgVuDR1cHUydY4V2VNLk0MOF52wK
+#KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-name="Test Vs Test" tvg-logo="" group-title="Cricket",Test Vs Test
+https://live.inplyr.com/room/139384.m3u8
+#EXTINF:-1 tvg-name="Test Vs Test" tvg-logo="" group-title="Cricket",Test Vs Test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-name="Mysore Warriors Vs Gulbarga Mystics" tvg-logo="" group-title="Cricket",Mysore Warriors Vs Gulbarga Mystics
-https://bd-mc-flive.fancode.com/mumbai/143428_kannada_hls_c22c2ea29546644_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782652749~_GO=Generated~acl=/mumbai/143428_kannada_hls_c22c2ea29546644_1ta-di_h264/*~Signature=ARZJ1WKjclB7lwhFlnQ7-oBWqqrPyQpTVv10af1xxeP_0zFY6EETBC8XOMiEyqZWT0CjXg8CFMnowEzhTCFRtmON2AsF
-#EXTINF:-1 tvg-name="Bahadurgarh Royals Vs Ddh Meerut Spartans" tvg-logo="" group-title="Cricket",Bahadurgarh Royals Vs Ddh Meerut Spartans
-https://bd-mc-flive.fancode.com/mumbai/143558_english_hls_98d768fa7665916_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782654664~_GO=Generated~acl=/mumbai/143558_english_hls_98d768fa7665916_1ta-di_h264/*~Signature=ARZJ1WLjWdlwofmytz8kjcAs7CMzKvwLoUXqbuVSaM9U2_tbQksWNY7ON9cb-ExQ76h7aKZ7fcN2Bcj7xvoNyXLBTKsM
+https://bd-mc-flive.fancode.com/mumbai/143428_english_hls_93a969305e82200_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782667572~_GO=Generated~acl=/mumbai/143428_english_hls_93a969305e82200_1ta-di_h264/*~Signature=ARZJ1WJfvhlbrAYk2h0g1OiX3Y8NE1egiTmYlR5ObEYns5kPPSIrsGK2oHaDIKaVLL3x-uPeLs2kv8ijGJcGpwkziLEO
+#EXTINF:-1 tvg-name="England Vs. New Zealand" tvg-logo="" group-title="Cricket",England Vs. New Zealand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f1cc0a032196b308b0a54f1a32ef10b:08d8911aead804e7417da0b280e1110c
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nycwhuave7/out/v1/051d0b0ae17442c4b5636fc1c96b8e2f/cenc.mpd
+#EXTINF:-1 tvg-name="India Vs Ireland" tvg-logo="" group-title="Cricket",India Vs Ireland
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60838a3176127fed0eaf038a5575de11:d14658a0ede94debcb4013b2056ba6d1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
+#EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="" group-title="Cricket",Sri Lanka Vs West Indies
+https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782668229~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/*~Signature=ARZJ1WJbnFYOEF6Go_Ma9GtpRqQxdY0UNFQJFDOTeMVkpLb1ZMiWSiiRO5Q_Qs4vT3e7SCP1zImrcMA3z6-oCMpKqa4H
+#EXTINF:-1 tvg-name="Mysore Warriors Vs Gulbarga Mystics" tvg-logo="" group-title="Cricket",Mysore Warriors Vs Gulbarga Mystics
+https://bd-mc-flive.fancode.com/mumbai/143428_kannada_hls_c22c2ea29546644_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782667573~_GO=Generated~acl=/mumbai/143428_kannada_hls_c22c2ea29546644_1ta-di_h264/*~Signature=ARZJ1WJ40_4yvBSGy0FZCssqsPmfz0u5lyS_e_bSAwLnRi-nCIPa4FeR6tw8-W95hiLjCQBaxuc-_nNpNsTK9OAprEkK
+#EXTINF:-1 tvg-name="Bermuda Vs Brazil" tvg-logo="" group-title="Cricket",Bermuda Vs Brazil
+https://bd-mc-flive.fancode.com/mumbai/143292_english_hls_b8c9f1e18614963_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782669065~_GO=Generated~acl=/mumbai/143292_english_hls_b8c9f1e18614963_1ta-di_h264/*~Signature=ARZJ1WLpJL3rfb8Fs85K3vN13B-E31HANC3-aMlPyOfJvS3m6GnSy2TgfGXaENbroRcJGs0ay1brpQKqBX9Zj77wcv4F
