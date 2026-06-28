@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Women's T20" tvg-logo="" group-title="Cricket",Women's T20
+#EXTINF:-1 tvg-name="Major League Cricket 2026 - 13th Match - Washington Freedom Vs Texas Super Kings" tvg-logo="" group-title="Cricket",Major League Cricket 2026 - 13th Match - Washington Freedom Vs Texas Super Kings
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="" group-title="Cricket",Sri Lanka Vs West Indies
-https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782683052~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/*~Signature=ARZJ1WKh-s37uAGJxODUyt5WS_dxCWV8VI8gkssqoLzfhSmHwnWE1yKqEHif9hXH9G_7Qg2gjrEf7Y1C0IQmWYJ4omIB
+#KODIPROP:inputstream.adaptive.license_key=dc736ed6f946b2dc2306251f44cc0859:be6032330791ba97bfeace844ce2abb6
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iwul0rynej/out/v1/81a7c51f0dcb41c7bf837c02449b46c8/cenc.mpd
+#EXTINF:-1 tvg-name="Chhinnamasta Lions Vs Kcc" tvg-logo="" group-title="Cricket",Chhinnamasta Lions Vs Kcc
+https://bd-mc-flive.fancode.com/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782701884~_GO=Generated~acl=/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/*~Signature=ARZJ1WJnzNf97KUNgHcHEmwujKBuQek1I_a0k5W1NZhqhgqK4X4bBIbWdD_YdJ7bs7ockVLEqLVI7Gt_h9TJvPCxdj4I
 #EXTINF:-1 tvg-name="India Vs Ireland" tvg-logo="" group-title="Cricket",India Vs Ireland
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60838a3176127fed0eaf038a5575de11:d14658a0ede94debcb4013b2056ba6d1
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
-#EXTINF:-1 tvg-name="Major League Cricket 2026 - 12th Match - Mi New York Vs Los Angeles Knight Riders" tvg-logo="" group-title="Cricket",Major League Cricket 2026 - 12th Match - Mi New York Vs Los Angeles Knight Riders
+#EXTINF:-1 tvg-name="Women's T20" tvg-logo="" group-title="Cricket",Women's T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4efe3974fd23018c815a14d12fb03980:5b0bbfdae1b6245ea22653c34fa75471
-https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/naw2ujp0kp/out/v1/3860c899aeff494eaa813614df1382ce/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
