@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Major League Cricket 2026 - 13th Match - Washington Freedom Vs Texas Super Kings" tvg-logo="" group-title="Cricket",Major League Cricket 2026 - 13th Match - Washington Freedom Vs Texas Super Kings
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc736ed6f946b2dc2306251f44cc0859:be6032330791ba97bfeace844ce2abb6
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iwul0rynej/out/v1/81a7c51f0dcb41c7bf837c02449b46c8/cenc.mpd
 #EXTINF:-1 tvg-name="Chhinnamasta Lions Vs Kcc" tvg-logo="" group-title="Cricket",Chhinnamasta Lions Vs Kcc
 https://bd-mc-flive.fancode.com/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782701884~_GO=Generated~acl=/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/*~Signature=ARZJ1WJnzNf97KUNgHcHEmwujKBuQek1I_a0k5W1NZhqhgqK4X4bBIbWdD_YdJ7bs7ockVLEqLVI7Gt_h9TJvPCxdj4I
