@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="" group-title="Cricket",Sri Lanka Vs West Indies
+https://bd-mc-fblive.fancode.com/mumbai/142978_english_hls_84812121a177224_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Australia Vs. India" tvg-logo="" group-title="Cricket",Australia Vs. India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72d7ef3f0057150c0dca2cd74dbfd8bf:1dfdf16e3e483ea953cadb74d48de95a
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/9zm2lgklpu/out/v1/260e09111f1c41f2a985c96787453c78/cenc.mpd
 #EXTINF:-1 tvg-name="India Tour Of Ireland 2026 - 2nd T20i - Ireland Vs India" tvg-logo="" group-title="Cricket",India Tour Of Ireland 2026 - 2nd T20i - Ireland Vs India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a2433a92dedb0c0c1d7cdc1b5bd8d1b:b78e03fc79ff67f1d68d34a1f0d161b9
@@ -7,5 +13,5 @@ https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 https://bd-mc-flive.fancode.com/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782731105~_GO=Generated~acl=/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/*~Signature=ARZJ1WIXxPRrwRMWjCPiKVQW0N17EVSgSFeDK30KVu9zLQgrQ7bJFec0Wk3KvENLLvH7Dcg_4P3EAAZKWpGkUeyIB3wL
 #EXTINF:-1 tvg-name="Hpca Patna Vs Itahari Super Kings" tvg-logo="" group-title="Cricket",Hpca Patna Vs Itahari Super Kings
 https://bd-mc-flive.fancode.com/mumbai/143526_english_hls_db9de2d14225533_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782731107~_GO=Generated~acl=/mumbai/143526_english_hls_db9de2d14225533_1ta-di_h264/*~Signature=ARZJ1WI1LfDI6wAEvlagylMGKAkmZiqQ1GMTW0uTtcHOgextIxjCSj-YqyjmRj7yJGXkKkV9g98-pWZ6vWFUz0WIIg8E
-#EXTINF:-1 tvg-name="Ka Noida Blaze Vs Bahadurgarh Royals" tvg-logo="" group-title="Cricket",Ka Noida Blaze Vs Bahadurgarh Royals
-https://bd-mc-flive.fancode.com/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782724744~_GO=Generated~acl=/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/*~Signature=ARZJ1WJK1bqZ-5TdW5zihYybiZFcE7kSgiddoxlQZMUK3wBk13a7WlZ052MiRcFG-2ls6CoNJt83hkX6kSgL1sBlfMwO
+#EXTINF:-1 tvg-name="Sonipat Kings Vs Karim Capital Chargers" tvg-logo="" group-title="Cricket",Sonipat Kings Vs Karim Capital Chargers
+https://bd-mc-fblive.fancode.com/mumbai/143560_english_hls_8bc7c79dec49321_1ta-di_h264/1080p5.m3u8

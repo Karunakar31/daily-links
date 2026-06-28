@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Australia Vs. India" tvg-logo="" group-title="Cricket",Australia Vs. India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72d7ef3f0057150c0dca2cd74dbfd8bf:1dfdf16e3e483ea953cadb74d48de95a
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/9zm2lgklpu/out/v1/260e09111f1c41f2a985c96787453c78/cenc.mpd
 #EXTINF:-1 tvg-name="India Tour Of Ireland 2026 - 2nd T20i - Ireland Vs India" tvg-logo="" group-title="Cricket",India Tour Of Ireland 2026 - 2nd T20i - Ireland Vs India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a2433a92dedb0c0c1d7cdc1b5bd8d1b:b78e03fc79ff67f1d68d34a1f0d161b9
