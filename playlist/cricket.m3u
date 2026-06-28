@@ -1,24 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="South Africa Vs. Bangladesh" tvg-logo="" group-title="Cricket",South Africa Vs. Bangladesh
+#EXTINF:-1 tvg-name="India Tour Of Ireland 2026 - 2nd T20i - Ireland Vs India" tvg-logo="" group-title="Cricket",India Tour Of Ireland 2026 - 2nd T20i - Ireland Vs India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b0834782ca43719ac4088e9b1e360578:df228a7544f6e6d9b9fc8dea82205daa
-https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/t1pm3hqfu8/out/v1/bf8327889d3648f4993d38fee45e6925/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=3a2433a92dedb0c0c1d7cdc1b5bd8d1b:b78e03fc79ff67f1d68d34a1f0d161b9
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/j9ltx4zek5/out/v1/5bb73ac9fa904dcfafc4972c496d831b/cenc.mpd
 #EXTINF:-1 tvg-name="Bangladesh Vs Zimbabwe" tvg-logo="" group-title="Cricket",Bangladesh Vs Zimbabwe
-https://bd-mc-flive.fancode.com/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782716284~_GO=Generated~acl=/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/*~Signature=ARZJ1WI0oHIlu9ux0LZs_OgDYv8k0JKFoZOzDzNjmbfVLi8X1txxbDwCV-kzAa0Jd368o8EvwGJmvMGEwneA9e_K-18M
+https://bd-mc-flive.fancode.com/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782731105~_GO=Generated~acl=/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/*~Signature=ARZJ1WIXxPRrwRMWjCPiKVQW0N17EVSgSFeDK30KVu9zLQgrQ7bJFec0Wk3KvENLLvH7Dcg_4P3EAAZKWpGkUeyIB3wL
 #EXTINF:-1 tvg-name="Hpca Patna Vs Itahari Super Kings" tvg-logo="" group-title="Cricket",Hpca Patna Vs Itahari Super Kings
-https://bd-mc-flive.fancode.com/mumbai/143526_english_hls_db9de2d14225533_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782716291~_GO=Generated~acl=/mumbai/143526_english_hls_db9de2d14225533_1ta-di_h264/*~Signature=ARZJ1WIaFYPbscEAECWLPCCPci9cfn994mX9Jwd9wcOak16GCM8ajDCejLNOeyfUpXIBIW4NzSu5rUllvw6E6iXp9pAN
-#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Coastal Kings Mangaluru" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Coastal Kings Mangaluru
-https://bd-mc-flive.fancode.com/mumbai/143429_english_hls_1ed5ff498a67607_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782717545~_GO=Generated~acl=/mumbai/143429_english_hls_1ed5ff498a67607_1ta-di_h264/*~Signature=ARZJ1WL3bVuwn4LS4VdEuJkBTzVHiRLUzViO9iRVtIawGJl03p_J5WahSSNI7HYToD9smcgvAKtEll2O9tcRdfCvcoMC
-#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Coastal Kings Mangaluru" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Coastal Kings Mangaluru
-https://bd-mc-flive.fancode.com/mumbai/143429_kannada_hls_8d818b743139276_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782717545~_GO=Generated~acl=/mumbai/143429_kannada_hls_8d818b743139276_1ta-di_h264/*~Signature=ARZJ1WK45Uc7MIqc-l8b-SGSWp7_akFRXSYC1CCjml3iNk8ZOVpN9Ju9Y8Ye0UaMU-drs5dS8H9l6qyiG8G1-96p74kC
+https://bd-mc-flive.fancode.com/mumbai/143526_english_hls_db9de2d14225533_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782731107~_GO=Generated~acl=/mumbai/143526_english_hls_db9de2d14225533_1ta-di_h264/*~Signature=ARZJ1WI1LfDI6wAEvlagylMGKAkmZiqQ1GMTW0uTtcHOgextIxjCSj-YqyjmRj7yJGXkKkV9g98-pWZ6vWFUz0WIIg8E
 #EXTINF:-1 tvg-name="Ka Noida Blaze Vs Bahadurgarh Royals" tvg-logo="" group-title="Cricket",Ka Noida Blaze Vs Bahadurgarh Royals
 https://bd-mc-flive.fancode.com/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782724744~_GO=Generated~acl=/mumbai/143559_english_hls_783146fb4d13330_1ta-di_h264/*~Signature=ARZJ1WJK1bqZ-5TdW5zihYybiZFcE7kSgiddoxlQZMUK3wBk13a7WlZ052MiRcFG-2ls6CoNJt83hkX6kSgL1sBlfMwO
+#EXTINF:-1 tvg-name="Bangladesh Vs Zimbabwe" tvg-logo="" group-title="Cricket",Bangladesh Vs Zimbabwe
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="Women's T20" tvg-logo="" group-title="Cricket",Women's T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-name="Bangladesh Vs Zimbabwe" tvg-logo="" group-title="Cricket",Bangladesh Vs Zimbabwe
-https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-name="India Vs Ireland" tvg-logo="" group-title="Cricket",India Vs Ireland
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60838a3176127fed0eaf038a5575de11:d14658a0ede94debcb4013b2056ba6d1
