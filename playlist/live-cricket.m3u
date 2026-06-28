@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Major League Cricket 2026 - 14th Match - Los Angeles Knight Riders Vs Seattle Orcas" tvg-logo="" group-title="Cricket",Major League Cricket 2026 - 14th Match - Los Angeles Knight Riders Vs Seattle Orcas
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=455826bfdc678b8c01ec3411ac8fbb1d:8e2ffa88a2e3994dd9bcef1d598978df
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jmstp8nvrw/out/v1/52e62cdb3f6f4fd59a62716eedb03005/cenc.mpd
 #EXTINF:-1 tvg-name="Women's T20" tvg-logo="" group-title="Cricket",Women's T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
