@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Major League Cricket 2026 - 15th Match - San Francisco Unicorns Vs Washington Freedom" tvg-logo="" group-title="Cricket",Major League Cricket 2026 - 15th Match - San Francisco Unicorns Vs Washington Freedom
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b28e49d4e74f33c1f23dcf259205c618:977f6bb2d526755a623382e845da589b
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/89ab95gaiw/out/v1/35f97c3a3148420fbcacaca0cb994e00/cenc.mpd
+#EXTINF:-1 tvg-name="Rml Sports Vs Chhinnamasta Lions" tvg-logo="" group-title="Cricket",Rml Sports Vs Chhinnamasta Lions
+https://bd-mc-flive.fancode.com/mumbai/143528_english_hls_baa6c8889f44908_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782803107~_GO=Generated~acl=/mumbai/143528_english_hls_baa6c8889f44908_1ta-di_h264/*~Signature=ARZJ1WKDw7pLI4z56-PcoBmoHW00xjHDaM0RqH5pHDUzf1desNXSZlz3RaRfO8zet6jsVm5cFsUhX7f-bZ_rfeL5i7IN
+#EXTINF:-1 tvg-name="Bangladesh Vs Zimbabwe" tvg-logo="" group-title="Cricket",Bangladesh Vs Zimbabwe
+https://bd-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a93451_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Namibia Vs Nigeria" tvg-logo="" group-title="Cricket",Namibia Vs Nigeria
+https://bd-mc-flive.fancode.com/mumbai/143322_english_hls_d21ab22f2a73237_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782803945~_GO=Generated~acl=/mumbai/143322_english_hls_d21ab22f2a73237_1ta-di_h264/*~Signature=ARZJ1WJYMjDChagHwabdQr800HfNtl3mPdYVo-CtJdRa3Ns0wQnGn25tfeCVDhFvU3dbNukmo4IY3ORFODU3DvFoT60E
+#EXTINF:-1 tvg-name="Gulbarga Mystics Vs Hubli Tigers" tvg-logo="" group-title="Cricket",Gulbarga Mystics Vs Hubli Tigers
+https://bd-mc-flive.fancode.com/mumbai/143430_english_hls_80662356e938144_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782807545~_GO=Generated~acl=/mumbai/143430_english_hls_80662356e938144_1ta-di_h264/*~Signature=ARZJ1WIieTThchoGbxPDu4RjFJbN5TTH8Xy-HHmFuACP-eCqBLxOKxgUxRaFEXctYU-9zF764OkrVfRfKLcWZQGzz-MH
+#EXTINF:-1 tvg-name="Gulbarga Mystics Vs Hubli Tigers" tvg-logo="" group-title="Cricket",Gulbarga Mystics Vs Hubli Tigers
+https://bd-mc-flive.fancode.com/mumbai/143430_kannada_hls_5cd563ffa616634_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782807546~_GO=Generated~acl=/mumbai/143430_kannada_hls_5cd563ffa616634_1ta-di_h264/*~Signature=ARZJ1WJhQR4QCcbb97j_AYCxHggPd3v_aN5XjP_48JhLtAwk3s1CGrzol81lfTMKMVBCJDBnY7C-RCohKfB4LckXnRAP

@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Major League Cricket 2026 - 15th Match - San Francisco Unicorns Vs Washington Freedom" tvg-logo="" group-title="Cricket",Major League Cricket 2026 - 15th Match - San Francisco Unicorns Vs Washington Freedom
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b28e49d4e74f33c1f23dcf259205c618:977f6bb2d526755a623382e845da589b
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/89ab95gaiw/out/v1/35f97c3a3148420fbcacaca0cb994e00/cenc.mpd
+#EXTINF:-1 tvg-name="Rml Sports Vs Chhinnamasta Lions" tvg-logo="" group-title="Cricket",Rml Sports Vs Chhinnamasta Lions
+https://bd-mc-flive.fancode.com/mumbai/143528_english_hls_baa6c8889f44908_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782803107~_GO=Generated~acl=/mumbai/143528_english_hls_baa6c8889f44908_1ta-di_h264/*~Signature=ARZJ1WKDw7pLI4z56-PcoBmoHW00xjHDaM0RqH5pHDUzf1desNXSZlz3RaRfO8zet6jsVm5cFsUhX7f-bZ_rfeL5i7IN
 #EXTINF:-1 tvg-name="Bangladesh Vs Zimbabwe" tvg-logo="" group-title="Cricket",Bangladesh Vs Zimbabwe
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
+https://bd-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a93451_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Namibia Vs Nigeria" tvg-logo="" group-title="Cricket",Namibia Vs Nigeria
+https://bd-mc-flive.fancode.com/mumbai/143322_english_hls_d21ab22f2a73237_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782803945~_GO=Generated~acl=/mumbai/143322_english_hls_d21ab22f2a73237_1ta-di_h264/*~Signature=ARZJ1WJYMjDChagHwabdQr800HfNtl3mPdYVo-CtJdRa3Ns0wQnGn25tfeCVDhFvU3dbNukmo4IY3ORFODU3DvFoT60E
+#EXTINF:-1 tvg-name="Gulbarga Mystics Vs Hubli Tigers" tvg-logo="" group-title="Cricket",Gulbarga Mystics Vs Hubli Tigers
+https://bd-mc-flive.fancode.com/mumbai/143430_english_hls_80662356e938144_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782807545~_GO=Generated~acl=/mumbai/143430_english_hls_80662356e938144_1ta-di_h264/*~Signature=ARZJ1WIieTThchoGbxPDu4RjFJbN5TTH8Xy-HHmFuACP-eCqBLxOKxgUxRaFEXctYU-9zF764OkrVfRfKLcWZQGzz-MH
+#EXTINF:-1 tvg-name="Gulbarga Mystics Vs Hubli Tigers" tvg-logo="" group-title="Cricket",Gulbarga Mystics Vs Hubli Tigers
+https://bd-mc-flive.fancode.com/mumbai/143430_kannada_hls_5cd563ffa616634_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782807546~_GO=Generated~acl=/mumbai/143430_kannada_hls_5cd563ffa616634_1ta-di_h264/*~Signature=ARZJ1WJhQR4QCcbb97j_AYCxHggPd3v_aN5XjP_48JhLtAwk3s1CGrzol81lfTMKMVBCJDBnY7C-RCohKfB4LckXnRAP
 #EXTINF:-1 tvg-name="Women's T20" tvg-logo="" group-title="Cricket",Women's T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-name="Bangladesh Vs Zimbabwe" tvg-logo="" group-title="Cricket",Bangladesh Vs Zimbabwe
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Bangladesh Vs Zimbabwe" tvg-logo="" group-title="Cricket",Bangladesh Vs Zimbabwe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6425ac4c0cdf906fe0cce5cf40dc8933:d7d78ea2021a29541136bd5dc8352fe7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd
