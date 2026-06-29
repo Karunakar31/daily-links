@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Rml Sports Vs Chhinnamasta Lions" tvg-logo="" group-title="Cricket",Rml Sports Vs Chhinnamasta Lions
-https://bd-mc-flive.fancode.com/mumbai/143528_english_hls_baa6c8889f44908_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782803107~_GO=Generated~acl=/mumbai/143528_english_hls_baa6c8889f44908_1ta-di_h264/*~Signature=ARZJ1WKDw7pLI4z56-PcoBmoHW00xjHDaM0RqH5pHDUzf1desNXSZlz3RaRfO8zet6jsVm5cFsUhX7f-bZ_rfeL5i7IN
 #EXTINF:-1 tvg-name="Bangladesh Vs Zimbabwe" tvg-logo="" group-title="Cricket",Bangladesh Vs Zimbabwe
 https://bd-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a93451_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Rml Sports Vs Chhinnamasta Lions" tvg-logo="" group-title="Cricket",Rml Sports Vs Chhinnamasta Lions
+https://bd-mc-flive.fancode.com/mumbai/143528_english_hls_baa6c8889f44908_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782803107~_GO=Generated~acl=/mumbai/143528_english_hls_baa6c8889f44908_1ta-di_h264/*~Signature=ARZJ1WKDw7pLI4z56-PcoBmoHW00xjHDaM0RqH5pHDUzf1desNXSZlz3RaRfO8zet6jsVm5cFsUhX7f-bZ_rfeL5i7IN
 #EXTINF:-1 tvg-name="Namibia Vs Nigeria" tvg-logo="" group-title="Cricket",Namibia Vs Nigeria
 https://bd-mc-flive.fancode.com/mumbai/143322_english_hls_d21ab22f2a73237_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782803945~_GO=Generated~acl=/mumbai/143322_english_hls_d21ab22f2a73237_1ta-di_h264/*~Signature=ARZJ1WJYMjDChagHwabdQr800HfNtl3mPdYVo-CtJdRa3Ns0wQnGn25tfeCVDhFvU3dbNukmo4IY3ORFODU3DvFoT60E
 #EXTINF:-1 tvg-name="Gulbarga Mystics Vs Hubli Tigers" tvg-logo="" group-title="Cricket",Gulbarga Mystics Vs Hubli Tigers
 https://bd-mc-flive.fancode.com/mumbai/143430_english_hls_80662356e938144_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782807545~_GO=Generated~acl=/mumbai/143430_english_hls_80662356e938144_1ta-di_h264/*~Signature=ARZJ1WIieTThchoGbxPDu4RjFJbN5TTH8Xy-HHmFuACP-eCqBLxOKxgUxRaFEXctYU-9zF764OkrVfRfKLcWZQGzz-MH
 #EXTINF:-1 tvg-name="Gulbarga Mystics Vs Hubli Tigers" tvg-logo="" group-title="Cricket",Gulbarga Mystics Vs Hubli Tigers
 https://bd-mc-flive.fancode.com/mumbai/143430_kannada_hls_5cd563ffa616634_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782807546~_GO=Generated~acl=/mumbai/143430_kannada_hls_5cd563ffa616634_1ta-di_h264/*~Signature=ARZJ1WJhQR4QCcbb97j_AYCxHggPd3v_aN5XjP_48JhLtAwk3s1CGrzol81lfTMKMVBCJDBnY7C-RCohKfB4LckXnRAP
+#EXTINF:-1 tvg-name="Aca Gurugram Vipers Vs Ddh Meerut Spartans" tvg-logo="" group-title="Cricket",Aca Gurugram Vipers Vs Ddh Meerut Spartans
+https://bd-mc-flive.fancode.com/mumbai/143561_english_hls_bf5edbec5f19891_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782811145~_GO=Generated~acl=/mumbai/143561_english_hls_bf5edbec5f19891_1ta-di_h264/*~Signature=ARZJ1WLL49lLLste_T3QHM7wX9AFISS0MacUo8biD0FK3To4ZAmOiiPTdgpzk66TjBnCx3_y_ZkhoAeFIArXwjzaxCcI
+#EXTINF:-1 tvg-name="England Vs New Zealand | 3Rd Test" tvg-logo="" group-title="Cricket",England Vs New Zealand | 3Rd Test
+https://livecdn-bp-iptv.rumsport7.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=a74bedc41da45aae7e86de77a052856003f2b3fc&x-sign=b8c4532f7fb2dbd2df33c62d0f1851a8&x-time=1782731820
+#EXTINF:-1 tvg-name="England Vs New Zealand | 3Rd Test" tvg-logo="" group-title="Cricket",England Vs New Zealand | 3Rd Test
+https://iframe.rumsport10.live/
+#EXTINF:-1 tvg-name="Bangladesh Vs Zimbabwe" tvg-logo="" group-title="Cricket",Bangladesh Vs Zimbabwe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bbee6c9c20a0f065bf8369d54cbf83e:709c812e1b4174002605df1d17d34a4c
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
