@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Bangladesh Vs Zimbabwe" tvg-logo="" group-title="Cricket",Bangladesh Vs Zimbabwe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bbee6c9c20a0f065bf8369d54cbf83e:709c812e1b4174002605df1d17d34a4c
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 #EXTINF:-1 tvg-name="Women'S T20" tvg-logo="" group-title="Cricket",Women'S T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
