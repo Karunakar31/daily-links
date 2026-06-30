@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bangladesh Vs Zimbabwe" tvg-logo="" group-title="Cricket",Bangladesh Vs Zimbabwe
-https://bd-mc-flive.fancode.com/mumbai/143399_english_hls_b76266f66a18138_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782903908~_GO=Generated~acl=/mumbai/143399_english_hls_b76266f66a18138_1ta-di_h264/*~Signature=ARZJ1WK1atNpH2_NQfMfqbohfqaaTis1MTXTYrQJGQkq5eRch8XMGkzltPfbms0UaCgmNDf3ryLQhQsjdbBaA4zolJIL
-#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Gulbarga Mystics" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Gulbarga Mystics
-https://bd-mc-flive.fancode.com/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782893944~_GO=Generated~acl=/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/*~Signature=ARZJ1WIikpxZrQAJQ_RbLJ-YlDHvB1EC4ztBp5AaNYdbwDrjK5B4bIw1ZzHdZ_XdTYwacfz2t2xca9tpL6vnm0JjHToB
-#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Gulbarga Mystics" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Gulbarga Mystics
-https://bd-mc-flive.fancode.com/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782893945~_GO=Generated~acl=/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/*~Signature=ARZJ1WKaboBGbkIAqNfW2OAkWHfAwg5R60Spj0mwHPB6EpZJovl5i8LJenGuecsw0ejyybYks5QUqhUrK2qxz7WIWHEN
-#EXTINF:-1 tvg-name="Ddh Meerut Spartans Vs Sonipat Kings" tvg-logo="" group-title="Cricket",Ddh Meerut Spartans Vs Sonipat Kings
-https://bd-mc-flive.fancode.com/mumbai/143563_english_hls_b94f832e0619846_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782897125~_GO=Generated~acl=/mumbai/143563_english_hls_b94f832e0619846_1ta-di_h264/*~Signature=ARZJ1WK-ccw8wYa5FTA-3Z-sS2oMZKupvYppIo7VcEhqa-AdCq9mfKkYLToRmqy0hYeFbMzzqmAq5auJp0yHRXw-CGgP
+#EXTINF:-1 tvg-name="Mysore Warriors Vs Coastal Kings Mangaluru" tvg-logo="" group-title="Cricket",Mysore Warriors Vs Coastal Kings Mangaluru
+https://bd-mc-flive.fancode.com/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782911945~_GO=Generated~acl=/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/*~Signature=ARZJ1WJRJiQsxa14498Z8VpAjFbq4o2vbCSvjpRCc_U5xCTnN6G-b64072f8--Y4npmHd44ladmbXdCudsazk2I2-RcA
+#EXTINF:-1 tvg-name="Mysore Warriors Vs Coastal Kings Mangaluru" tvg-logo="" group-title="Cricket",Mysore Warriors Vs Coastal Kings Mangaluru
+https://bd-mc-flive.fancode.com/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782911946~_GO=Generated~acl=/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/*~Signature=ARZJ1WKlpqjAydIHD5Fu0XefGsllZcswX0b4TrrpHr6Ubd0RIQSas_KjB-bHfP2Xp0scQ-l5U8jwhJieS7Y97b7BHlYB
+#EXTINF:-1 tvg-name="Karim Capital Chargers Vs Ka Noida Blaze" tvg-logo="" group-title="Cricket",Karim Capital Chargers Vs Ka Noida Blaze
+https://bd-mc-flive.fancode.com/mumbai/143565_english_hls_108c4c28d252719_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782913444~_GO=Generated~acl=/mumbai/143565_english_hls_108c4c28d252719_1ta-di_h264/*~Signature=ARZJ1WIgVhNqWWhwZU4EmNCHJePp2jKZnBF9d2FUc7a51fCt_FtAP49DWrUQ2BiVsTMruP61ppaXGyWlMI2na9CyH9IA
 #EXTINF:-1 tvg-name="Bangladesh Vs Zimbabwe" tvg-logo="" group-title="Cricket",Bangladesh Vs Zimbabwe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bbee6c9c20a0f065bf8369d54cbf83e:709c812e1b4174002605df1d17d34a4c
@@ -15,3 +13,7 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-name="Australia Vs. West Indies" tvg-logo="" group-title="Cricket",Australia Vs. West Indies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a3043c3e12a8ff1f06eb68094225ea4:14b6bad42a42e707e89b9be2cb88e63a
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/rquannm6kn/out/v1/96ada7c3e2c64821b78ebd08a4e68780/cenc.mpd
