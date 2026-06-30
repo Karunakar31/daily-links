@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kcc Vs Hpca Patna" tvg-logo="" group-title="Cricket",Kcc Vs Hpca Patna
-https://bd-mc-flive.fancode.com/mumbai/143529_english_hls_0bfff8dcbe29211_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782874686~_GO=Generated~acl=/mumbai/143529_english_hls_0bfff8dcbe29211_1ta-di_h264/*~Signature=ARZJ1WIA-eq_AJRPfJHDU0j6yowMKj_hpW8ZdQv8eBOqVlkR108j534Aj-79ZUnzxYltRxi0E8FIQUj5JTfYOs9LP24M
+#EXTINF:-1 tvg-name="Bangladesh Vs Zimbabwe" tvg-logo="" group-title="Cricket",Bangladesh Vs Zimbabwe
+https://bd-mc-flive.fancode.com/mumbai/143399_english_hls_b76266f66a18138_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782889085~_GO=Generated~acl=/mumbai/143399_english_hls_b76266f66a18138_1ta-di_h264/*~Signature=ARZJ1WKHvy6dkbSqI6l2uPoPUvzVTiFa4rLXI78NPSVhQRLqX4XQjbdZNBsLsu7LiKqtGfm5cPPmarISLfW5p-P8SBAO
+#EXTINF:-1 tvg-name="Chhinnamasta Lions Vs Mills Cricket Club" tvg-logo="" group-title="Cricket",Chhinnamasta Lions Vs Mills Cricket Club
+https://bd-mc-flive.fancode.com/mumbai/143530_english_hls_822f667fad19409_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782889507~_GO=Generated~acl=/mumbai/143530_english_hls_822f667fad19409_1ta-di_h264/*~Signature=ARZJ1WJXzdPCaMO8FP-A0sab4-U0V_UBUnF2EOFOKvBv323LjE6A-OCLVw38Z72EIziaZZtcNgsafK6IhY7P-FceCu8B
+#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Gulbarga Mystics" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Gulbarga Mystics
+https://bd-mc-flive.fancode.com/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782893944~_GO=Generated~acl=/mumbai/143432_english_hls_028a82bb8b91389_1ta-di_h264/*~Signature=ARZJ1WIikpxZrQAJQ_RbLJ-YlDHvB1EC4ztBp5AaNYdbwDrjK5B4bIw1ZzHdZ_XdTYwacfz2t2xca9tpL6vnm0JjHToB
+#EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Gulbarga Mystics" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Gulbarga Mystics
+https://bd-mc-flive.fancode.com/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782893945~_GO=Generated~acl=/mumbai/143432_kannada_hls_2c1758bd4d94595_1ta-di_h264/*~Signature=ARZJ1WKaboBGbkIAqNfW2OAkWHfAwg5R60Spj0mwHPB6EpZJovl5i8LJenGuecsw0ejyybYks5QUqhUrK2qxz7WIWHEN
+#EXTINF:-1 tvg-name="Bangladesh Vs Zimbabwe" tvg-logo="" group-title="Cricket",Bangladesh Vs Zimbabwe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bbee6c9c20a0f065bf8369d54cbf83e:709c812e1b4174002605df1d17d34a4c
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
