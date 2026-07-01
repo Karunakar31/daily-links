@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Karim Capital Chargers Vs Ddh Meerut Spartans" tvg-logo="" group-title="Cricket",Karim Capital Chargers Vs Ddh Meerut Spartans
 https://bd-mc-fblive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/1080p5.m3u8
+#EXTINF:-1 tvg-name="India Tour Of England 2026 - 1St T20I - England Vs India" tvg-logo="" group-title="Cricket",India Tour Of England 2026 - 1St T20I - England Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c60f5b5e6e8ad2d163532250859723b:cb11a5f25b5baded086a2e7a046b9b02
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rk7p7dafl0/out/v1/ffc1c57edf814108953aa0992b3145ff/cenc.mpd
 #EXTINF:-1 tvg-name="Women'S T20" tvg-logo="" group-title="Cricket",Women'S T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
