@@ -1,8 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Itahari Super Kings Vs Kcc" tvg-logo="" group-title="Cricket",Itahari Super Kings Vs Kcc
-https://bd-mc-flive.fancode.com/mumbai/143533_english_hls_648a64787183033_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783047906~_GO=Generated~acl=/mumbai/143533_english_hls_648a64787183033_1ta-di_h264/*~Signature=Ac2BFekDsppyzvcEBdeGykW7m-0qdV4sk_XWpK3GuW1n1IUdhd3ddwvv9ejznQV5iQqJLP199f5bP5NKPOhWUBcxM1gI
-#EXTINF:-1 tvg-name="Bost Defenders Vs Amo Sharks" tvg-logo="" group-title="Cricket",Bost Defenders Vs Amo Sharks
-https://bd-mc-flive.fancode.com/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783053142~_GO=Generated~acl=/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/*~Signature=Ac2BFekyHH9fXdiRsW23BesOe1vYRYdkSYA-bOpOmsXVgvgPq8Nm_2enIfNFoa6kqXfLmzbnFb9-i1PXuGkK8GTYh1MM
+#EXTINF:-1 tvg-name="Rml Sports Vs Hpca Patna" tvg-logo="" group-title="Cricket",Rml Sports Vs Hpca Patna
+https://bd-mc-fblive.fancode.com/mumbai/143534_english_hls_d0a522383192555_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Namibia Vs Vidarbha" tvg-logo="" group-title="Cricket",Namibia Vs Vidarbha
+https://bd-mc-flive.fancode.com/mumbai/143628_english_hls_4858d9f01888431_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783063145~_GO=Generated~acl=/mumbai/143628_english_hls_4858d9f01888431_1ta-di_h264/*~Signature=Ac2BFenbIHYTYsOCry4dym0ndQ4Ip1J-uOkWTThB3WWwPbFM9ZbSbxdPrOPy9pvk_2BWoLTSlRpbfL_1P3nPmIrod0wK
+#EXTINF:-1 tvg-name="Hubli Tigers Vs Mysore Warriors" tvg-logo="" group-title="Cricket",Hubli Tigers Vs Mysore Warriors
+https://bd-mc-flive.fancode.com/mumbai/143435_english_hls_153f10942e29431_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783066745~_GO=Generated~acl=/mumbai/143435_english_hls_153f10942e29431_1ta-di_h264/*~Signature=Ac2BFenNMUsxN_9KVFCajhs2MvbzoFc32MmADXVDppUGWcMeF9xsmbTixrY24Hp0Lb47ZWwEc3oS-9m8eFNbWfTUI7oD
+#EXTINF:-1 tvg-name="Hubli Tigers Vs Mysore Warriors" tvg-logo="" group-title="Cricket",Hubli Tigers Vs Mysore Warriors
+https://bd-mc-flive.fancode.com/mumbai/143435_kannada_hls_75b6b759c882991_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783066746~_GO=Generated~acl=/mumbai/143435_kannada_hls_75b6b759c882991_1ta-di_h264/*~Signature=Ac2BFeljuaApOVxYJAfsfnhD7aFXkxYdjxDikwMYlK7TjJ24WJdzUyEbf3UbYdNs9auKZfx1r77U0DKZl_ezYDPfrX8M
+#EXTINF:-1 tvg-name="Speen Ghar Tigers Vs Band E Amir Dragons" tvg-logo="" group-title="Cricket",Speen Ghar Tigers Vs Band E Amir Dragons
+https://bd-mc-flive.fancode.com/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783070345~_GO=Generated~acl=/mumbai/143585_english_hls_4e8ffcea2f96048_1ta-di_h264/*~Signature=Ac2BFek2f3KVJnmeAHp7vDEo4kg5WF9n34t98TKmW--8GwkuD03y0RSjpJT15u9TA0w6xlhC71WXMRC1z2L4l2LOarkC
 #EXTINF:-1 tvg-name="Women'S T20" tvg-logo="" group-title="Cricket",Women'S T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
