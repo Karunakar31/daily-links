@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kcc Vs Rml Sports" tvg-logo="" group-title="Cricket",Kcc Vs Rml Sports
-https://bd-mc-fblive.fancode.com/mumbai/143538_english_hls_4aa183e4be91805_1ta-di_h264/1080p.m3u8
 #EXTINF:-1 tvg-name="Namibia Vs Vidarbha" tvg-logo="" group-title="Cricket",Namibia Vs Vidarbha
 https://bd-mc-flive.fancode.com/mumbai/143629_english_hls_b52f22df0521309_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783251007~_GO=Generated~acl=/mumbai/143629_english_hls_b52f22df0521309_1ta-di_h264/*~Signature=Ac2BFenZCY0aqmoDq4b42DsCYuepRkIGZkcVOAwxcgHyk0dg0ebPiHGr0rEDSafnlyxzhZy8_QUVPNIncAZdE_QQhhAB
 #EXTINF:-1 tvg-name="Mis E Ainak Knights Vs Amo Sharks" tvg-logo="" group-title="Cricket",Mis E Ainak Knights Vs Amo Sharks
-https://bd-mc-flive.fancode.com/mumbai/143588_english_hls_f77d103b6628288_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783243142~_GO=Generated~acl=/mumbai/143588_english_hls_f77d103b6628288_1ta-di_h264/*~Signature=Ac2BFenl-T_tYJMXoaP3ePIXMWkoJNF8GydonoYd1UYu1s8oMOn_eGh_CH96Qwoa8rsDnPqF9rvvpoN6ly-eeq8SykII
+https://bd-mc-fblive.fancode.com/mumbai/143588_english_hls_f77d103b6628288_1ta-di_h264/1080p.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="" group-title="Cricket",Sri Lanka Vs West Indies
-https://bd-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783251010~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFekH1fy5iAjE5JLeOW2Bit6-bPn35iZSi5hOl2i5qEc03cV-MoIoINy4giINBBJMP5nst-1spQQ2My5YHAQIVVMC
+https://bd-mc-plive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783257971~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d328674_1ta-di_h264/*~Signature=Ac2BFenq5bnPCVSN4copurzHcZjNYtlsqOg_uN8IrwLNB2unOJoNTZQjFwwh9cY_N5vdNbzX6zqVoObF9Xb9CLPRoooB
+#EXTINF:-1 tvg-name="India Tour Of England 2026 - 2Nd T20I - England Vs India" tvg-logo="" group-title="Cricket",India Tour Of England 2026 - 2Nd T20I - England Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3340fb32568e2b78910762e4d7454993:1c3bf53d188425d2e105e8b1df15236b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qtq2yrmgxq/out/v1/c9f90a4d66634748a5345d9f418680d2/cenc.mpd
