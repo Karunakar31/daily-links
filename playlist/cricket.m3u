@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sri Lanka Vs West Indies" tvg-logo="" group-title="Cricket",Sri Lanka Vs West Indies
-https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783344602~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/*~Signature=Ac2BFenx8w5eidFF-FOORh9GtSzvQ7IW0e0DW_SvHJJ9yJh-EGFYJ3om2yp_iLIv1hVYPXmbI-boDsIP2zsohAhQYA8P
+https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783359423~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/*~Signature=Ac2BFek3tb6Pcwl6LbLd2s-a-tSS0QAFh1poVbe8o5k3KsTk8EUQQxl_fFbUJaqvt_VRmLLI1M2KW1Ysg2LHvmv8grsO
 #EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Hubli Tigers" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Hubli Tigers
-https://bd-mc-fblive.fancode.com/mumbai/143440_english_hls_d3de1f1b5d70043_1ta-di_h264/1080p.m3u8
+https://bd-mc-flive.fancode.com/mumbai/143440_english_hls_d3de1f1b5d70043_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783360686~_GO=Generated~acl=/mumbai/143440_english_hls_d3de1f1b5d70043_1ta-di_h264/*~Signature=Ac2BFenxMyKHC61FeOioVTJ-Kg1M2Xm4rNO_naZsiboHTdZdwfWdQmg5yudXvBIcTz3kNPVefEG2aFWqKvtYXfgq8ScB
 #EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Hubli Tigers" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Hubli Tigers
-https://bd-mc-fblive.fancode.com/mumbai/143440_kannada_hls_24cbed10b577951_1ta-di_h264/1080p.m3u8
+https://bd-mc-flive.fancode.com/mumbai/143440_kannada_hls_24cbed10b577951_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783360687~_GO=Generated~acl=/mumbai/143440_kannada_hls_24cbed10b577951_1ta-di_h264/*~Signature=Ac2BFekcZ7YxC4uj303eLHBinONKJ-nzECo5bihigTqnvXW-UgXjLIwi9yOcaQCZsUs2VsaY8o1C-lHqDlZuT1OfqzQI
 #EXTINF:-1 tvg-name="Women'S T20" tvg-logo="" group-title="Cricket",Women'S T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
