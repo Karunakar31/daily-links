@@ -5,3 +5,7 @@ https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di
 https://bd-mc-fblive.fancode.com/mumbai/143440_english_hls_d3de1f1b5d70043_1ta-di_h264/1080p.m3u8
 #EXTINF:-1 tvg-name="Shivamogga Yodhas Vs Hubli Tigers" tvg-logo="" group-title="Cricket",Shivamogga Yodhas Vs Hubli Tigers
 https://bd-mc-fblive.fancode.com/mumbai/143440_kannada_hls_24cbed10b577951_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Women'S T20" tvg-logo="" group-title="Cricket",Women'S T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
