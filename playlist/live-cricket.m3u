@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Speen Ghar Tigers Vs Amo Sharks" tvg-logo="" group-title="Cricket",Speen Ghar Tigers Vs Amo Sharks
-https://bd-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe Vs Bangladesh" tvg-logo="" group-title="Cricket",Zimbabwe Vs Bangladesh
+https://bd-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Coastal Kings Mangaluru Vs Shivamogga Yodhas" tvg-logo="" group-title="Cricket",Coastal Kings Mangaluru Vs Shivamogga Yodhas
+https://bd-mc-fblive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Coastal Kings Mangaluru Vs Shivamogga Yodhas" tvg-logo="" group-title="Cricket",Coastal Kings Mangaluru Vs Shivamogga Yodhas
+https://bd-mc-fblive.fancode.com/mumbai/143447_kannada_hls_98d44a642796169_1ta-di_h264/1080p.m3u8
