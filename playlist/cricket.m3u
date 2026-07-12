@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Denmark Vs Norway" tvg-logo="" group-title="Cricket",Denmark Vs Norway
-https://bd-mc-fblive.fancode.com/mumbai/4246564_english_hls_f13b9ce7c52853_1ta-di_h264/1080p.m3u8
-#EXTINF:-1 tvg-name="Belgium Vs Romania" tvg-logo="" group-title="Cricket",Belgium Vs Romania
-https://bd-mc-fblive.fancode.com/mumbai/4246572_english_hls_d0e7f1832947483_1ta-di_h264/1080p.m3u8
 #EXTINF:-1 tvg-name="Ireland Women Vs West Indies Women" tvg-logo="" group-title="Cricket",Ireland Women Vs West Indies Women
 https://bd-mc-fblive.fancode.com/mumbai/143144_english_hls_51d512ae5181283_1ta-di_h264/1080p.m3u8
-#EXTINF:-1 tvg-name="Amo Sharks Vs Bost Defenders" tvg-logo="" group-title="Cricket",Amo Sharks Vs Bost Defenders
-https://bd-mc-flive.fancode.com/mumbai/143601_english_hls_97fa4a63d720451_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783934343~_GO=Generated~acl=/mumbai/143601_english_hls_97fa4a63d720451_1ta-di_h264/*~Signature=AfBeBzhrOj51pSNd3148ZPqRUWoAnEEt-sIUsgaVKMdIOWHgKCK82D-wRysK5BmBFLwhlwWscM_of_xo_C3K-NaiVYQK
+#EXTINF:-1 tvg-name="Gibraltar Vs Serbia" tvg-logo="" group-title="Cricket",Gibraltar Vs Serbia
+https://bd-mc-fblive.fancode.com/mumbai/4246574_english_hls_b7547ab9e227143_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Hungary Vs Turkiye" tvg-logo="" group-title="Cricket",Hungary Vs Turkiye
+https://bd-mc-fblive.fancode.com/mumbai/4246575_english_hls_86789841a782595_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Kalyani Bengaluru Blasters Vs Shivamogga Yodhas" tvg-logo="" group-title="Cricket",Kalyani Bengaluru Blasters Vs Shivamogga Yodhas
+https://bd-mc-fblive.fancode.com/mumbai/143448_english_hls_fd9231845c10462_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Kalyani Bengaluru Blasters Vs Shivamogga Yodhas" tvg-logo="" group-title="Cricket",Kalyani Bengaluru Blasters Vs Shivamogga Yodhas
+https://bd-mc-fblive.fancode.com/mumbai/143448_kannada_hls_ef6cda7e1f9624_1ta-di_h264/1080p.m3u8
