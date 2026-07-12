@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Speen Ghar Tigers Vs Mis E Ainak Knights" tvg-logo="" group-title="Cricket",Speen Ghar Tigers Vs Mis E Ainak Knights
-https://bd-mc-flive.fancode.com/mumbai/143600_english_hls_73f1f8258776109_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783916342~_GO=Generated~acl=/mumbai/143600_english_hls_73f1f8258776109_1ta-di_h264/*~Signature=AfBeBzjzgrSxuUa2WTUn0Ffz3XZFTCqHE2xifKt_JRyOiUaF0ZWwIUiXklN8k5XsZMlf0l_U2G7LzanetvqDTmUA1gMJ
+#EXTINF:-1 tvg-name="Denmark Vs Norway" tvg-logo="" group-title="Cricket",Denmark Vs Norway
+https://bd-mc-fblive.fancode.com/mumbai/4246564_english_hls_f13b9ce7c52853_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Belgium Vs Romania" tvg-logo="" group-title="Cricket",Belgium Vs Romania
+https://bd-mc-fblive.fancode.com/mumbai/4246572_english_hls_d0e7f1832947483_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Ireland Women Vs West Indies Women" tvg-logo="" group-title="Cricket",Ireland Women Vs West Indies Women
+https://bd-mc-fblive.fancode.com/mumbai/143144_english_hls_51d512ae5181283_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Amo Sharks Vs Bost Defenders" tvg-logo="" group-title="Cricket",Amo Sharks Vs Bost Defenders
+https://bd-mc-flive.fancode.com/mumbai/143601_english_hls_97fa4a63d720451_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783934343~_GO=Generated~acl=/mumbai/143601_english_hls_97fa4a63d720451_1ta-di_h264/*~Signature=AfBeBzhrOj51pSNd3148ZPqRUWoAnEEt-sIUsgaVKMdIOWHgKCK82D-wRysK5BmBFLwhlwWscM_of_xo_C3K-NaiVYQK
