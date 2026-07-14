@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Serbia Vs Estonia" tvg-logo="" group-title="Cricket",Serbia Vs Estonia
-https://bd-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/1080p.m3u8
-#EXTINF:-1 tvg-name="Belgium Vs Hungary" tvg-logo="" group-title="Cricket",Belgium Vs Hungary
-https://bd-mc-fblive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/1080p.m3u8
-#EXTINF:-1 tvg-name="Mis E Ainak Knights Vs Band E Amir Dragons" tvg-logo="" group-title="Cricket",Mis E Ainak Knights Vs Band E Amir Dragons
-https://bd-mc-flive.fancode.com/mumbai/143695_english_hls_cb0018fc8896337_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784107145~_GO=Generated~acl=/mumbai/143695_english_hls_cb0018fc8896337_1ta-di_h264/*~Signature=AfBeBzgZ6AOq1oNTeJgLpG5RJtluz1eWPrMUdGB3hgPq7oc2DxRZvw-_8x7NtRkV7FeX9iojhPWVwEIndjDbLWxljk4I
+#EXTINF:-1 tvg-name="Romania Vs Denmark" tvg-logo="" group-title="Cricket",Romania Vs Denmark
+https://bd-mc-flive.fancode.com/mumbai/4246579_english_hls_78a94cde5b4791_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784121550~_GO=Generated~acl=/mumbai/4246579_english_hls_78a94cde5b4791_1ta-di_h264/*~Signature=AfBeBzjpPe0PdNHm1kGrvFY-LqwF-QLqAEKJjjZOSWEDHscleDUmYVdu4ykd_bgCmhsYciNqzJRAe0FbDRKj0bdIJ3wI
+#EXTINF:-1 tvg-name="Gibraltar Vs Norway" tvg-logo="" group-title="Cricket",Gibraltar Vs Norway
+https://bd-mc-flive.fancode.com/mumbai/4246580_english_hls_17fa61633d77094_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784121551~_GO=Generated~acl=/mumbai/4246580_english_hls_17fa61633d77094_1ta-di_h264/*~Signature=AfBeBzitzUe_j6cpiRU4if1bWCpq6nz9SReUmCjSt2PVdQ36VaiRVV6KUu7Mx_fvxFvCCXI1Yv4FFLXsnMq0fh_xHH4E
