@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bost Defenders Vs Speen Ghar Tigers" tvg-logo="" group-title="Cricket",Bost Defenders Vs Speen Ghar Tigers
-https://bd-mc-flive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784089145~_GO=Generated~acl=/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/*~Signature=AfBeBzhjBQBgBiAkpxt4oZbcabinVzRqlr9BYjuIEVbtimQjO8JQn303fxwlIz2Dk4nQSBBCjXDrryZiGNeV7NmTU7QN
+#EXTINF:-1 tvg-name="Serbia Vs Estonia" tvg-logo="" group-title="Cricket",Serbia Vs Estonia
+https://bd-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Belgium Vs Hungary" tvg-logo="" group-title="Cricket",Belgium Vs Hungary
+https://bd-mc-fblive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/1080p.m3u8
