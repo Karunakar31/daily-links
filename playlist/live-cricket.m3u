@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Southern Brave Vs Welsh Fire - Women" tvg-logo="" group-title="Cricket",Southern Brave Vs Welsh Fire - Women
+#EXTINF:-1 tvg-name="Southern Brave Vs Welsh Fire" tvg-logo="" group-title="Cricket",Southern Brave Vs Welsh Fire
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="Ea Sports Fc 26 - Day 1" tvg-logo="" group-title="Cricket",Ea Sports Fc 26 - Day 1
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-name="Galle Gallants Vs Dambulla Sixers" tvg-logo="" group-title="Cricket",Galle Gallants Vs Dambulla Sixers
-https://bd-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8
