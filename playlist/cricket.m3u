@@ -1,9 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="London Spirit Vs Manchester Super Giants" tvg-logo="" group-title="Cricket",London Spirit Vs Manchester Super Giants
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="Ea Sports Fc 26 - Day 2" tvg-logo="" group-title="Cricket",Ea Sports Fc 26 - Day 2
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-name="Nepal Vs Netherlands" tvg-logo="" group-title="Cricket",Nepal Vs Netherlands
-https://bd-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Galle Gallants Vs Jaffna Kings" tvg-logo="" group-title="Cricket",Galle Gallants Vs Jaffna Kings
-https://bd-mc-pdlive.fancode.com/mumbai/4246716_english_hls_71735fd3b99618_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Lahore Qalandars Vs Perth Scorchers Xi" tvg-logo="" group-title="Cricket",Lahore Qalandars Vs Perth Scorchers Xi
-https://bd-mc-pdlive.fancode.com/mumbai/4247434_english_hls_93200e1fa585360_1ta-di_h264/index.m3u8
