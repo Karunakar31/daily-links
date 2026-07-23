@@ -1,11 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sri Lanka Women Vs Pakistan Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs Pakistan Women
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-name="Uzbekistan Vs Kazakhstan" tvg-logo="" group-title="Cricket",Uzbekistan Vs Kazakhstan
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka Women Vs Pakistan Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs Pakistan Women
-https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Nepal Vs Netherlands" tvg-logo="" group-title="Cricket",Nepal Vs Netherlands
 https://bd-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Kandy Royals Vs Colombo Kaps" tvg-logo="" group-title="Cricket",Kandy Royals Vs Colombo Kaps
+#EXTINF:-1 tvg-name="Colombo Kaps Vs Kandy Royals" tvg-logo="" group-title="Cricket",Colombo Kaps Vs Kandy Royals
 https://bd-mc-pdlive.fancode.com/mumbai/4246723_english_hls_315eea1bdd6419_1ta-di_h264/index.m3u8
