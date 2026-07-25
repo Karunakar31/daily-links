@@ -1,2 +1,5 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-name="Territory Tourers Race 1 Live" tvg-logo="" group-title="Cricket",Territory Tourers Race 1 Live
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
+#EXTINF:-1 tvg-name="Malaysia Xi Vs Sea Hawks Cricket Club" tvg-logo="" group-title="Cricket",Malaysia Xi Vs Sea Hawks Cricket Club
+https://bd-mc-pdlive.fancode.com/mumbai/4247198_english_hls_4e2b6a33c555878_1ta-di_h264/index.m3u8
