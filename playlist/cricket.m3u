@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sunrisers Leeds Vs Southern Brave - Women" tvg-logo="" group-title="Cricket",Sunrisers Leeds Vs Southern Brave - Women
+#EXTINF:-1 tvg-name="Sunrisers Leeds Vs Southern Brave" tvg-logo="" group-title="Cricket",Sunrisers Leeds Vs Southern Brave
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-name="Women'S Semi Final A Session - World Championships Kaunas, Lithuania Live" tvg-logo="" group-title="Cricket",Women'S Semi Final A Session - World Championships Kaunas, Lithuania Live
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka Women Vs Pakistan Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs Pakistan Women
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="" group-title="Cricket",West Indies Vs Pakistan
+https://saseries.akamaized.net/hls/live/2110097/PAKvsWI-TesT-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="Ea Sports Fc 26 - Day 4" tvg-logo="" group-title="Cricket",Ea Sports Fc 26 - Day 4
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-#EXTINF:-1 tvg-name="Pakistan Women Vs Sri Lanka Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Sri Lanka Women
-https://bd-mc-pdlive.fancode.com/mumbai/4247426_english_hls_65d82e3e4c86377_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Galle Gallants Vs Kandy Royals" tvg-logo="" group-title="Cricket",Galle Gallants Vs Kandy Royals
+#EXTINF:-1 tvg-name="Kandy Royals Vs Galle Gallants" tvg-logo="" group-title="Cricket",Kandy Royals Vs Galle Gallants
 https://bd-mc-pdlive.fancode.com/mumbai/4246722_english_hls_dbf98ca42d71277_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Zim Vs Ind" tvg-logo="" group-title="Cricket",Zim Vs Ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
