@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Territory Tourers Race 2 Live" tvg-logo="" group-title="Cricket",Territory Tourers Race 2 Live
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-name="Jean Vs Musaev" tvg-logo="" group-title="Cricket",Jean Vs Musaev
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BK-TesT/master.m3u8
+#EXTINF:-1 tvg-name="Monochrome Gt4 Australia Series Race 2 Live" tvg-logo="" group-title="Cricket",Monochrome Gt4 Australia Series Race 2 Live
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Desert Vipers" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs Desert Vipers
 https://bd-mc-pdlive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="" group-title="Cricket",West Indies Vs Pakistan
