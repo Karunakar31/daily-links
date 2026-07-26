@@ -1,16 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="" group-title="Cricket",West Indies Vs Pakistan
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-name="Trent Rockets Vs London Spirit" tvg-logo="" group-title="Cricket",Trent Rockets Vs London Spirit
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-name="Ea Sports Fc 26 - Day 5" tvg-logo="" group-title="Cricket",Ea Sports Fc 26 - Day 5
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="" group-title="Cricket",West Indies Vs Pakistan
 https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Galle Gallants Vs Dambulla Sixers" tvg-logo="" group-title="Cricket",Galle Gallants Vs Dambulla Sixers
-https://bd-mc-pdlive.fancode.com/mumbai/4246713_english_hls_17e2efa8db87720_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="San Francisco Unicorns Vs Perth Scorchers Xi" tvg-logo="" group-title="Cricket",San Francisco Unicorns Vs Perth Scorchers Xi
-https://bd-mc-pdlive.fancode.com/mumbai/4247431_english_hls_2e615b273261719_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Zim Vs Ind" tvg-logo="" group-title="Cricket",Zim Vs Ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
