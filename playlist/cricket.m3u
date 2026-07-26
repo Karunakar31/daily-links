@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kazakhstan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Kazakhstan Vs Sri Lanka
+#EXTINF:-1 tvg-name="Nepal Vs Bangladesh" tvg-logo="" group-title="Cricket",Nepal Vs Bangladesh
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-name="Zim Vs Ind" tvg-logo="" group-title="Cricket",Zim Vs Ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
