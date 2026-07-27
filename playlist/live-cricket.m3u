@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Women'S Final Session - Wc Kaunas, Lithuania Live" tvg-logo="" group-title="Cricket",Women'S Final Session - Wc Kaunas, Lithuania Live
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-name="Bangladesh Vs Sri Lanka" tvg-logo="" group-title="Cricket",Bangladesh Vs Sri Lanka
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-name="Pakistan Vs Kazakhstan" tvg-logo="" group-title="Cricket",Pakistan Vs Kazakhstan
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-name="Namibia Vs Nepal" tvg-logo="" group-title="Cricket",Namibia Vs Nepal
+https://bd-mc-pdlive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Zim Vs Ind" tvg-logo="" group-title="Cricket",Zim Vs Ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
