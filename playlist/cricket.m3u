@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Pakistan Vs Kazakhstan" tvg-logo="" group-title="Cricket",Pakistan Vs Kazakhstan
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="" group-title="Cricket",West Indies Vs Pakistan
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Southern Brave Vs Mi London - Women" tvg-logo="" group-title="Cricket",Southern Brave Vs Mi London - Women
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="" group-title="Cricket",West Indies Vs Pakistan
+https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb21080_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Namibia Vs Nepal" tvg-logo="" group-title="Cricket",Namibia Vs Nepal
 https://bd-mc-pdlive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Zim Vs Ind" tvg-logo="" group-title="Cricket",Zim Vs Ind
