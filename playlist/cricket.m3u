@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Lahore Qalandars" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs Lahore Qalandars
 https://bd-mc-pdlive.fancode.com/mumbai/4247433_english_hls_690410566e43491_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="" group-title="Cricket",West Indies Vs Pakistan
-https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Zim Vs Ind" tvg-logo="" group-title="Cricket",Zim Vs Ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
