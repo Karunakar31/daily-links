@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="" group-title="Cricket",West Indies Vs Pakistan
-https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb21080_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="San Francisco Unicorns Vs Desert Vipers" tvg-logo="" group-title="Cricket",San Francisco Unicorns Vs Desert Vipers
+https://bd-mc-pdlive.fancode.com/mumbai/4247440_english_hls_4a73bf788950453_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Malaysia Xi Vs Sea Hawks Cricket Club" tvg-logo="" group-title="Cricket",Malaysia Xi Vs Sea Hawks Cricket Club
+https://bd-mc-pdlive.fancode.com/mumbai/4247199_english_hls_fafdc64d5b45648_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Zim Vs Ind" tvg-logo="" group-title="Cricket",Zim Vs Ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
