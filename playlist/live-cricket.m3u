@@ -1,5 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="" group-title="Cricket",West Indies Vs Pakistan
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Sunrisers Leeds Vs Manchester Super Giants - Women" tvg-logo="" group-title="Cricket",Sunrisers Leeds Vs Manchester Super Giants - Women
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-name="Colombo Kaps Vs Jaffna Kings" tvg-logo="" group-title="Cricket",Colombo Kaps Vs Jaffna Kings
+https://bd-mc-pdlive.fancode.com/mumbai/4246727_english_hls_1455c8dfec73022_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="" group-title="Cricket",West Indies Vs Pakistan
 https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58378_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Zim Vs Ind" tvg-logo="" group-title="Cricket",Zim Vs Ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
