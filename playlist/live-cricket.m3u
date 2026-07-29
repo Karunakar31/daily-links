@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Desert Vipers Vs Perth Scorchers Xi" tvg-logo="" group-title="Cricket",Desert Vipers Vs Perth Scorchers Xi
+#EXTINF:-1 tvg-name="Perth Scorchers Xi Vs Desert Vipers" tvg-logo="" group-title="Cricket",Perth Scorchers Xi Vs Desert Vipers
 https://bd-mc-pdlive.fancode.com/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Zim Vs Ind" tvg-logo="" group-title="Cricket",Zim Vs Ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
