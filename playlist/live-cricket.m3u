@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Uzbekistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Uzbekistan Vs Sri Lanka
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-name="Welsh Fire Vs Trent Rockets - Women" tvg-logo="" group-title="Cricket",Welsh Fire Vs Trent Rockets - Women
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-name="Pakistan Vs Bangladesh" tvg-logo="" group-title="Cricket",Pakistan Vs Bangladesh
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-name="Netherlands Vs Nepal" tvg-logo="" group-title="Cricket",Netherlands Vs Nepal
+https://bd-mc-pdlive.fancode.com/mumbai/4246708_english_hls_ea32c4304326061_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Galle Gallants Vs Kandy Royals" tvg-logo="" group-title="Cricket",Galle Gallants Vs Kandy Royals
+https://bd-mc-pdlive.fancode.com/mumbai/4246726_english_hls_44910f186893977_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Zim Vs Ind" tvg-logo="" group-title="Cricket",Zim Vs Ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
