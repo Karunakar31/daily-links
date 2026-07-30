@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sri Lankan Lions Vs Afghanistan Pathans" tvg-logo="" group-title="Cricket",Sri Lankan Lions Vs Afghanistan Pathans
-https://bd-mc-pdlive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Jaffna Kings Vs Kandy Royals" tvg-logo="" group-title="Cricket",Jaffna Kings Vs Kandy Royals
-https://bd-mc-pdlive.fancode.com/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Southern Brave Vs Birmingham Pheonix" tvg-logo="" group-title="Cricket",Southern Brave Vs Birmingham Pheonix
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="Gsl Vs Gsl" tvg-logo="" group-title="Cricket",Gsl Vs Gsl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5022e0919cc89dcace126f9ea8391c30:01c9d354104c7c68be179a6e12f1b89c
