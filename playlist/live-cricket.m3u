@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Ceremonial Weigh-In" tvg-logo="" group-title="Cricket",Ceremonial Weigh-In
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-name="Gsl Vs Gsl" tvg-logo="" group-title="Cricket",Gsl Vs Gsl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5022e0919cc89dcace126f9ea8391c30:01c9d354104c7c68be179a6e12f1b89c
