@@ -1,47 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Malaysia Xi Vs Sea Hawks Cricket Club" tvg-logo="" group-title="Cricket",Malaysia Xi Vs Sea Hawks Cricket Club
 https://bd-mc-pdlive.fancode.com/mumbai/4247200_english_hls_defd7e75088821_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Zim Vs Ind" tvg-logo="" group-title="Cricket",Zim Vs Ind
+#EXTINF:-1 tvg-name="Gsl Vs Gsl" tvg-logo="" group-title="Cricket",Gsl Vs Gsl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|Origin=https://www.primevideo.com&user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-name="Zim Vs Ind" tvg-logo="" group-title="Cricket",Zim Vs Ind
+#KODIPROP:inputstream.adaptive.license_key=5022e0919cc89dcace126f9ea8391c30:01c9d354104c7c68be179a6e12f1b89c
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k6ytnnvpku/out/v1/7389c6f858bd4980b5af3d4b54c62164/cenc.mpd
+#EXTINF:-1 tvg-name="Gsl Vs Gsl" tvg-logo="" group-title="Cricket",Gsl Vs Gsl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-name="Zim Vs Ind" tvg-logo="" group-title="Cricket",Zim Vs Ind
+#KODIPROP:inputstream.adaptive.license_key=5022e0919cc89dcace126f9ea8391c30:01c9d354104c7c68be179a6e12f1b89c
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Gsl Vs Gsl" tvg-logo="" group-title="Cricket",Gsl Vs Gsl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd|Origin=https://www.primevideo.com&user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-name="Zim Vs Ind" tvg-logo="" group-title="Cricket",Zim Vs Ind
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://du63lhrf9y1yb.cloudfront.net/143351_hindi_hls_e275e99cda1596_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Zim Vs Ind" tvg-logo="" group-title="Cricket",Zim Vs Ind
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://du63lhrf9y1yb.cloudfront.net/143351_english_hls_e275e99cda1596_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Zim Vs Ind" tvg-logo="" group-title="Cricket",Zim Vs Ind
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://bd-mc-pdlive.fancode.com/mumbai/143351_english_hls_7119dc88e319837_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-name="Zim Vs Ind" tvg-logo="" group-title="Cricket",Zim Vs Ind
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-name="Zim Vs Ind" tvg-logo="" group-title="Cricket",Zim Vs Ind
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-name="Sl-W Vs Pak-W" tvg-logo="" group-title="Cricket",Sl-W Vs Pak-W
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-name="Sl-W Vs Pak-W" tvg-logo="" group-title="Cricket",Sl-W Vs Pak-W
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-name="Sl-W Vs Pak-W" tvg-logo="" group-title="Cricket",Sl-W Vs Pak-W
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+#KODIPROP:inputstream.adaptive.license_key=5022e0919cc89dcace126f9ea8391c30:01c9d354104c7c68be179a6e12f1b89c
 http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="Gsl Vs Gsl" tvg-logo="" group-title="Cricket",Gsl Vs Gsl
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5022e0919cc89dcace126f9ea8391c30:01c9d354104c7c68be179a6e12f1b89c
+https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
+#EXTINF:-1 tvg-name="Gsl Vs Gsl" tvg-logo="" group-title="Cricket",Gsl Vs Gsl
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5022e0919cc89dcace126f9ea8391c30:01c9d354104c7c68be179a6e12f1b89c
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k6ytnnvpku/out/v1/7389c6f858bd4980b5af3d4b54c62164/cenc.mpd
