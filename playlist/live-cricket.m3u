@@ -1,21 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Gsl Vs Gsl" tvg-logo="" group-title="Cricket",Gsl Vs Gsl
+#EXTINF:-1 tvg-name="Sri Lanka Women Vs Pakistan Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs Pakistan Women
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-name="Pakistan Women Vs Sri Lanka Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Sri Lanka Women
+https://bd-mc-pdlive.fancode.com/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Sl-W Vs Pak-W" tvg-logo="" group-title="Cricket",Sl-W Vs Pak-W
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5022e0919cc89dcace126f9ea8391c30:01c9d354104c7c68be179a6e12f1b89c
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k6ytnnvpku/out/v1/7389c6f858bd4980b5af3d4b54c62164/cenc.mpd
-#EXTINF:-1 tvg-name="Gsl Vs Gsl" tvg-logo="" group-title="Cricket",Gsl Vs Gsl
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Sl-W Vs Pak-W" tvg-logo="" group-title="Cricket",Sl-W Vs Pak-W
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5022e0919cc89dcace126f9ea8391c30:01c9d354104c7c68be179a6e12f1b89c
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-name="Gsl Vs Gsl" tvg-logo="" group-title="Cricket",Gsl Vs Gsl
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
+#EXTINF:-1 tvg-name="Sl-W Vs Pak-W" tvg-logo="" group-title="Cricket",Sl-W Vs Pak-W
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5022e0919cc89dcace126f9ea8391c30:01c9d354104c7c68be179a6e12f1b89c
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-name="Gsl Vs Gsl" tvg-logo="" group-title="Cricket",Gsl Vs Gsl
+#EXTINF:-1 tvg-name="Sl-W Vs Pak-W" tvg-logo="" group-title="Cricket",Sl-W Vs Pak-W
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5022e0919cc89dcace126f9ea8391c30:01c9d354104c7c68be179a6e12f1b89c
-https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
-#EXTINF:-1 tvg-name="Gsl Vs Gsl" tvg-logo="" group-title="Cricket",Gsl Vs Gsl
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://dai-fancode.pages.dev/mumbai/4247427_english_hls_abc2cd096315047_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10)
+#EXTINF:-1 tvg-name="Sl-W Vs Pak-W" tvg-logo="" group-title="Cricket",Sl-W Vs Pak-W
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5022e0919cc89dcace126f9ea8391c30:01c9d354104c7c68be179a6e12f1b89c
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k6ytnnvpku/out/v1/7389c6f858bd4980b5af3d4b54c62164/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://bd-mc-pdlive.fancode.com/mumbai/4247427_english_hls_abc2cd096315047_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10)
+#EXTINF:-1 tvg-name="Legends League Vs Legends League" tvg-logo="" group-title="Cricket",Legends League Vs Legends League
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com
+#EXTINF:-1 tvg-name="Legends League Vs Legends League" tvg-logo="" group-title="Cricket",Legends League Vs Legends League
+https://dai-fancode.pages.dev/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Legends League Vs Legends League" tvg-logo="" group-title="Cricket",Legends League Vs Legends League
+https://bd-mc-pdlive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Ned Vs Nam" tvg-logo="" group-title="Cricket",Ned Vs Nam
+https://file.genoads.com/ch1.m3u8
