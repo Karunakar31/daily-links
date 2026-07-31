@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sri Lanka Women Vs Pakistan Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs Pakistan Women
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-name="Pakistan Women Vs Sri Lanka Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Sri Lanka Women
-https://bd-mc-pdlive.fancode.com/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Pakistan Panthers Vs Asian Stars" tvg-logo="" group-title="Cricket",Pakistan Panthers Vs Asian Stars
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Netherlands Vs Namibia" tvg-logo="" group-title="Cricket",Netherlands Vs Namibia
+https://bd-mc-pdlive.fancode.com/mumbai/4246706_english_hls_0477c0fff848776_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Sl-W Vs Pak-W" tvg-logo="" group-title="Cricket",Sl-W Vs Pak-W
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
