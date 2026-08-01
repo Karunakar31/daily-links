@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Birmingham Pheonix Vs Welsh Fire" tvg-logo="" group-title="Cricket",Birmingham Pheonix Vs Welsh Fire
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-name="London Spirits Vs Southern Brave - Women" tvg-logo="" group-title="Cricket",London Spirits Vs Southern Brave - Women
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-name="France - Champion, Mitjet And Tourism Live" tvg-logo="" group-title="Cricket",France - Champion, Mitjet And Tourism Live
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-name="London Spirits Vs Southern Brave" tvg-logo="" group-title="Cricket",London Spirits Vs Southern Brave
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-name="Medic Vs Rodriguez" tvg-logo="" group-title="Cricket",Medic Vs Rodriguez
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="West Delhi Lions Vs New Delhi Tigers" tvg-logo="" group-title="Cricket",West Delhi Lions Vs New Delhi Tigers
 https://bd-mc-pdlive.fancode.com/mumbai/4247967_english_hls_7c5b95df4699270_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Galle Gallants Vs Colombo Kaps" tvg-logo="" group-title="Cricket",Galle Gallants Vs Colombo Kaps
