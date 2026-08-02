@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs San Francisco Unicorns" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs San Francisco Unicorns
-https://bd-mc-pdlive.fancode.com/mumbai/4247442_english_hls_46f008f7787192_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Sri Lanka Women Vs Pakistan Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs Pakistan Women
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Pakistan Women Vs Sri Lanka Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Sri Lanka Women
+https://bd-mc-pdlive.fancode.com/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Sl-W Vs Pak-W" tvg-logo="" group-title="Cricket",Sl-W Vs Pak-W
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
