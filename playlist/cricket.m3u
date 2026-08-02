@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Trent Rockets Vs Sunrisers Leeds" tvg-logo="" group-title="Cricket",Trent Rockets Vs Sunrisers Leeds
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="" group-title="Cricket",West Indies Vs Pakistan
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-name="France - Mitjet And Tourism Live" tvg-logo="" group-title="Cricket",France - Mitjet And Tourism Live
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-name="Indian Royals Vs Pakistan Panthers" tvg-logo="" group-title="Cricket",Indian Royals Vs Pakistan Panthers
-https://bd-mc-pdlive.fancode.com/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Mi London Vs Manchester Super Giants" tvg-logo="" group-title="Cricket",Mi London Vs Manchester Super Giants
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-name="New Delhi Tigers Vs East Delhi Riders" tvg-logo="" group-title="Cricket",New Delhi Tigers Vs East Delhi Riders
 https://bd-mc-pdlive.fancode.com/mumbai/4247971_english_hls_4be97458a823730_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="" group-title="Cricket",West Indies Vs Pakistan
