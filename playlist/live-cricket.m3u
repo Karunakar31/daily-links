@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="" group-title="Cricket",West Indies Vs Pakistan
-https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Sl-W Vs Pak-W" tvg-logo="" group-title="Cricket",Sl-W Vs Pak-W
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
