@@ -5,8 +5,6 @@ https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="" group-title="Cricket",West Indies Vs Pakistan
 https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="South Delhi Superstarz Vs West Delhi Lions" tvg-logo="" group-title="Cricket",South Delhi Superstarz Vs West Delhi Lions
-https://bd-mc-pdlive.fancode.com/mumbai/4247978_english_hls_6c7295b1e677335_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Wi Vs Pak" tvg-logo="" group-title="Cricket",Wi Vs Pak
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae4d308848c3fa0e2f6e9e57cae1bffb:12fdaa10a7f4dd536e9c121dc08a72b3
