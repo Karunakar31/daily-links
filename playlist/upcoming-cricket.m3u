@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Legends League Vs Legends League" tvg-logo="" group-title="Cricket",Legends League Vs Legends League
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-name="Legends League Vs Legends League" tvg-logo="" group-title="Cricket",Legends League Vs Legends League
-https://dai-fancode.pages.dev/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-name="Ire Vs Afg" tvg-logo="" group-title="Cricket",Ire Vs Afg
-https://file.genoads.com/ch1.m3u8
-#EXTINF:-1 tvg-name="Ck Vs Krl" tvg-logo="" group-title="Cricket",Ck Vs Krl
-https://file.genoads.com/ch1.m3u8
-#EXTINF:-1 tvg-name="Jk Vs Gg" tvg-logo="" group-title="Cricket",Jk Vs Gg
-https://file.genoads.com/ch1.m3u8
-#EXTINF:-1 tvg-name="Msg-W Vs Wef-W" tvg-logo="" group-title="Cricket",Msg-W Vs Wef-W
 https://file.genoads.com/ch1.m3u8

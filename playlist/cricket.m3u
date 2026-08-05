@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="" group-title="Cricket",West Indies Vs Pakistan
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-name="Manchester Super Giants Vs Welsh Fire" tvg-logo="" group-title="Cricket",Manchester Super Giants Vs Welsh Fire
+#EXTINF:-1 tvg-name="Trent Rockets Vs Birmingham Pheonix" tvg-logo="" group-title="Cricket",Trent Rockets Vs Birmingham Pheonix
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-name="Tekken 8 - Day 1" tvg-logo="" group-title="Cricket",Tekken 8 - Day 1
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
@@ -9,8 +9,6 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/
 https://bd-mc-pdlive.fancode.com/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="" group-title="Cricket",West Indies Vs Pakistan
 https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838648530_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Colombo Kaps Vs Kandy Royals" tvg-logo="" group-title="Cricket",Colombo Kaps Vs Kandy Royals
-https://bd-mc-pdlive.fancode.com/mumbai/4246725_english_hls_4970c22efa72931_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Wi Vs Pak" tvg-logo="" group-title="Cricket",Wi Vs Pak
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae4d308848c3fa0e2f6e9e57cae1bffb:12fdaa10a7f4dd536e9c121dc08a72b3
@@ -31,45 +29,11 @@ http://193.47.62.193/hls/YOOOAAAA.m3u8|referer=http://www.fawanews.sc/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae4d308848c3fa0e2f6e9e57cae1bffb:12fdaa10a7f4dd536e9c121dc08a72b3
 https://dai-fancode.pages.dev/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-name="Sl-W Vs Lns-W" tvg-logo="" group-title="Cricket",Sl-W Vs Lns-W
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4342bb871ce6a48b5cb27583003d838:337b1b0f5b2ec3f1180742c0f09f098f
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y33nu8ijh3/out/v1/321e553de76e47a193740a2f81ea515f/cenc.mpd
-#EXTINF:-1 tvg-name="Sl-W Vs Lns-W" tvg-logo="" group-title="Cricket",Sl-W Vs Lns-W
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4342bb871ce6a48b5cb27583003d838:337b1b0f5b2ec3f1180742c0f09f098f
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-name="Sl-W Vs Lns-W" tvg-logo="" group-title="Cricket",Sl-W Vs Lns-W
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4342bb871ce6a48b5cb27583003d838:337b1b0f5b2ec3f1180742c0f09f098f
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y33nu8ijh3/out/v1/321e553de76e47a193740a2f81ea515f/cenc.mpd
-#EXTINF:-1 tvg-name="Sl-W Vs Lns-W" tvg-logo="" group-title="Cricket",Sl-W Vs Lns-W
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4342bb871ce6a48b5cb27583003d838:337b1b0f5b2ec3f1180742c0f09f098f
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-name="Sl-W Vs Lns-W" tvg-logo="" group-title="Cricket",Sl-W Vs Lns-W
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4342bb871ce6a48b5cb27583003d838:337b1b0f5b2ec3f1180742c0f09f098f
-https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
-#EXTINF:-1 tvg-name="Sl-W Vs Lns-W" tvg-logo="" group-title="Cricket",Sl-W Vs Lns-W
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4342bb871ce6a48b5cb27583003d838:337b1b0f5b2ec3f1180742c0f09f098f
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8
-#EXTINF:-1 tvg-name="Sl-W Vs Lns-W" tvg-logo="" group-title="Cricket",Sl-W Vs Lns-W
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4342bb871ce6a48b5cb27583003d838:337b1b0f5b2ec3f1180742c0f09f098f
-http://193.47.62.190/hls/NNNNAAAA.m3u8|referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Sl Vs Lns" tvg-logo="" group-title="Cricket",Sl Vs Lns
-https://file.genoads.com/ch1.m3u8
-#EXTINF:-1 tvg-name="Legends League Vs Legends League" tvg-logo="" group-title="Cricket",Legends League Vs Legends League
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-name="Legends League Vs Legends League" tvg-logo="" group-title="Cricket",Legends League Vs Legends League
-https://dai-fancode.pages.dev/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-name="Ire Vs Afg" tvg-logo="" group-title="Cricket",Ire Vs Afg
-https://file.genoads.com/ch1.m3u8
 #EXTINF:-1 tvg-name="Ck Vs Krl" tvg-logo="" group-title="Cricket",Ck Vs Krl
 https://file.genoads.com/ch1.m3u8
 #EXTINF:-1 tvg-name="Jk Vs Gg" tvg-logo="" group-title="Cricket",Jk Vs Gg
 https://file.genoads.com/ch1.m3u8
 #EXTINF:-1 tvg-name="Msg-W Vs Wef-W" tvg-logo="" group-title="Cricket",Msg-W Vs Wef-W
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-name="Ire Vs Afg" tvg-logo="" group-title="Cricket",Ire Vs Afg
 https://file.genoads.com/ch1.m3u8
