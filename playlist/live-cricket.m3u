@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Trent Rockets Vs Birmingham Pheonix" tvg-logo="" group-title="Cricket",Trent Rockets Vs Birmingham Pheonix
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-name="Wi Vs Pak" tvg-logo="" group-title="Cricket",Wi Vs Pak
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae4d308848c3fa0e2f6e9e57cae1bffb:12fdaa10a7f4dd536e9c121dc08a72b3
