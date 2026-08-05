@@ -5,14 +5,12 @@ https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-name="Tekken 8 - Day 1" tvg-logo="" group-title="Cricket",Tekken 8 - Day 1
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-name="Purani Dilli 6 Vs Central Delhi Kings" tvg-logo="" group-title="Cricket",Purani Dilli 6 Vs Central Delhi Kings
-https://bd-mc-pdlive.fancode.com/mumbai/4247969_english_hls_530117550a4719_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Jaffna Kings Vs Galle Gallants" tvg-logo="" group-title="Cricket",Jaffna Kings Vs Galle Gallants
-https://bd-mc-pdlive.fancode.com/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="United Arab Emirates Vs Canada" tvg-logo="" group-title="Cricket",United Arab Emirates Vs Canada
-https://bd-mc-pdlive.fancode.com/mumbai/4248213_english_hls_8b9cbf1c6252001_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="East Delhi Riders Vs North Delhi Strikers" tvg-logo="" group-title="Cricket",East Delhi Riders Vs North Delhi Strikers
+https://bd-mc-pdlive.fancode.com/mumbai/4247976_english_hls_d97853e58773754_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="" group-title="Cricket",West Indies Vs Pakistan
 https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838648530_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Colombo Kaps Vs Kandy Royals" tvg-logo="" group-title="Cricket",Colombo Kaps Vs Kandy Royals
+https://bd-mc-pdlive.fancode.com/mumbai/4246725_english_hls_4970c22efa72931_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Wi Vs Pak" tvg-logo="" group-title="Cricket",Wi Vs Pak
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae4d308848c3fa0e2f6e9e57cae1bffb:12fdaa10a7f4dd536e9c121dc08a72b3
