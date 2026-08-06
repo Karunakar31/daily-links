@@ -1,2 +1,5 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-name="Lns Vs Mil" tvg-logo="" group-title="Cricket",Lns Vs Mil
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-name="Lns-W Vs Mil-W" tvg-logo="" group-title="Cricket",Lns-W Vs Mil-W
+https://file.genoads.com/ch1.m3u8
