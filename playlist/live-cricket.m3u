@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Pubg Mobile - Day 1" tvg-logo="" group-title="Cricket",Pubg Mobile - Day 1
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-name="Tekken 8 - Day 2" tvg-logo="" group-title="Cricket",Tekken 8 - Day 2
-https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-name="Outer Delhi Warriors Vs South Delhi Superstarz" tvg-logo="" group-title="Cricket",Outer Delhi Warriors Vs South Delhi Superstarz
-https://bd-mc-pdlive.fancode.com/mumbai/4247975_english_hls_75a4fe130f92250_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Lns Vs Mil" tvg-logo="" group-title="Cricket",Lns Vs Mil
 https://file.genoads.com/ch1.m3u8
 #EXTINF:-1 tvg-name="Lns-W Vs Mil-W" tvg-logo="" group-title="Cricket",Lns-W Vs Mil-W
