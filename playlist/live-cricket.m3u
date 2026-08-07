@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Birmingham Pheonix Vs Sunrisers Leeds - Women" tvg-logo="" group-title="Cricket",Birmingham Pheonix Vs Sunrisers Leeds - Women
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-name="Pubg Mobile - Day 2" tvg-logo="" group-title="Cricket",Pubg Mobile - Day 2
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-name="Tekken 8 - Day 3" tvg-logo="" group-title="Cricket",Tekken 8 - Day 3
