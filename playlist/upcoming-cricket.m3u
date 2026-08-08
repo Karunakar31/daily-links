@@ -1,2 +1,9 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-name="Ire Vs Afg" tvg-logo="" group-title="Cricket",Ire Vs Afg
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37c94f022a37999c54b64e0fc6f7dded:59c64dc640c75dd33d5126055a0c58ec
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xdbxk7bhe3/out/v1/c79dc89ca4cf474e85bec05a7d69adaa/cenc.mpd|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Ire Vs Afg" tvg-logo="" group-title="Cricket",Ire Vs Afg
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37c94f022a37999c54b64e0fc6f7dded:59c64dc640c75dd33d5126055a0c58ec
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xdbxk7bhe3/out/v1/c79dc89ca4cf474e85bec05a7d69adaa/cenc.mpd
