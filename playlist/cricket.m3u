@@ -5,40 +5,18 @@ https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-name="Sl-Xi Vs Ind" tvg-logo="" group-title="Cricket",Sl-Xi Vs Ind
 https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786207430~acl=/*~id=16695139551526506901251541115361~hmac=36fb389ead05454d15c10e46ffb6be410535793eed6dc5d461408c556c05892f
-#EXTINF:-1 tvg-name="Sob Vs Msg" tvg-logo="" group-title="Cricket",Sob Vs Msg
-https://file.genoads.com/ch1.m3u8
-#EXTINF:-1 tvg-name="Mil-W Vs Trt-W" tvg-logo="" group-title="Cricket",Mil-W Vs Trt-W
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe4a1bbfcf4147c8e38c241208232ad2:0e9258000b4216e095844163b5d1eb6d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aksnjpdam2/out/v1/a71e0bd938ca471c918443039af47dd1/cenc.mpd
-#EXTINF:-1 tvg-name="Mil-W Vs Trt-W" tvg-logo="" group-title="Cricket",Mil-W Vs Trt-W
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe4a1bbfcf4147c8e38c241208232ad2:0e9258000b4216e095844163b5d1eb6d
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-name="Mil-W Vs Trt-W" tvg-logo="" group-title="Cricket",Mil-W Vs Trt-W
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe4a1bbfcf4147c8e38c241208232ad2:0e9258000b4216e095844163b5d1eb6d
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aksnjpdam2/out/v1/a71e0bd938ca471c918443039af47dd1/cenc.mpd
-#EXTINF:-1 tvg-name="Mil-W Vs Trt-W" tvg-logo="" group-title="Cricket",Mil-W Vs Trt-W
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe4a1bbfcf4147c8e38c241208232ad2:0e9258000b4216e095844163b5d1eb6d
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-name="Mil-W Vs Trt-W" tvg-logo="" group-title="Cricket",Mil-W Vs Trt-W
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe4a1bbfcf4147c8e38c241208232ad2:0e9258000b4216e095844163b5d1eb6d
+#EXTINF:-1 tvg-name="Cpl T20 Vs Cpl T20" tvg-logo="" group-title="Cricket",Cpl T20 Vs Cpl T20
+https://tmaxapp.site/8wirwjs76erftg/tntsports3.m3u8
+#EXTINF:-1 tvg-name="Cpl T20 Vs Cpl T20" tvg-logo="" group-title="Cricket",Cpl T20 Vs Cpl T20
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8
-#EXTINF:-1 tvg-name="Mil-W Vs Trt-W" tvg-logo="" group-title="Cricket",Mil-W Vs Trt-W
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe4a1bbfcf4147c8e38c241208232ad2:0e9258000b4216e095844163b5d1eb6d
-https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
-#EXTINF:-1 tvg-name="Mil-W Vs Trt-W" tvg-logo="" group-title="Cricket",Mil-W Vs Trt-W
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe4a1bbfcf4147c8e38c241208232ad2:0e9258000b4216e095844163b5d1eb6d
-http://193.47.62.190/hls/HLLLAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Mil Vs Trt" tvg-logo="" group-title="Cricket",Mil Vs Trt
-https://file.genoads.com/ch1.m3u8
-#EXTINF:-1 tvg-name="Sob-W Vs Msg-W" tvg-logo="" group-title="Cricket",Sob-W Vs Msg-W
-https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-name="Cpl T20 Vs Cpl T20" tvg-logo="" group-title="Cricket",Cpl T20 Vs Cpl T20
+https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xdfg.m3u8
+#EXTINF:-1 tvg-name="Cpl T20 Vs Cpl T20" tvg-logo="" group-title="Cricket",Cpl T20 Vs Cpl T20
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="Cpl T20 Vs Cpl T20" tvg-logo="" group-title="Cricket",Cpl T20 Vs Cpl T20
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
+#EXTINF:-1 tvg-name="Cpl T20 Vs Cpl T20" tvg-logo="" group-title="Cricket",Cpl T20 Vs Cpl T20
+https://dai-fancode.pages.dev/mumbai/4248286_english_hls_c15d148d2e71126_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-name="Ire Vs Afg" tvg-logo="" group-title="Cricket",Ire Vs Afg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=37c94f022a37999c54b64e0fc6f7dded:59c64dc640c75dd33d5126055a0c58ec
