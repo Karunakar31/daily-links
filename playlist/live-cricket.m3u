@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sunrisers Leeds Vs Welsh Fire" tvg-logo="" group-title="Cricket",Sunrisers Leeds Vs Welsh Fire
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-name="London Spirits Vs Birmingham Pheonix - Women" tvg-logo="" group-title="Cricket",London Spirits Vs Birmingham Pheonix - Women
+#EXTINF:-1 tvg-name="London Spirits Vs Birmingham Pheonix" tvg-logo="" group-title="Cricket",London Spirits Vs Birmingham Pheonix
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-name="Pubg Mobile - Day 4" tvg-logo="" group-title="Cricket",Pubg Mobile - Day 4
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-name="Sl-Xi Vs Ind" tvg-logo="" group-title="Cricket",Sl-Xi Vs Ind
 https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786207430~acl=/*~id=16695139551526506901251541115361~hmac=36fb389ead05454d15c10e46ffb6be410535793eed6dc5d461408c556c05892f
