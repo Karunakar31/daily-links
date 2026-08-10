@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="C And Barbuda Falcons Vs St Lucia Kings" tvg-logo="" group-title="Cricket",C And Barbuda Falcons Vs St Lucia Kings
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-name="Sl-Xi Vs Ind" tvg-logo="" group-title="Cricket",Sl-Xi Vs Ind
+#EXTINF:-1 tvg-name="Sl Vs Ind" tvg-logo="" group-title="Cricket",Sl Vs Ind
 https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786207430~acl=/*~id=16695139551526506901251541115361~hmac=36fb389ead05454d15c10e46ffb6be410535793eed6dc5d461408c556c05892f
 #EXTINF:-1 tvg-name="Cpl T20 Vs Cpl T20" tvg-logo="" group-title="Cricket",Cpl T20 Vs Cpl T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
