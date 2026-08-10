@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Trent Rockets Vs Southern Brave" tvg-logo="" group-title="Cricket",Trent Rockets Vs Southern Brave
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-name="The Hundred W Vs The Hundred W" tvg-logo="" group-title="Cricket",The Hundred W Vs The Hundred W
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b69fc8e68c1368760c41742219ba95f7:2316ba4fb7fed894fd03d5c934f99f1f
