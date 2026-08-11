@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Manchester Super Giants Vs Sunrisers Leeds - Women" tvg-logo="" group-title="Cricket",Manchester Super Giants Vs Sunrisers Leeds - Women
+#EXTINF:-1 tvg-name="Manchester Super Giants Vs Sunrisers Leeds" tvg-logo="" group-title="Cricket",Manchester Super Giants Vs Sunrisers Leeds
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="The Hundred W Vs The Hundred W" tvg-logo="" group-title="Cricket",The Hundred W Vs The Hundred W
 #KODIPROP:inputstream.adaptive.license_type=clearkey
