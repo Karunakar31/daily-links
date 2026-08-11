@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Manchester Super Giants Vs Sunrisers Leeds - Women" tvg-logo="" group-title="Cricket",Manchester Super Giants Vs Sunrisers Leeds - Women
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-name="Pubg Mobile - Day 5" tvg-logo="" group-title="Cricket",Pubg Mobile - Day 5
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-name="The Hundred W Vs The Hundred W" tvg-logo="" group-title="Cricket",The Hundred W Vs The Hundred W
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1688ed99b5ab9098b129cd74f3865614:58411d610b2d8fbb7d711f36d2b6ea4e
