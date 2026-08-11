@@ -29,3 +29,23 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|refe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee7be87726ddb2707317c53d2359e012:075a609968f9052109f3c92982170396
 https://dai-fancode.pages.dev/mumbai/4248286_english_hls_c15d148d2e71126_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-name="Ire Vs Afg" tvg-logo="" group-title="Cricket",Ire Vs Afg
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3ef0ece3db6d3feaabccbf4ec3e0b48:22c753020af44267bb49672e3c336037
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ycs8hponlb/out/v1/3074b080ff9340799c2e877399e5e448/cenc.mpd
+#EXTINF:-1 tvg-name="Ire Vs Afg" tvg-logo="" group-title="Cricket",Ire Vs Afg
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3ef0ece3db6d3feaabccbf4ec3e0b48:22c753020af44267bb49672e3c336037
+https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="Ire Vs Afg" tvg-logo="" group-title="Cricket",Ire Vs Afg
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3ef0ece3db6d3feaabccbf4ec3e0b48:22c753020af44267bb49672e3c336037
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ycs8hponlb/out/v1/3074b080ff9340799c2e877399e5e448/cenc.mpd
+#EXTINF:-1 tvg-name="Ire Vs Afg" tvg-logo="" group-title="Cricket",Ire Vs Afg
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3ef0ece3db6d3feaabccbf4ec3e0b48:22c753020af44267bb49672e3c336037
+https://dai-fancode.pages.dev/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-name="Ire Vs Afg" tvg-logo="" group-title="Cricket",Ire Vs Afg
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3ef0ece3db6d3feaabccbf4ec3e0b48:22c753020af44267bb49672e3c336037
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
