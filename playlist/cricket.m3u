@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Welsh Fire Vs London Spirit - Women" tvg-logo="" group-title="Cricket",Welsh Fire Vs London Spirit - Women
-https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-name="Aussie Mavericks Jaguars Vs Vedanta Leopards" tvg-logo="" group-title="Cricket",Aussie Mavericks Jaguars Vs Vedanta Leopards
+#EXTINF:-1 tvg-name="Vb Realty Cheetahs Vs Panorama Panthers" tvg-logo="" group-title="Cricket",Vb Realty Cheetahs Vs Panorama Panthers
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-name="Welsh Fire Vs London Spirit" tvg-logo="" group-title="Cricket",Welsh Fire Vs London Spirit
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="Pubg Mobile - Day 6" tvg-logo="" group-title="Cricket",Pubg Mobile - Day 6
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-name="The Hundred W Vs The Hundred W" tvg-logo="" group-title="Cricket",The Hundred W Vs The Hundred W
