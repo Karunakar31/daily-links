@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Preview Show Live" tvg-logo="" group-title="Cricket",Preview Show Live
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-name="Al-Shabab Vs Al Qadsiah" tvg-logo="" group-title="Cricket",Al-Shabab Vs Al Qadsiah
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Diriyah Vs Al-Ahli" tvg-logo="" group-title="Cricket",Diriyah Vs Al-Ahli
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-name="Cpl T20 Vs Cpl T20" tvg-logo="" group-title="Cricket",Cpl T20 Vs Cpl T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee7be87726ddb2707317c53d2359e012:075a609968f9052109f3c92982170396
