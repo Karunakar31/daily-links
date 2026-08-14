@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="St Lucia Kings Vs Antigua And Barbuda Falcons" tvg-logo="" group-title="Cricket",St Lucia Kings Vs Antigua And Barbuda Falcons
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="The Hundred W Vs The Hundred W" tvg-logo="" group-title="Cricket",The Hundred W Vs The Hundred W
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6da7c3d90997ede43bdc0aa59a51ffd:7664d9539a1d217fb1bcf00b6332eed8
