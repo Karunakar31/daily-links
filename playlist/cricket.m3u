@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Game Changer Lions Vs Vb Realty Cheetahs" tvg-logo="" group-title="Cricket",Game Changer Lions Vs Vb Realty Cheetahs
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-name="Southern Brave Vs Sunrisers Leeds - Women" tvg-logo="" group-title="Cricket",Southern Brave Vs Sunrisers Leeds - Women
+#EXTINF:-1 tvg-name="Manchester Super Giants Vs Sunrisers Leeds" tvg-logo="" group-title="Cricket",Manchester Super Giants Vs Sunrisers Leeds
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-name="Pubg Mobile - Day 7" tvg-logo="" group-title="Cricket",Pubg Mobile - Day 7
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-name="The Hundred W Vs The Hundred W" tvg-logo="" group-title="Cricket",The Hundred W Vs The Hundred W
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6da7c3d90997ede43bdc0aa59a51ffd:7664d9539a1d217fb1bcf00b6332eed8
