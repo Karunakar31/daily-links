@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Australia Vs Bangladesh" tvg-logo="" group-title="Cricket",Australia Vs Bangladesh
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-name="St Lucia Kings Vs Antigua And Barbuda Falcons" tvg-logo="" group-title="Cricket",St Lucia Kings Vs Antigua And Barbuda Falcons
-https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Sri Lanka Vs India" tvg-logo="" group-title="Cricket",Sri Lanka Vs India
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-name="Sl Vs Ind" tvg-logo="" group-title="Cricket",Sl Vs Ind
 https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786207430~acl=/*~id=16695139551526506901251541115361~hmac=36fb389ead05454d15c10e46ffb6be410535793eed6dc5d461408c556c05892f
 #EXTINF:-1 tvg-name="Cpl T20 Vs Cpl T20" tvg-logo="" group-title="Cricket",Cpl T20 Vs Cpl T20
