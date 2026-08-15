@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Khan Tigers Vs Vb Realty Cheetahs" tvg-logo="" group-title="Cricket",Khan Tigers Vs Vb Realty Cheetahs
+#EXTINF:-1 tvg-name="Hubtown Panaroma Panthers Vs Vb Realty Cheetahs" tvg-logo="" group-title="Cricket",Hubtown Panaroma Panthers Vs Vb Realty Cheetahs
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-name="Pubg Mobile - Day 8" tvg-logo="" group-title="Cricket",Pubg Mobile - Day 8
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
@@ -45,34 +45,36 @@ http://193.47.62.190/hls/KKKK.m3u8|referer=http://www.fawanews.sc/
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-name="Ire Vs Afg" tvg-logo="" group-title="Cricket",Ire Vs Afg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e3f5a3ab879d14a9b75a996cea9bec7:fa8cf5d417273db21e3125f52eb3ecd9
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rpy1a8weyh/out/v1/299c646dd6c14fbbb217f087b073efb6/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1d0c252991eb5bc168a3fb4db1e9a850:ad27540c50636966576b34dda706405d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v1jwc7b2k7/out/v1/dd824b4819b047c58496a3cf34b518de/cenc.mpd
 #EXTINF:-1 tvg-name="Ire Vs Afg" tvg-logo="" group-title="Cricket",Ire Vs Afg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e3f5a3ab879d14a9b75a996cea9bec7:fa8cf5d417273db21e3125f52eb3ecd9
+#KODIPROP:inputstream.adaptive.license_key=1d0c252991eb5bc168a3fb4db1e9a850:ad27540c50636966576b34dda706405d
 https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Ire Vs Afg" tvg-logo="" group-title="Cricket",Ire Vs Afg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e3f5a3ab879d14a9b75a996cea9bec7:fa8cf5d417273db21e3125f52eb3ecd9
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rpy1a8weyh/out/v1/299c646dd6c14fbbb217f087b073efb6/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1d0c252991eb5bc168a3fb4db1e9a850:ad27540c50636966576b34dda706405d
+https://cdn72834346.blzcdn.net/dx14hd/index.m3u8|referer=https://copyright.com/
 #EXTINF:-1 tvg-name="Ire Vs Afg" tvg-logo="" group-title="Cricket",Ire Vs Afg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e3f5a3ab879d14a9b75a996cea9bec7:fa8cf5d417273db21e3125f52eb3ecd9
-http://193.47.62.41/hls/EOOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#KODIPROP:inputstream.adaptive.license_key=1d0c252991eb5bc168a3fb4db1e9a850:ad27540c50636966576b34dda706405d
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/v1jwc7b2k7/out/v1/dd824b4819b047c58496a3cf34b518de/cenc.mpd
 #EXTINF:-1 tvg-name="Ire Vs Afg" tvg-logo="" group-title="Cricket",Ire Vs Afg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e3f5a3ab879d14a9b75a996cea9bec7:fa8cf5d417273db21e3125f52eb3ecd9
-https://dai-fancode.pages.dev/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#KODIPROP:inputstream.adaptive.license_key=1d0c252991eb5bc168a3fb4db1e9a850:ad27540c50636966576b34dda706405d
+https://cdn72834346.blzcdn.net/dx14sd/index.m3u8|referer=https://copyright.com/
 #EXTINF:-1 tvg-name="Ire Vs Afg" tvg-logo="" group-title="Cricket",Ire Vs Afg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e3f5a3ab879d14a9b75a996cea9bec7:fa8cf5d417273db21e3125f52eb3ecd9
+#KODIPROP:inputstream.adaptive.license_key=1d0c252991eb5bc168a3fb4db1e9a850:ad27540c50636966576b34dda706405d
+https://dai-fancode.pages.dev/mumbai/4248051_english_hls_4a1fa82f9512172_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-name="Ire Vs Afg" tvg-logo="" group-title="Cricket",Ire Vs Afg
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d0c252991eb5bc168a3fb4db1e9a850:ad27540c50636966576b34dda706405d
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-name="National Cup Vs National Cup" tvg-logo="" group-title="Cricket",National Cup Vs National Cup
-https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/fifa1_720.m3u8
 #EXTINF:-1 tvg-name="National Cup Vs National Cup" tvg-logo="" group-title="Cricket",National Cup Vs National Cup
 https://cdn05khi-n.tamashaweb.com:8087/jazzauth/NCC-2026-abr/playlist.m3u8
 #EXTINF:-1 tvg-name="National Cup Vs National Cup" tvg-logo="" group-title="Cricket",National Cup Vs National Cup
-http://162.251.160.53:8089/NCC1/index.m3u8
+https://live.incableinternet.com/ptv-sports/720p.m3u8
 #EXTINF:-1 tvg-name="Cpl T20 Vs Cpl T20" tvg-logo="" group-title="Cricket",Cpl T20 Vs Cpl T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee7be87726ddb2707317c53d2359e012:075a609968f9052109f3c92982170396
@@ -157,3 +159,5 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6da7c3d90997ede43bdc0aa59a51ffd:7664d9539a1d217fb1bcf00b6332eed8
 http://193.47.62.193/hls/AFFFFAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Trt Vs Msg" tvg-logo="" group-title="Cricket",Trt Vs Msg
+https://file.genoads.com/ch1.m3u8
