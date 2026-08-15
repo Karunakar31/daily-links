@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Al-Ittihad Vs Al Kholood" tvg-logo="" group-title="Cricket",Al-Ittihad Vs Al Kholood
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-name="Al-Nassr Vs Al Fateh" tvg-logo="" group-title="Cricket",Al-Nassr Vs Al Fateh
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-name="Sl Vs Ind" tvg-logo="" group-title="Cricket",Sl Vs Ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
