@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="England Vs Pakistan" tvg-logo="" group-title="Cricket",England Vs Pakistan
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="Belgium Vs Malaysia" tvg-logo="" group-title="Cricket",Belgium Vs Malaysia
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-name="Nec Vs Bodo/Glimt" tvg-logo="" group-title="Cricket",Nec Vs Bodo/Glimt
@@ -11,6 +9,8 @@ https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
 #EXTINF:-1 tvg-name="Slovan Bratislava Vs Celje" tvg-logo="" group-title="Cricket",Slovan Bratislava Vs Celje
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-name="Atletico Madrid Vs Malaga" tvg-logo="" group-title="Cricket",Atletico Madrid Vs Malaga
+https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="England Vs Pakistan" tvg-logo="" group-title="Cricket",England Vs Pakistan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
