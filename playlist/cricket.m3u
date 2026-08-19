@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="St Lucia Kings Vs Guyana Amazon Warriors" tvg-logo="" group-title="Cricket",St Lucia Kings Vs Guyana Amazon Warriors
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="Australia Vs Bangladesh" tvg-logo="" group-title="Cricket",Australia Vs Bangladesh
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-name="Australia Vs Bangladesh" tvg-logo="" group-title="Cricket",Australia Vs Bangladesh
