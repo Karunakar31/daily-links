@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="St Lucia Kings Vs Guyana Amazon Warriors" tvg-logo="" group-title="Cricket",St Lucia Kings Vs Guyana Amazon Warriors
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Saint Lucia Kings Vs Guyana Amazon Warriors" tvg-logo="" group-title="Cricket",Saint Lucia Kings Vs Guyana Amazon Warriors
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="Saint Lucia Kings Vs Guyana Amazon Warriors" tvg-logo="" group-title="Cricket",Saint Lucia Kings Vs Guyana Amazon Warriors
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8
