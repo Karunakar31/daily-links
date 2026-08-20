@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Al-Fayha Vs Al-Hilal" tvg-logo="" group-title="Cricket",Al-Fayha Vs Al-Hilal
-https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
-#EXTINF:-1 tvg-name="Belgium Vs Ireland - W" tvg-logo="" group-title="Cricket",Belgium Vs Ireland - W
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-name="Rayo Vallecano Vs Alaves" tvg-logo="" group-title="Cricket",Rayo Vallecano Vs Alaves
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka Vs India" tvg-logo="" group-title="Cricket",Sri Lanka Vs India
