@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="China Vs South Africa - W" tvg-logo="" group-title="Cricket",China Vs South Africa - W
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Australia Vs South Africa" tvg-logo="" group-title="Cricket",Australia Vs South Africa
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-name="Saint Lucia Kings Vs Guyana Amazon Warriors" tvg-logo="" group-title="Cricket",Saint Lucia Kings Vs Guyana Amazon Warriors
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
