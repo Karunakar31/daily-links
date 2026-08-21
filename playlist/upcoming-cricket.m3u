@@ -38,7 +38,7 @@ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uw
 #EXTINF:-1 tvg-name="England Vs Pakistan" tvg-logo="" group-title="Cricket",England Vs Pakistan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-http://193.47.62.194/hls/QQQQ.m3u8|referer=http://www.fawanews.sc/
+http://193.47.62.194/hls/QQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="England Vs Pakistan" tvg-logo="" group-title="Cricket",England Vs Pakistan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
