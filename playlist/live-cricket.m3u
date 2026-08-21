@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Japan Vs South Africa - W" tvg-logo="" group-title="Cricket",Japan Vs South Africa - W
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="Top End T20 Vs Top End T20" tvg-logo="" group-title="Cricket",Top End T20 Vs Top End T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
