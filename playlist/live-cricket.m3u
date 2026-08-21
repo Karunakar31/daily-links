@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Al Qadsiah Vs Al-Ittihad" tvg-logo="" group-title="Cricket",Al Qadsiah Vs Al-Ittihad
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-name="Australia Vs Belgium" tvg-logo="" group-title="Cricket",Australia Vs Belgium
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-name="Betis Vs Real Sociedad" tvg-logo="" group-title="Cricket",Betis Vs Real Sociedad
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
