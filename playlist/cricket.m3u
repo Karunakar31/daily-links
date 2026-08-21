@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="England Vs Pakistan" tvg-logo="" group-title="Cricket",England Vs Pakistan
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-name="China Vs Australia - W" tvg-logo="" group-title="Cricket",China Vs Australia - W
+#EXTINF:-1 tvg-name="Germany Vs Spain" tvg-logo="" group-title="Cricket",Germany Vs Spain
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-name="Al-Riyadh Vs Al-Nassr" tvg-logo="" group-title="Cricket",Al-Riyadh Vs Al-Nassr
+https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Netherlands Vs India - W" tvg-logo="" group-title="Cricket",Netherlands Vs India - W
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="England Vs Pakistan" tvg-logo="" group-title="Cricket",England Vs Pakistan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
