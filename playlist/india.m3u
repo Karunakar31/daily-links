@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Netherlands Vs India - W" tvg-logo="" group-title="Cricket",Netherlands Vs India - W
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka Vs India" tvg-logo="" group-title="Cricket",Sri Lanka Vs India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
