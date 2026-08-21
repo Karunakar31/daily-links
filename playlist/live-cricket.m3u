@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Al-Riyadh Vs Al-Nassr" tvg-logo="" group-title="Cricket",Al-Riyadh Vs Al-Nassr
-https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
 #EXTINF:-1 tvg-name="Al Qadsiah Vs Al-Ittihad" tvg-logo="" group-title="Cricket",Al Qadsiah Vs Al-Ittihad
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-name="Australia Vs Belgium" tvg-logo="" group-title="Cricket",Australia Vs Belgium
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
