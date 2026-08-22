@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Argentina Vs Spain - W" tvg-logo="" group-title="Cricket",Argentina Vs Spain - W
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-name="Espanyol Vs Real Madrid" tvg-logo="" group-title="Cricket",Espanyol Vs Real Madrid
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-name="Cyborg Vs Vieira" tvg-logo="" group-title="Cricket",Cyborg Vs Vieira
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka Vs India" tvg-logo="" group-title="Cricket",Sri Lanka Vs India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
