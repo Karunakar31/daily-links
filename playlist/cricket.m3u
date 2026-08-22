@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Euro Kabaddi Mens And Womens" tvg-logo="" group-title="Cricket",Euro Kabaddi Mens And Womens
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-name="Pakistan Vs Japan" tvg-logo="" group-title="Cricket",Pakistan Vs Japan
-https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
 #EXTINF:-1 tvg-name="Usa Vs New Zealand - W" tvg-logo="" group-title="Cricket",Usa Vs New Zealand - W
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka Vs India" tvg-logo="" group-title="Cricket",Sri Lanka Vs India
