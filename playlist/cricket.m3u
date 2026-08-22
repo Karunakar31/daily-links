@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Australia Vs Bangladesh" tvg-logo="" group-title="Cricket",Australia Vs Bangladesh
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-name="Watch Free - Australia Vs Bangladesh" tvg-logo="" group-title="Cricket",Watch Free - Australia Vs Bangladesh
-https://premierleagpl23.akamaized.net/hls/live/2107108/ucl-5tap347/master.m3u8
+#EXTINF:-1 tvg-name="New Zealand Vs Wales" tvg-logo="" group-title="Cricket",New Zealand Vs Wales
+https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Poland Vs Hungary" tvg-logo="" group-title="Cricket",Poland Vs Hungary
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-name="Top End T20 Vs Top End T20" tvg-logo="" group-title="Cricket",Top End T20 Vs Top End T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9be4ba39ca21b80b2b7301da1f3e4bbf:9eb7f96ea43b0ecafa6cd6d2906f19a4
@@ -51,6 +51,10 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9714d9bfcbebf339bad30efd1c9fdcd3:c1b210135327a0f463c6deb397546970
 https://crimson-cloud-807f.kamrukhanchy.workers.dev/441307/index.json?&e=.m3u8
+#EXTINF:-1 tvg-name="Australia Vs Bangladesh" tvg-logo="" group-title="Cricket",Australia Vs Bangladesh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9714d9bfcbebf339bad30efd1c9fdcd3:c1b210135327a0f463c6deb397546970
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="Australia Vs Bangladesh" tvg-logo="" group-title="Cricket",Australia Vs Bangladesh
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9714d9bfcbebf339bad30efd1c9fdcd3:c1b210135327a0f463c6deb397546970
