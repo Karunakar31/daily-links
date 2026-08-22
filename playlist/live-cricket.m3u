@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="New Zealand Vs Wales" tvg-logo="" group-title="Cricket",New Zealand Vs Wales
-https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
-#EXTINF:-1 tvg-name="Poland Vs England - W" tvg-logo="" group-title="Cricket",Poland Vs England - W
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-name="Ireland Vs Scotland - W" tvg-logo="" group-title="Cricket",Ireland Vs Scotland - W
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="Top End T20 Vs Top End T20" tvg-logo="" group-title="Cricket",Top End T20 Vs Top End T20
