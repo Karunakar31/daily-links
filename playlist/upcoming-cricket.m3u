@@ -51,6 +51,34 @@ http://193.47.62.194/hls/QQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http:
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-name="Australia Vs Bangladesh" tvg-logo="" group-title="Cricket",Australia Vs Bangladesh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9714d9bfcbebf339bad30efd1c9fdcd3:c1b210135327a0f463c6deb397546970
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xdwk6pwhmo/out/v1/a23136e223be4bf0898f0f69ffc84155/cenc.mpd
+#EXTINF:-1 tvg-name="Australia Vs Bangladesh" tvg-logo="" group-title="Cricket",Australia Vs Bangladesh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9714d9bfcbebf339bad30efd1c9fdcd3:c1b210135327a0f463c6deb397546970
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xdwk6pwhmo/out/v1/a23136e223be4bf0898f0f69ffc84155/cenc.mpd
+#EXTINF:-1 tvg-name="Australia Vs Bangladesh" tvg-logo="" group-title="Cricket",Australia Vs Bangladesh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9714d9bfcbebf339bad30efd1c9fdcd3:c1b210135327a0f463c6deb397546970
+https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xdfg.m3u8
+#EXTINF:-1 tvg-name="Australia Vs Bangladesh" tvg-logo="" group-title="Cricket",Australia Vs Bangladesh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9714d9bfcbebf339bad30efd1c9fdcd3:c1b210135327a0f463c6deb397546970
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-name="Australia Vs Bangladesh" tvg-logo="" group-title="Cricket",Australia Vs Bangladesh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9714d9bfcbebf339bad30efd1c9fdcd3:c1b210135327a0f463c6deb397546970
+https://crimson-cloud-807f.kamrukhanchy.workers.dev/441307/index.json?&e=.m3u8
+#EXTINF:-1 tvg-name="Australia Vs Bangladesh" tvg-logo="" group-title="Cricket",Australia Vs Bangladesh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9714d9bfcbebf339bad30efd1c9fdcd3:c1b210135327a0f463c6deb397546970
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Australia Vs Bangladesh" tvg-logo="" group-title="Cricket",Australia Vs Bangladesh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9714d9bfcbebf339bad30efd1c9fdcd3:c1b210135327a0f463c6deb397546970
+https://tmaxapp.site/8wirwjs76erftg/skysport5nz85df.m3u8
 #EXTINF:-1 tvg-name="Antigua &amp; Barbuda Falcons Vs Trinbago Knight Riders" tvg-logo="" group-title="Cricket",Antigua & Barbuda Falcons Vs Trinbago Knight Riders
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
