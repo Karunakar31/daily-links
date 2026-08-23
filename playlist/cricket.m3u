@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Spain Vs Belgium" tvg-logo="" group-title="Cricket",Spain Vs Belgium
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-name="Elche Vs Barcelona" tvg-logo="" group-title="Cricket",Elche Vs Barcelona
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka Vs India" tvg-logo="" group-title="Cricket",Sri Lanka Vs India
