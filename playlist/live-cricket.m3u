@@ -3,5 +3,7 @@
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="Getafe Vs Racing Santander" tvg-logo="" group-title="Cricket",Getafe Vs Racing Santander
 https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Spain Vs Belgium" tvg-logo="" group-title="Cricket",Spain Vs Belgium
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-name="Trophy Awarding Ceremony Live" tvg-logo="" group-title="Cricket",Trophy Awarding Ceremony Live
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
