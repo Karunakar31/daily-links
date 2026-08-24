@@ -3,6 +3,10 @@
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-name="Men'S &amp; Women'S Singles Qualifying" tvg-logo="" group-title="Cricket",Men'S & Women'S Singles Qualifying
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Netherlands Vs England" tvg-logo="" group-title="Cricket",Netherlands Vs England
+https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Neom Vs Al Qadsiah" tvg-logo="" group-title="Cricket",Neom Vs Al Qadsiah
+https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/master.m3u8
 #EXTINF:-1 tvg-name="Top End T20 Series 2026 Vs Top End T20 Series 2026" tvg-logo="" group-title="Cricket",Top End T20 Series 2026 Vs Top End T20 Series 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
