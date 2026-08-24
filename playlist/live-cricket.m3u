@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Men'S &amp; Women'S Singles Qualifying" tvg-logo="" group-title="Cricket",Men'S & Women'S Singles Qualifying
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-name="Osasuna Vs Levante" tvg-logo="" group-title="Cricket",Osasuna Vs Levante
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-name="Al-Ittihad Vs Al-Hazem" tvg-logo="" group-title="Cricket",Al-Ittihad Vs Al-Hazem
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-name="Belgium Vs Argentina - W" tvg-logo="" group-title="Cricket",Belgium Vs Argentina - W
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-name="Malaga Vs Deportivo" tvg-logo="" group-title="Cricket",Malaga Vs Deportivo
+https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
