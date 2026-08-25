@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sri Lanka Vs India" tvg-logo="" group-title="Cricket",Sri Lanka Vs India
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka Vs India" tvg-logo="" group-title="Cricket",Sri Lanka Vs India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qc3g1qukb/out/v1/0c2c7c41bdd54fcc9cc086a83b28e5f5/cenc.mpd
