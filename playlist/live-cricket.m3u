@@ -1,7 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Men'S &amp; Women'S Singles Qualifying" tvg-logo="" group-title="Cricket",Men'S & Women'S Singles Qualifying
-https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
-#EXTINF:-1 tvg-name="Abha Vs Al Khaleej" tvg-logo="" group-title="Cricket",Abha Vs Al Khaleej
-https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTINF:-1 tvg-name="Sabah Vs H. Beer-Sheva" tvg-logo="" group-title="Cricket",Sabah Vs H. Beer-Sheva
 https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8
+#EXTINF:-1 tvg-name="Al-Ettifaq Vs Al-Nassr" tvg-logo="" group-title="Cricket",Al-Ettifaq Vs Al-Nassr
+https://tapmad-live.cdn.vustreams.com/live/6efd72d6-21db-4cf1-aa76-5b1252422d05/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Nec Vs Bodo/Glimt" tvg-logo="" group-title="Cricket",Nec Vs Bodo/Glimt
+https://tapmad-live.cdn.vustreams.com/live/f77a7dc4-4ce4-41ff-bfe6-34928cc6e108/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Lask Vs Celtic" tvg-logo="" group-title="Cricket",Lask Vs Celtic
+https://tapmad-live.cdn.vustreams.com/live/4fd42f58-615d-4df3-bf89-c76079b1150e/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Valencia Vs Betis" tvg-logo="" group-title="Cricket",Valencia Vs Betis
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
