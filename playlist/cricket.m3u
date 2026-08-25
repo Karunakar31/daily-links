@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Men'S &amp; Women'S Singles Qualifying" tvg-logo="" group-title="Cricket",Men'S & Women'S Singles Qualifying
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-name="Antigua And Barbuda Falcons Vs Barbados Tridents" tvg-logo="" group-title="Cricket",Antigua And Barbuda Falcons Vs Barbados Tridents
+https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/master.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka Vs India" tvg-logo="" group-title="Cricket",Sri Lanka Vs India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
