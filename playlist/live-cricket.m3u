@@ -1,8 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Rotterdam Dockers Vs Amsterdam Flames" tvg-logo="" group-title="Cricket",Rotterdam Dockers Vs Amsterdam Flames
-https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
 #EXTINF:-1 tvg-name="Men'S &amp; Women'S Singles Qualifying" tvg-logo="" group-title="Cricket",Men'S & Women'S Singles Qualifying
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-name="Levski Sofia Vs Aek" tvg-logo="" group-title="Cricket",Levski Sofia Vs Aek
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-name="Ol Vs Fenerbache" tvg-logo="" group-title="Cricket",Ol Vs Fenerbache
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-name="Viking Vs Dinamo Zagreb" tvg-logo="" group-title="Cricket",Viking Vs Dinamo Zagreb
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-352fi78/master.m3u8
+#EXTINF:-1 tvg-name="Celje Vs Slovan Bratislava" tvg-logo="" group-title="Cricket",Celje Vs Slovan Bratislava
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-name="Real Madrid Vs Real Sociedad" tvg-logo="" group-title="Cricket",Real Madrid Vs Real Sociedad
+https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
 #EXTINF:-1 tvg-name="European T20 Vs Premier League" tvg-logo="" group-title="Cricket",European T20 Vs Premier League
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
