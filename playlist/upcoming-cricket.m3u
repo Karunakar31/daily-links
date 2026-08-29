@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="South Africa Vs Zimbabwe" tvg-logo="" group-title="Cricket",South Africa Vs Zimbabwe
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 #EXTINF:-1 tvg-name="Trinbago Knight Riders Vs Jamaica Kingsmen" tvg-logo="" group-title="Cricket",Trinbago Knight Riders Vs Jamaica Kingsmen
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
