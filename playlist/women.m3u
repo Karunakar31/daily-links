@@ -1,17 +1,2 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Thailand Women Vs Hong Kong C." tvg-logo="" group-title="Cricket",Thailand Women Vs Hong Kong C.
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hwgsujboav/out/v1/61297a7dfc0d4996a60588fb99bf81fa/cenc.mpd
-#EXTINF:-1 tvg-name="Thailand Women Vs Hong Kong C." tvg-logo="" group-title="Cricket",Thailand Women Vs Hong Kong C.
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hwgsujboav/out/v1/61297a7dfc0d4996a60588fb99bf81fa/cenc.mpd
-#EXTINF:-1 tvg-name="Thailand Women Vs Hong Kong C." tvg-logo="" group-title="Cricket",Thailand Women Vs Hong Kong C.
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://tvsen7.aynascope.net/Sports1/index.m3u8
-#EXTINF:-1 tvg-name="Thailand Women Vs Hong Kong C." tvg-logo="" group-title="Cricket",Thailand Women Vs Hong Kong C.
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
