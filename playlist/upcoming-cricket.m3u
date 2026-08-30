@@ -1,13 +1,2 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="St Kitts and Nevis Patriots Vs Antigua &amp; Barbuda Falcons" tvg-logo="" group-title="Cricket",St Kitts and Nevis Patriots Vs Antigua & Barbuda Falcons
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="St Kitts and Nevis Patriots Vs Antigua &amp; Barbuda Falcons" tvg-logo="" group-title="Cricket",St Kitts and Nevis Patriots Vs Antigua & Barbuda Falcons
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-name="St Kitts and Nevis Patriots Vs Antigua &amp; Barbuda Falcons" tvg-logo="" group-title="Cricket",St Kitts and Nevis Patriots Vs Antigua & Barbuda Falcons
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8
+
