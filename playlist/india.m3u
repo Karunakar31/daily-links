@@ -1,9 +1,2 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="India Women Vs Thailand Women" tvg-logo="" group-title="Cricket",India Women Vs Thailand Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6aa3d669577f1f94e7a235efed36fff5:13a909e97536492a83f5229b2d22867b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7hpz2nuaay/out/v1/54335f6493944b3995bb44abc037aaab/cenc.mpd
-#EXTINF:-1 tvg-name="India Women Vs Thailand Women" tvg-logo="" group-title="Cricket",India Women Vs Thailand Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6aa3d669577f1f94e7a235efed36fff5:13a909e97536492a83f5229b2d22867b
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7hpz2nuaay/out/v1/54335f6493944b3995bb44abc037aaab/cenc.mpd
+
