@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Bangladesh Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Indonesia Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd87a29b6a6234bbaa189ddbefbd34d:350383bf6fcb2018e55bb1d02ab10dfe
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d96lm9zm7i/out/v1/9edbcb2484424d6382854ae9ba844623/cenc.mpd
+#EXTINF:-1 tvg-name="Bangladesh Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Indonesia Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd87a29b6a6234bbaa189ddbefbd34d:350383bf6fcb2018e55bb1d02ab10dfe
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d96lm9zm7i/out/v1/9edbcb2484424d6382854ae9ba844623/cenc.mpd
+#EXTINF:-1 tvg-name="Bangladesh Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Indonesia Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd87a29b6a6234bbaa189ddbefbd34d:350383bf6fcb2018e55bb1d02ab10dfe
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="Bangladesh Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Indonesia Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd87a29b6a6234bbaa189ddbefbd34d:350383bf6fcb2018e55bb1d02ab10dfe
+https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Trinbago Knight Riders Vs Guyana Amazon Warriors" tvg-logo="" group-title="Cricket",Trinbago Knight Riders Vs Guyana Amazon Warriors
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="Trinbago Knight Riders Vs Guyana Amazon Warriors" tvg-logo="" group-title="Cricket",Trinbago Knight Riders Vs Guyana Amazon Warriors
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe Vs South Africa" tvg-logo="" group-title="Cricket",Zimbabwe Vs South Africa
+https://file.genoads.com/ch1.m3u8
 #EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
@@ -15,19 +41,3 @@ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uw
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
-#EXTINF:-1 tvg-name="St Kitts and Nevis Patriots Vs Antigua &amp; Barbuda Falcons" tvg-logo="" group-title="Cricket",St Kitts and Nevis Patriots Vs Antigua & Barbuda Falcons
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="St Kitts and Nevis Patriots Vs Antigua &amp; Barbuda Falcons" tvg-logo="" group-title="Cricket",St Kitts and Nevis Patriots Vs Antigua & Barbuda Falcons
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-name="St Kitts and Nevis Patriots Vs Antigua &amp; Barbuda Falcons" tvg-logo="" group-title="Cricket",St Kitts and Nevis Patriots Vs Antigua & Barbuda Falcons
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8
-#EXTINF:-1 tvg-name="St Kitts and Nevis Patriots Vs Antigua &amp; Barbuda Falcons" tvg-logo="" group-title="Cricket",St Kitts and Nevis Patriots Vs Antigua & Barbuda Falcons
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-http://193.47.62.41/hls/ZJJJ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/

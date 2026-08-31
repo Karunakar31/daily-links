@@ -1,2 +1,17 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-name="Bangladesh Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Indonesia Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd87a29b6a6234bbaa189ddbefbd34d:350383bf6fcb2018e55bb1d02ab10dfe
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d96lm9zm7i/out/v1/9edbcb2484424d6382854ae9ba844623/cenc.mpd
+#EXTINF:-1 tvg-name="Bangladesh Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Indonesia Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd87a29b6a6234bbaa189ddbefbd34d:350383bf6fcb2018e55bb1d02ab10dfe
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d96lm9zm7i/out/v1/9edbcb2484424d6382854ae9ba844623/cenc.mpd
+#EXTINF:-1 tvg-name="Bangladesh Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Indonesia Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd87a29b6a6234bbaa189ddbefbd34d:350383bf6fcb2018e55bb1d02ab10dfe
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="Bangladesh Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Indonesia Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd87a29b6a6234bbaa189ddbefbd34d:350383bf6fcb2018e55bb1d02ab10dfe
+https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8

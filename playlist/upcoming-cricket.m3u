@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Trinbago Knight Riders Vs Guyana Amazon Warriors" tvg-logo="" group-title="Cricket",Trinbago Knight Riders Vs Guyana Amazon Warriors
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="Trinbago Knight Riders Vs Guyana Amazon Warriors" tvg-logo="" group-title="Cricket",Trinbago Knight Riders Vs Guyana Amazon Warriors
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe Vs South Africa" tvg-logo="" group-title="Cricket",Zimbabwe Vs South Africa
+https://file.genoads.com/ch1.m3u8
 #EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
