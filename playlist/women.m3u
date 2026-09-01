@@ -1,8 +1,28 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="England Women Vs Ireland Women" tvg-logo="" group-title="Cricket",England Women Vs Ireland Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a665d2f84c21a7707dd198b0a7aba9e:59c4e9ff29d18f72ebbac405f6a0ded6
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yrscyfwlvn/out/v1/628a756f974142e6868e73adbb2bf485/cenc.mpd
+#EXTINF:-1 tvg-name="England Women Vs Ireland Women" tvg-logo="" group-title="Cricket",England Women Vs Ireland Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a665d2f84c21a7707dd198b0a7aba9e:59c4e9ff29d18f72ebbac405f6a0ded6
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-name="England Women Vs Ireland Women" tvg-logo="" group-title="Cricket",England Women Vs Ireland Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a665d2f84c21a7707dd198b0a7aba9e:59c4e9ff29d18f72ebbac405f6a0ded6
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yrscyfwlvn/out/v1/628a756f974142e6868e73adbb2bf485/cenc.mpd
+#EXTINF:-1 tvg-name="England Women Vs Ireland Women" tvg-logo="" group-title="Cricket",England Women Vs Ireland Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a665d2f84c21a7707dd198b0a7aba9e:59c4e9ff29d18f72ebbac405f6a0ded6
 http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="England Women Vs Ireland Women" tvg-logo="" group-title="Cricket",England Women Vs Ireland Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a665d2f84c21a7707dd198b0a7aba9e:59c4e9ff29d18f72ebbac405f6a0ded6
+http://193.47.62.41/hls/R777Q.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Pakistan Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Thailand Women
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="Pakistan Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Thailand Women
+https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Bangladesh Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Indonesia Women
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd87a29b6a6234bbaa189ddbefbd34d:350383bf6fcb2018e55bb1d02ab10dfe
