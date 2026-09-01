@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Pakistan Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Thailand Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd
+#EXTINF:-1 tvg-name="Pakistan Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Thailand Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd
+#EXTINF:-1 tvg-name="Pakistan Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Thailand Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="Pakistan Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Thailand Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4
+https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="England Women Vs Ireland Women" tvg-logo="" group-title="Cricket",England Women Vs Ireland Women
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2a665d2f84c21a7707dd198b0a7aba9e:59c4e9ff29d18f72ebbac405f6a0ded6
@@ -19,23 +35,3 @@ http://tvsen5.aynascope.net/willowhd/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2a665d2f84c21a7707dd198b0a7aba9e:59c4e9ff29d18f72ebbac405f6a0ded6
 http://193.47.62.41/hls/R777Q.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Pakistan Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Thailand Women
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-name="Pakistan Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Thailand Women
-https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Bangladesh Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Indonesia Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd87a29b6a6234bbaa189ddbefbd34d:350383bf6fcb2018e55bb1d02ab10dfe
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d96lm9zm7i/out/v1/9edbcb2484424d6382854ae9ba844623/cenc.mpd
-#EXTINF:-1 tvg-name="Bangladesh Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Indonesia Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd87a29b6a6234bbaa189ddbefbd34d:350383bf6fcb2018e55bb1d02ab10dfe
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d96lm9zm7i/out/v1/9edbcb2484424d6382854ae9ba844623/cenc.mpd
-#EXTINF:-1 tvg-name="Bangladesh Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Indonesia Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd87a29b6a6234bbaa189ddbefbd34d:350383bf6fcb2018e55bb1d02ab10dfe
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-name="Bangladesh Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Indonesia Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd87a29b6a6234bbaa189ddbefbd34d:350383bf6fcb2018e55bb1d02ab10dfe
-https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8
