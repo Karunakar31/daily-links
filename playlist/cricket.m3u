@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="United Arab Emirates Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",United Arab Emirates Women Vs Indonesia Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=709d27a43d7e5336e76d0395ee9b04a8:b109a68de85b07d60fdc13bfbed8f684
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/llm7bx0nly/out/v1/1a697966454b4a3fa149b2815ceecff4/cenc.mpd
-#EXTINF:-1 tvg-name="United Arab Emirates Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",United Arab Emirates Women Vs Indonesia Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=709d27a43d7e5336e76d0395ee9b04a8:b109a68de85b07d60fdc13bfbed8f684
-https://tvsen7.aynascope.net/Sports1/index.m3u8
-#EXTINF:-1 tvg-name="United Arab Emirates Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",United Arab Emirates Women Vs Indonesia Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=709d27a43d7e5336e76d0395ee9b04a8:b109a68de85b07d60fdc13bfbed8f684
-http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Jamaica Kingsmen" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs Jamaica Kingsmen
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
@@ -27,6 +15,18 @@ http://tvsen5.aynascope.net/willowhd/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-name="United Arab Emirates Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",United Arab Emirates Women Vs Indonesia Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=709d27a43d7e5336e76d0395ee9b04a8:b109a68de85b07d60fdc13bfbed8f684
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/llm7bx0nly/out/v1/1a697966454b4a3fa149b2815ceecff4/cenc.mpd
+#EXTINF:-1 tvg-name="United Arab Emirates Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",United Arab Emirates Women Vs Indonesia Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=709d27a43d7e5336e76d0395ee9b04a8:b109a68de85b07d60fdc13bfbed8f684
+https://tvsen7.aynascope.net/Sports1/index.m3u8
+#EXTINF:-1 tvg-name="United Arab Emirates Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",United Arab Emirates Women Vs Indonesia Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=709d27a43d7e5336e76d0395ee9b04a8:b109a68de85b07d60fdc13bfbed8f684
+http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
