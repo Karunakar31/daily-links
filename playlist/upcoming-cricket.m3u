@@ -1,34 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Namibia Vs South Africa" tvg-logo="" group-title="Cricket",Namibia Vs South Africa
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1 tvg-name="Namibia Vs South Africa" tvg-logo="" group-title="Cricket",Namibia Vs South Africa
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/i29wc7rgws/out/v1/620df28d026f425da1b826a40c43bebc/cenc.mpd
-#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
-#EXTINF:-1 tvg-name="United Arab Emirates Women Vs Indonesia Women" tvg-logo="" group-title="Cricket",United Arab Emirates Women Vs Indonesia Women
-https://tvsen7.aynascope.net/Sports1/index.m3u8
 #EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Jamaica Kingsmen" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs Jamaica Kingsmen
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
@@ -36,7 +6,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 #EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Jamaica Kingsmen" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs Jamaica Kingsmen
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8
+https://tmaxapp.site/8wirwjs76erftg/skysport5nz8cas5df.m3u8
 #EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Jamaica Kingsmen" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs Jamaica Kingsmen
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
