@@ -45,3 +45,31 @@ http://tvsen5.aynascope.net/willowhd/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-name="Barbados Tridents Women Vs Trinbago Knight Riders Women" tvg-logo="" group-title="Cricket",Barbados Tridents Women Vs Trinbago Knight Riders Women
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-name="Barbados Tridents Women Vs Trinbago Knight Riders Women" tvg-logo="" group-title="Cricket",Barbados Tridents Women Vs Trinbago Knight Riders Women
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="Barbados Tridents Vs Trinbago Knight Riders" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Trinbago Knight Riders
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="Barbados Tridents Vs Trinbago Knight Riders" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Trinbago Knight Riders
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="Barbados Tridents Vs Trinbago Knight Riders" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Trinbago Knight Riders
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-name="Jamaica Empress Women Vs Guyana Amazon Warriors Women" tvg-logo="" group-title="Cricket",Jamaica Empress Women Vs Guyana Amazon Warriors Women
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-name="Jamaica Empress Women Vs Guyana Amazon Warriors Women" tvg-logo="" group-title="Cricket",Jamaica Empress Women Vs Guyana Amazon Warriors Women
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs St Kitts and Nevis Patriots
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs St Kitts and Nevis Patriots
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="Barbados Tridents Vs Saint Lucia Kings" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Saint Lucia Kings
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-name="Barbados Tridents Vs Saint Lucia Kings" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Saint Lucia Kings
+http://tvsen5.aynascope.net/willowhd/index.m3u8
