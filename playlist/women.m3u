@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="India Women Vs Pakistan Women" tvg-logo="" group-title="Cricket",India Women Vs Pakistan Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hstagw1sce/out/v1/89a71328e3af4a3883937e9d9bf3e054/cenc.mpd
-#EXTINF:-1 tvg-name="India Women Vs Pakistan Women" tvg-logo="" group-title="Cricket",India Women Vs Pakistan Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hstagw1sce/out/v1/89a71328e3af4a3883937e9d9bf3e054/cenc.mpd
-#EXTINF:-1 tvg-name="India Women Vs Pakistan Women" tvg-logo="" group-title="Cricket",India Women Vs Pakistan Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://tvsen7.aynascope.net/Sports1/index.m3u8
-#EXTINF:-1 tvg-name="India Women Vs Pakistan Women" tvg-logo="" group-title="Cricket",India Women Vs Pakistan Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-name="Barbados Tridents Women Vs Trinbago Knight Riders Women" tvg-logo="" group-title="Cricket",Barbados Tridents Women Vs Trinbago Knight Riders Women
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
@@ -31,6 +15,10 @@ http://tvsen5.aynascope.net/willowhd/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8
+#EXTINF:-1 tvg-name="England Women Vs Ireland Women" tvg-logo="" group-title="Cricket",England Women Vs Ireland Women
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-name="England Women Vs Ireland Women" tvg-logo="" group-title="Cricket",England Women Vs Ireland Women
+https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8
 #EXTINF:-1 tvg-name="Jamaica Empress Women Vs Guyana Amazon Warriors Women" tvg-logo="" group-title="Cricket",Jamaica Empress Women Vs Guyana Amazon Warriors Women
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-name="Jamaica Empress Women Vs Guyana Amazon Warriors Women" tvg-logo="" group-title="Cricket",Jamaica Empress Women Vs Guyana Amazon Warriors Women
