@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Pakistan Women Vs Hong Kong C." tvg-logo="" group-title="Cricket",Pakistan Women Vs Hong Kong C.
+http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
@@ -7,9 +9,3 @@ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uw
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
-#EXTINF:-1 tvg-name="Barbados Tridents Vs Saint Lucia Kings" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Saint Lucia Kings
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-#EXTINF:-1 tvg-name="Barbados Tridents Vs Saint Lucia Kings" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Saint Lucia Kings
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
-#EXTINF:-1 tvg-name="Barbados Tridents Vs Saint Lucia Kings" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Saint Lucia Kings
-http://tvsen5.aynascope.net/willowhd/index.m3u8
