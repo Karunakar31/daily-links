@@ -3,10 +3,18 @@
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 #EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Antigua &amp; Barbuda Falcons" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs Antigua & Barbuda Falcons
 https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8
+#EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Antigua &amp; Barbuda Falcons" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs Antigua & Barbuda Falcons
+http://193.47.62.41/hls/VVVVVA.m3u8?
+#EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Antigua &amp; Barbuda Falcons" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs Antigua & Barbuda Falcons
+http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Namibia Vs South Africa" tvg-logo="" group-title="Cricket",Namibia Vs South Africa
 https://tvsen7.aynascope.net/Sports1/index.m3u8
 #EXTINF:-1 tvg-name="Namibia Vs South Africa" tvg-logo="" group-title="Cricket",Namibia Vs South Africa
 http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="Namibia Vs South Africa" tvg-logo="" group-title="Cricket",Namibia Vs South Africa
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-name="England Vs Pakistan" tvg-logo="" group-title="Cricket",England Vs Pakistan
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 #EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
@@ -15,14 +23,16 @@ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uw
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+#EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Saint Lucia Kings" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs Saint Lucia Kings
+https://file.genoads.com/ch1.m3u8
 #EXTINF:-1 tvg-name="India Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",India Women Vs Bangladesh Women
 https://tvsen7.aynascope.net/Sports1/index.m3u8
 #EXTINF:-1 tvg-name="India Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",India Women Vs Bangladesh Women
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka Women Vs Pakistan Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs Pakistan Women
-https://edgestream2.pro/hls/.m3u8
+https://tvsen7.aynascope.net/Sports1/index.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka Women Vs Pakistan Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs Pakistan Women
-https://streame.center
+http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="Pakistan Women Vs Hong Kong C." tvg-logo="" group-title="Cricket",Pakistan Women Vs Hong Kong C.
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qhj7fyqqpl/out/v1/bca61413994542088261e44b1bf1c5de/cenc.mpd
 #EXTINF:-1 tvg-name="Pakistan Women Vs Hong Kong C." tvg-logo="" group-title="Cricket",Pakistan Women Vs Hong Kong C.
