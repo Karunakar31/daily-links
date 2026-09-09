@@ -127,6 +127,26 @@ function streamsFor(match) {
     const index = fieldIndex(drmPart || item.key, 'drm');
     if ((index !== null || drmPart) && item.value) drmByIndex.set(index ?? numericSuffix(drmPart || item.key), item.value);
   }
+
+  // Build a lookup of kid/key pairs from stream objects in the "streams" array.
+  // Source data uses: { stream_url: "...mpd", kid: "abc", key: "def" }
+  // We combine them into "kid:key" ClearKey format, keyed by the stream_url value.
+  const kidKeyByUrl = new Map();
+  const streamArrays = findStreamArrays(match);
+  for (const streamObj of streamArrays) {
+    if (!streamObj || typeof streamObj !== 'object' || Array.isArray(streamObj)) continue;
+    const keys = Object.keys(streamObj);
+    const kidField = keys.find((k) => /^kid$/i.test(k));
+    const keyField = keys.find((k) => /^key$/i.test(k));
+    if (kidField && keyField && text(streamObj[kidField]) && text(streamObj[keyField])) {
+      // Find the stream_url in this same object to associate the kid:key pair
+      const urlField = keys.find((k) => /stream[_\s-]*url|url/i.test(k));
+      if (urlField && text(streamObj[urlField])) {
+        kidKeyByUrl.set(text(streamObj[urlField]), `${text(streamObj[kidField])}:${text(streamObj[keyField])}`);
+      }
+    }
+  }
+
   const streams = [];
   for (const item of values) {
     // Use the complete path: { m3u8_urls: ["https://..."] } has a numeric
@@ -140,10 +160,38 @@ function streamsFor(match) {
     // names are clearly stream-like. Artwork URLs are deliberately excluded.
     if ((index !== null || keyIsStreamLike) && !keyIsArtwork && isPlayableUrl(item.value)) {
       const streamIndex = index ?? numericSuffix(streamPart || item.key);
-      streams.push({ url: item.value, drmKey: drmByIndex.get(streamIndex) || '' });
+      // Check for kid:key pair from sibling fields first, then fall back to drm_key pattern
+      const drmKey = kidKeyByUrl.get(item.value) || drmByIndex.get(streamIndex) || '';
+      streams.push({ url: item.value, drmKey });
     }
   }
   return streams;
+}
+
+/**
+ * Extracts stream objects from all "streams"-like arrays within a match object.
+ * Handles structures like: { streams: [ { stream_url, kid, key }, ... ] }
+ */
+function findStreamArrays(match) {
+  const results = [];
+  function walk(obj) {
+    if (!obj || typeof obj !== 'object') return;
+    if (Array.isArray(obj)) {
+      for (const item of obj) walk(item);
+      return;
+    }
+    for (const [key, value] of Object.entries(obj)) {
+      if (Array.isArray(value) && /stream|source|channel|link/i.test(key)) {
+        for (const item of value) {
+          if (item && typeof item === 'object' && !Array.isArray(item)) results.push(item);
+        }
+      } else if (value && typeof value === 'object') {
+        walk(value);
+      }
+    }
+  }
+  walk(match);
+  return results;
 }
 
 function matchMetadata(match) {
