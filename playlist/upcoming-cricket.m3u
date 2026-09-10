@@ -1,8 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="India Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",India Women Vs Bangladesh Women
-https://tvsen7.aynascope.net/Sports1/index.m3u8
-#EXTINF:-1 tvg-name="India Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",India Women Vs Bangladesh Women
-http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="Barbados Tridents Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Barbados Tridents Vs St Kitts and Nevis Patriots
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-name="Barbados Tridents Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Barbados Tridents Vs St Kitts and Nevis Patriots
+https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8
+#EXTINF:-1 tvg-name="Namibia Vs South Africa" tvg-logo="" group-title="Cricket",Namibia Vs South Africa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 #EXTINF:-1 tvg-name="Sri Lanka Women Vs Pakistan Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs Pakistan Women
 https://tvsen7.aynascope.net/Sports1/index.m3u8
 #EXTINF:-1 tvg-name="Sri Lanka Women Vs Pakistan Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs Pakistan Women
