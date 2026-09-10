@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Barbados Tridents Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Barbados Tridents Vs St Kitts and Nevis Patriots
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#EXTINF:-1 tvg-name="Barbados Tridents Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Barbados Tridents Vs St Kitts and Nevis Patriots
-https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8
 #EXTINF:-1 tvg-name="Namibia Vs South Africa" tvg-logo="" group-title="Cricket",Namibia Vs South Africa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
