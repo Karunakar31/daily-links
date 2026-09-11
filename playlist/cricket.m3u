@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Barbados Tridents Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Barbados Tridents Vs St Kitts and Nevis Patriots
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#EXTINF:-1 tvg-name="Barbados Tridents Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Barbados Tridents Vs St Kitts and Nevis Patriots
-https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8
-#EXTINF:-1 tvg-name="Barbados Tridents Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Barbados Tridents Vs St Kitts and Nevis Patriots
-http://193.47.62.43/hls/UVVVa.m3u8?
-#EXTINF:-1 tvg-name="Barbados Tridents Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Barbados Tridents Vs St Kitts and Nevis Patriots
-http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Barbados Tridents Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Barbados Tridents Vs St Kitts and Nevis Patriots
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-name="Namibia Vs South Africa" tvg-logo="" group-title="Cricket",Namibia Vs South Africa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
@@ -47,3 +35,15 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+#EXTINF:-1 tvg-name="Barbados Tridents Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Barbados Tridents Vs St Kitts and Nevis Patriots
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-name="Barbados Tridents Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Barbados Tridents Vs St Kitts and Nevis Patriots
+https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8
+#EXTINF:-1 tvg-name="Barbados Tridents Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Barbados Tridents Vs St Kitts and Nevis Patriots
+http://193.47.62.43/hls/UVVVa.m3u8?
+#EXTINF:-1 tvg-name="Barbados Tridents Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Barbados Tridents Vs St Kitts and Nevis Patriots
+http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Barbados Tridents Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Barbados Tridents Vs St Kitts and Nevis Patriots
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
