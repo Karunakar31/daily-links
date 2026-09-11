@@ -5,15 +5,9 @@
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 #EXTINF:-1 tvg-name="Barbados Tridents Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Barbados Tridents Vs St Kitts and Nevis Patriots
 https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8
-#EXTINF:-1 tvg-name="India Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",India Women Vs Bangladesh Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=003c72c63c86f868ef211119981e5046:ca3cf9655b3dfa0a6b1d353ae7527bb0
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdjwigiywh/out/v1/f524d603272e4527b06aef18e80d9404/cenc.mpd
-#EXTINF:-1 tvg-name="India Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",India Women Vs Bangladesh Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=003c72c63c86f868ef211119981e5046:ca3cf9655b3dfa0a6b1d353ae7527bb0
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qdjwigiywh/out/v1/f524d603272e4527b06aef18e80d9404/cenc.mpd
-#EXTINF:-1 tvg-name="India Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",India Women Vs Bangladesh Women
-https://tvsen7.aynascope.net/Sports1/index.m3u8
-#EXTINF:-1 tvg-name="India Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",India Women Vs Bangladesh Women
-http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="Barbados Tridents Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Barbados Tridents Vs St Kitts and Nevis Patriots
+http://193.47.62.43/hls/UVVVa.m3u8?
+#EXTINF:-1 tvg-name="Barbados Tridents Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Barbados Tridents Vs St Kitts and Nevis Patriots
+http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Barbados Tridents Vs St Kitts and Nevis Patriots" tvg-logo="" group-title="Cricket",Barbados Tridents Vs St Kitts and Nevis Patriots
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
