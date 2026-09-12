@@ -1,33 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=143a35fab2c5e553c1cc1936ac1fc488:9f11816687cec7221afad1492fa320ec
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tziwdkyit3/out/v1/2d48b29d83c445fabe81fb7858b14081/cenc.mpd
-#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
+#EXTINF:-1 tvg-name="Barbados Tridents Women Vs Jamaica Empress Women" tvg-logo="" group-title="Cricket",Barbados Tridents Women Vs Jamaica Empress Women
+https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xcdfg.m3u8
+#EXTINF:-1 tvg-name="Barbados Tridents Women Vs Jamaica Empress Women" tvg-logo="" group-title="Cricket",Barbados Tridents Women Vs Jamaica Empress Women
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
-#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-name="England Vs Pakistan" tvg-logo="" group-title="Cricket",England Vs Pakistan
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=227091e30e129f3d085506e8153c208a:5e082e054635e0532947eedb4f5b1861
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oz1myqmjwy/out/v1/a511251e49ee413ab48bad03d3d32863/cenc.mpd
-#EXTINF:-1 tvg-name="England Vs Pakistan" tvg-logo="" group-title="Cricket",England Vs Pakistan
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="England Vs Pakistan" tvg-logo="" group-title="Cricket",England Vs Pakistan
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=227091e30e129f3d085506e8153c208a:5e082e054635e0532947eedb4f5b1861
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oz1myqmjwy/out/v1/a511251e49ee413ab48bad03d3d32863/cenc.mpd
-#EXTINF:-1 tvg-name="England Vs Pakistan" tvg-logo="" group-title="Cricket",England Vs Pakistan
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
-#EXTINF:-1 tvg-name="England Vs Pakistan" tvg-logo="" group-title="Cricket",England Vs Pakistan
-https://criccoder.pages.dev/astro.m3u8
-#EXTINF:-1 tvg-name="England Vs Pakistan" tvg-logo="" group-title="Cricket",England Vs Pakistan
-https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8
