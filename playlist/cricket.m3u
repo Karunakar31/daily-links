@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Barbados Tridents Women Vs Jamaica Empress Women" tvg-logo="" group-title="Cricket",Barbados Tridents Women Vs Jamaica Empress Women
+https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xcdfg.m3u8
+#EXTINF:-1 tvg-name="Barbados Tridents Women Vs Jamaica Empress Women" tvg-logo="" group-title="Cricket",Barbados Tridents Women Vs Jamaica Empress Women
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=143a35fab2c5e553c1cc1936ac1fc488:9f11816687cec7221afad1492fa320ec
@@ -31,7 +35,3 @@ https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xcdfg.m3u8
 https://tvsen7.aynascope.net/Sports1/index.m3u8
 #EXTINF:-1 tvg-name="India Women Vs Sri Lanka Women" tvg-logo="" group-title="Cricket",India Women Vs Sri Lanka Women
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-name="Barbados Tridents Women Vs Jamaica Empress Women" tvg-logo="" group-title="Cricket",Barbados Tridents Women Vs Jamaica Empress Women
-https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xcdfg.m3u8
-#EXTINF:-1 tvg-name="Barbados Tridents Women Vs Jamaica Empress Women" tvg-logo="" group-title="Cricket",Barbados Tridents Women Vs Jamaica Empress Women
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
