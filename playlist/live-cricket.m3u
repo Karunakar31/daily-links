@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Barbados Tridents Women Vs Jamaica Empress Women" tvg-logo="" group-title="Cricket",Barbados Tridents Women Vs Jamaica Empress Women
-https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xcdfg.m3u8
-#EXTINF:-1 tvg-name="Barbados Tridents Women Vs Jamaica Empress Women" tvg-logo="" group-title="Cricket",Barbados Tridents Women Vs Jamaica Empress Women
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-name="Barbados Tridents Vs Jamaica Kingsmen" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Jamaica Kingsmen
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aef43f383ed631a73e44fcc74a58bc17:310cad89bcaa4ccccc04c08f3a2e75c7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/plycs06qim/out/v1/834525925dbd4ad3a84d29f24938dd80/cenc.mpd
 #EXTINF:-1 tvg-name="Barbados Tridents Vs Jamaica Kingsmen" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Jamaica Kingsmen
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
