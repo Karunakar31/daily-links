@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5065b5cc671f155d8a2a115d29e21f33:c40b6aa86535c8e057b74f81f1231afc
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5vutugmafz/out/v1/a5e59edfbdf142d6bca219267d1a672a/cenc.mpd
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
@@ -24,6 +28,30 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 #EXTINF:-1 tvg-name="India Women Vs Sri Lanka Women" tvg-logo="" group-title="Cricket",India Women Vs Sri Lanka Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65a3c62b676acff463b432c3d09ee266:5436e81a463d838a391634f9552140f2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gmdaariqsc/out/v1/c6c30912e8c34d69990e658646403931/cenc.mpd
+#EXTINF:-1 tvg-name="India Women Vs Sri Lanka Women" tvg-logo="" group-title="Cricket",India Women Vs Sri Lanka Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65a3c62b676acff463b432c3d09ee266:5436e81a463d838a391634f9552140f2
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gmdaariqsc/out/v1/c6c30912e8c34d69990e658646403931/cenc.mpd
+#EXTINF:-1 tvg-name="India Women Vs Sri Lanka Women" tvg-logo="" group-title="Cricket",India Women Vs Sri Lanka Women
 https://tvsen7.aynascope.net/Sports1/index.m3u8
 #EXTINF:-1 tvg-name="India Women Vs Sri Lanka Women" tvg-logo="" group-title="Cricket",India Women Vs Sri Lanka Women
 http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="Afghanistan Vs India" tvg-logo="" group-title="Cricket",Afghanistan Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34d9aa9c9437b91d9235b62cbe5ce551:6851a07451382c5eadffe9cb7a130440
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/va142ya1td/out/v1/aae3c310bf7446e9a8dd88ed7de5b1ee/cenc.mpd
+#EXTINF:-1 tvg-name="Afghanistan Vs India" tvg-logo="" group-title="Cricket",Afghanistan Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-name="Afghanistan Vs India" tvg-logo="" group-title="Cricket",Afghanistan Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34d9aa9c9437b91d9235b62cbe5ce551:6851a07451382c5eadffe9cb7a130440
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/va142ya1td/out/v1/aae3c310bf7446e9a8dd88ed7de5b1ee/cenc.mpd
+#EXTINF:-1 tvg-name="Afghanistan Vs India" tvg-logo="" group-title="Cricket",Afghanistan Vs India
+http://193.47.62.41/hls/TAAADDDD.m3u8?
+#EXTINF:-1 tvg-name="Afghanistan Vs India" tvg-logo="" group-title="Cricket",Afghanistan Vs India
+http://www.fawanews.sc/
