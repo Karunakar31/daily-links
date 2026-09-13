@@ -1,5 +1,25 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-name="Namibia Vs South Africa" tvg-logo="" group-title="Cricket",Namibia Vs South Africa
+https://cdn-gstyx.styxsports.live/STYX/streams/68oRKR23qeWZvCXu6248791548119.m3u8
+#EXTINF:-1 tvg-name="Namibia Vs South Africa" tvg-logo="" group-title="Cricket",Namibia Vs South Africa
+https://www.styxsports.com/
 #EXTINF:-1 tvg-name="Namibia Vs South Africa" tvg-logo="" group-title="Cricket",Namibia Vs South Africa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-name="Namibia Vs South Africa" tvg-logo="" group-title="Cricket",Namibia Vs South Africa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
