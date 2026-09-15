@@ -1,16 +1,52 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4895c87726de3958e86b9a4557df4cea:7af28b191fc23a1332c9b41400c15d3d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kf7yl3p0f9/out/v1/4a463dfd04374d4284c21789dce6247e/cenc.mpd
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
+#EXTINF:-1 tvg-name="Afghanistan Vs India" tvg-logo="" group-title="Cricket",Afghanistan Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=881660f21b521a54803840a388caaffa:b152a33ccb29c23fc05f8e6379f69551
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8t3oqznxym/out/v1/49c0d8b9b6c5406492957674e591586f/cenc.mpd
+#EXTINF:-1 tvg-name="Afghanistan Vs India" tvg-logo="" group-title="Cricket",Afghanistan Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-name="Afghanistan Vs India" tvg-logo="" group-title="Cricket",Afghanistan Vs India
+http://193.47.62.44/hls/CGGGQQQX.m3u8?
+#EXTINF:-1 tvg-name="Afghanistan Vs India" tvg-logo="" group-title="Cricket",Afghanistan Vs India
+http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Afghanistan Vs India" tvg-logo="" group-title="Cricket",Afghanistan Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=881660f21b521a54803840a388caaffa:b152a33ccb29c23fc05f8e6379f69551
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8t3oqznxym/out/v1/49c0d8b9b6c5406492957674e591586f/cenc.mpd
+#EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
+https://8gwifi.org/api/pastebin/hscvejv5/raw?e=.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
+https://ois.poltumola.xyz/dx14md/index.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
+https://megatech.com
+#EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
+https://ois.poltumola.xyz/dx14sd/index.m3u8
 #EXTINF:-1 tvg-name="Barbados Tridents Vs Jamaica Kingsmen" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Jamaica Kingsmen
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="Barbados Tridents Vs Jamaica Kingsmen" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Jamaica Kingsmen
@@ -19,3 +55,21 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Antigua &amp; Barbuda Falcons" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs Antigua & Barbuda Falcons
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-name="Barbados Tridents Women Vs Guyana Amazon Warriors Women" tvg-logo="" group-title="Cricket",Barbados Tridents Women Vs Guyana Amazon Warriors Women
+https://edgestream2.pro/hls/.m3u8
+#EXTINF:-1 tvg-name="Barbados Tridents Women Vs Guyana Amazon Warriors Women" tvg-logo="" group-title="Cricket",Barbados Tridents Women Vs Guyana Amazon Warriors Women
+https://streame.center
+#EXTINF:-1 tvg-name="Barbados Tridents Vs Jamaica Kingsmen" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Jamaica Kingsmen
+https://edgestream2.pro/hls/.m3u8
+#EXTINF:-1 tvg-name="Barbados Tridents Vs Jamaica Kingsmen" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Jamaica Kingsmen
+https://streame.center
+#EXTINF:-1 tvg-name="Pakistan Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Thailand Women
+https://edgestream2.pro/hls/.m3u8
+#EXTINF:-1 tvg-name="Pakistan Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Thailand Women
+https://streame.center
+#EXTINF:-1 tvg-name="Bangladesh Women Vs China Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs China Women
+https://edgestream2.pro/hls/.m3u8
+#EXTINF:-1 tvg-name="Bangladesh Women Vs China Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs China Women
+https://streame.center
+#EXTINF:-1 tvg-name="England Under-19 Vs Pakistan Under-19" tvg-logo="" group-title="Cricket",England Under-19 Vs Pakistan Under-19
+http://51.77.217.114:8089/PKEGU19/index.m3u8
