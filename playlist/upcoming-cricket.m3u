@@ -4,10 +4,6 @@
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 #EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4895c87726de3958e86b9a4557df4cea:7af28b191fc23a1332c9b41400c15d3d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kf7yl3p0f9/out/v1/4a463dfd04374d4284c21789dce6247e/cenc.mpd
-#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
@@ -48,21 +44,23 @@ http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
 https://ois.poltumola.xyz/dx14sd/index.m3u8
 #EXTINF:-1 tvg-name="Barbados Tridents Vs Jamaica Kingsmen" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Jamaica Kingsmen
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-name="Barbados Tridents Vs Jamaica Kingsmen" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Jamaica Kingsmen
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="Barbados Tridents Vs Jamaica Kingsmen" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Jamaica Kingsmen
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-name="Barbados Tridents Vs Jamaica Kingsmen" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Jamaica Kingsmen
+https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8
 #EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Antigua &amp; Barbuda Falcons" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs Antigua & Barbuda Falcons
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Antigua &amp; Barbuda Falcons" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs Antigua & Barbuda Falcons
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-name="Barbados Tridents Women Vs Guyana Amazon Warriors Women" tvg-logo="" group-title="Cricket",Barbados Tridents Women Vs Guyana Amazon Warriors Women
-https://edgestream2.pro/hls/.m3u8
+https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8
 #EXTINF:-1 tvg-name="Barbados Tridents Women Vs Guyana Amazon Warriors Women" tvg-logo="" group-title="Cricket",Barbados Tridents Women Vs Guyana Amazon Warriors Women
-https://streame.center
-#EXTINF:-1 tvg-name="Barbados Tridents Vs Jamaica Kingsmen" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Jamaica Kingsmen
-https://edgestream2.pro/hls/.m3u8
-#EXTINF:-1 tvg-name="Barbados Tridents Vs Jamaica Kingsmen" tvg-logo="" group-title="Cricket",Barbados Tridents Vs Jamaica Kingsmen
-https://streame.center
+http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="Pakistan Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Thailand Women
 https://edgestream2.pro/hls/.m3u8
 #EXTINF:-1 tvg-name="Pakistan Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Thailand Women
