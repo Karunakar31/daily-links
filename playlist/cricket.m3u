@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c759dbe41658ffa70178916dac16af09:20d289ab10af288ff4219c9d0c7a9698
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/knpjs2062k/out/v1/714e6be7d5d04a4f94852283a743f12a/cenc.mpd
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-http://193.47.62.59/hls/IVVVAAAAA.m3u8?
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://ois.poltumola.xyz/dx15sd/index.m3u8
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://megatech.com
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://ois.poltumola.xyz/dx15md/index.m3u8
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://ois.poltumola.xyz/dx15hd/index.m3u8
 #EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
@@ -99,3 +73,29 @@ https://edgestream2.pro/hls/.m3u8
 https://streame.center
 #EXTINF:-1 tvg-name="England Under-19 Vs Pakistan Under-19" tvg-logo="" group-title="Cricket",England Under-19 Vs Pakistan Under-19
 http://51.77.217.114:8089/PKEGU19/index.m3u8
+#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c759dbe41658ffa70178916dac16af09:20d289ab10af288ff4219c9d0c7a9698
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/knpjs2062k/out/v1/714e6be7d5d04a4f94852283a743f12a/cenc.mpd
+#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
+https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8
+#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
+https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8
+#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
+http://193.47.62.59/hls/IVVVAAAAA.m3u8?
+#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
+http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
+https://ois.poltumola.xyz/dx15sd/index.m3u8
+#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
+https://megatech.com
+#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
+https://ois.poltumola.xyz/dx15md/index.m3u8
+#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
+https://ois.poltumola.xyz/dx15hd/index.m3u8
