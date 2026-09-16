@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="England Under-19 Vs Pakistan Under-19" tvg-logo="" group-title="Cricket",England Under-19 Vs Pakistan Under-19
+http://51.77.217.114:8089/PKEGU19/index.m3u8
 #EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
@@ -69,8 +71,6 @@ https://streame.center
 https://edgestream2.pro/hls/.m3u8
 #EXTINF:-1 tvg-name="Bangladesh Women Vs China Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs China Women
 https://streame.center
-#EXTINF:-1 tvg-name="England Under-19 Vs Pakistan Under-19" tvg-logo="" group-title="Cricket",England Under-19 Vs Pakistan Under-19
-http://51.77.217.114:8089/PKEGU19/index.m3u8
 #EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c759dbe41658ffa70178916dac16af09:20d289ab10af288ff4219c9d0c7a9698
