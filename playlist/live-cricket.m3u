@@ -5,6 +5,10 @@
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 #EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c19a63795e6cc21b17669a8d4e0924ac:e7b0b8b169c2925d9acc357c075bc35a
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/p4y7msno3j/out/v1/e74a50c781654589b6ffccc163151347/cenc.mpd
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=72c45829112c36ea39177f661043a4d1:ba4388e2df24761496415881d73ee373
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z8ett7bmxa/out/v1/de11f96c14754e4fb2c2a10e15c79289/cenc.mpd
 #EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
@@ -15,6 +19,18 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-name="Afghanistan Vs India" tvg-logo="" group-title="Cricket",Afghanistan Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-name="Afghanistan Vs India" tvg-logo="" group-title="Cricket",Afghanistan Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e802e5373c59195ff0a9838814db6f4:d76ecf4be947c06874c1b57427f9e85b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jiilpnzrrt/out/v1/fe73fae0c76146758ce185e49c411869/cenc.mpd
+#EXTINF:-1 tvg-name="Afghanistan Vs India" tvg-logo="" group-title="Cricket",Afghanistan Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e802e5373c59195ff0a9838814db6f4:d76ecf4be947c06874c1b57427f9e85b
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jiilpnzrrt/out/v1/fe73fae0c76146758ce185e49c411869/cenc.mpd
 #EXTINF:-1 tvg-name="Pakistan Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Thailand Women
 https://seriealeague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
 #EXTINF:-1 tvg-name="Pakistan Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Thailand Women

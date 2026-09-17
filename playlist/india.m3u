@@ -3,3 +3,11 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-name="Afghanistan Vs India" tvg-logo="" group-title="Cricket",Afghanistan Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e802e5373c59195ff0a9838814db6f4:d76ecf4be947c06874c1b57427f9e85b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jiilpnzrrt/out/v1/fe73fae0c76146758ce185e49c411869/cenc.mpd
+#EXTINF:-1 tvg-name="Afghanistan Vs India" tvg-logo="" group-title="Cricket",Afghanistan Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e802e5373c59195ff0a9838814db6f4:d76ecf4be947c06874c1b57427f9e85b
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jiilpnzrrt/out/v1/fe73fae0c76146758ce185e49c411869/cenc.mpd
