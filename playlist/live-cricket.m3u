@@ -1,17 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Antigua &amp; Barbuda Falcons" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs Antigua & Barbuda Falcons
+#EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-#EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Antigua &amp; Barbuda Falcons" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs Antigua & Barbuda Falcons
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c69d7c5adb4a9553c8779252845b70e:ffe2bb9229136d9abd3509ca953ecbe5
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ebtvrbc0t/out/v1/e36632bfec014cdd96e0e8a664ede644/cenc.mpd
-#EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Antigua &amp; Barbuda Falcons" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs Antigua & Barbuda Falcons
-https://baila-lentoo.pages.dev/nwp/809392.m3u8
-#EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Antigua &amp; Barbuda Falcons" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs Antigua & Barbuda Falcons
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Antigua &amp; Barbuda Falcons" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs Antigua & Barbuda Falcons
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
+https://8gwifi.org/api/pastebin/hscvejv5/raw?e=.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
+https://ois.poltumola.xyz/dx14md/index.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
+https://megatech.com
+#EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
-#EXTINF:-1 tvg-name="Guyana Amazon Warriors Vs Antigua &amp; Barbuda Falcons" tvg-logo="" group-title="Cricket",Guyana Amazon Warriors Vs Antigua & Barbuda Falcons
-https://baila-lentoo.pages.dev/nwp/809395.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
+https://ois.poltumola.xyz/dx14sd/index.m3u8
+#EXTINF:-1 tvg-name="Japan Women Vs India Women" tvg-logo="" group-title="Cricket",Japan Women Vs India Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07dc2346823644f4fc76855ac0b28934:f390daae70c6db7787471e7790ef55e3
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/45rdnte6d6/out/v1/78a278d9350e4c57bc64f1142d08db41/cenc.mpd
+#EXTINF:-1 tvg-name="Japan Women Vs India Women" tvg-logo="" group-title="Cricket",Japan Women Vs India Women
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789708648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a0872a42eb1449d7c4ba465212d5c528
+#EXTINF:-1 tvg-name="Japan Women Vs India Women" tvg-logo="" group-title="Cricket",Japan Women Vs India Women
+https://iframe.rumsport8.live
