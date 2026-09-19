@@ -1,2 +1,9 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-name="Queensland Vs Victoria" tvg-logo="" group-title="Cricket",Queensland Vs Victoria
+https://tmaxapp.site/8wirwjs76erftg/skysport6nz47z58f.m3u8
+#EXTINF:-1 tvg-name="Queensland Vs Victoria" tvg-logo="" group-title="Cricket",Queensland Vs Victoria
+https://baila-lentoo.pages.dev/nwp/809397.m3u8
+#EXTINF:-1 tvg-name="Queensland Vs Victoria" tvg-logo="" group-title="Cricket",Queensland Vs Victoria
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
