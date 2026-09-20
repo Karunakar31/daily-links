@@ -1,8 +1,40 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d8b6d946a51363b9e28958fd78f8ea3:0f0b52979c044b7137f53ede158d885d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l8bozkslp6/out/v1/dd2abb1c379b492db9cf6233d878bcca/cenc.mpd
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d8b6d946a51363b9e28958fd78f8ea3:0f0b52979c044b7137f53ede158d885d
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/l8bozkslp6/out/v1/dd2abb1c379b492db9cf6233d878bcca/cenc.mpd
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2cb97ecd09667ea72635203ce449e0e:481ede365c7c5f1076616490355173d1
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bujlegrj2g/out/v1/6d76f89fb5984174a6837e59d6aee8ba/cenc.mpd
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789708648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a0872a42eb1449d7c4ba465212d5c528
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
+https://iframe.rumsport8.live
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-name="EUROPEAN T20 Vs Premier League T20" tvg-logo="" group-title="Cricket",EUROPEAN T20 Vs Premier League T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
+http://193.47.62.44/hls/liiiQQ.m3u8?
+#EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
+http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
 https://8gwifi.org/api/pastebin/hscvejv5/raw?e=.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
@@ -15,17 +47,3 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe Vs Australia" tvg-logo="" group-title="Cricket",Zimbabwe Vs Australia
 https://ois.poltumola.xyz/dx14sd/index.m3u8
-#EXTINF:-1 tvg-name="Bangladesh Women Vs India Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs India Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41af1e2d71a5921c8c32ea209f3e1846:5d8a2cf9110731f4f0bf40833f0c98cc
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k9yu7gqx4l/out/v1/802932ae129a4f7db700113d6598b50f/cenc.mpd
-#EXTINF:-1 tvg-name="Bangladesh Women Vs India Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs India Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41af1e2d71a5921c8c32ea209f3e1846:5d8a2cf9110731f4f0bf40833f0c98cc
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k9yu7gqx4l/out/v1/802932ae129a4f7db700113d6598b50f/cenc.mpd
-#EXTINF:-1 tvg-name="Bangladesh Women Vs India Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs India Women
-http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
-#EXTINF:-1 tvg-name="Bangladesh Women Vs India Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs India Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
