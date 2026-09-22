@@ -1,7 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Pakistan Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Bangladesh Women
-https://file.genoads.com/ch1.m3u8
+http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
+#EXTINF:-1 tvg-name="Pakistan Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Bangladesh Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41af1e2d71a5921c8c32ea209f3e1846:5d8a2cf9110731f4f0bf40833f0c98cc
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k9yu7gqx4l/out/v1/802932ae129a4f7db700113d6598b50f/cenc.mpd
+#EXTINF:-1 tvg-name="Pakistan Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",Pakistan Women Vs Bangladesh Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-name="Sri Lanka Women Vs India Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs India Women
-https://file.genoads.com/ch1.m3u8
+http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe Women Vs West Indies Women" tvg-logo="" group-title="Cricket",Zimbabwe Women Vs West Indies Women
 https://file.genoads.com/ch1.m3u8
