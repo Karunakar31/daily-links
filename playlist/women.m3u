@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sri Lanka Women Vs India Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs India Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26b5d1e236534979b5f85ffa22a37dbf:cfd708ebfd7d08d24fd0033b9bd9e62e
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mhafawkat7/out/v1/bcd1058ace2b4f1b90739cd7f847054c/cenc.mpd
-#EXTINF:-1 tvg-name="Sri Lanka Women Vs India Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs India Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26b5d1e236534979b5f85ffa22a37dbf:cfd708ebfd7d08d24fd0033b9bd9e62e
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mhafawkat7/out/v1/bcd1058ace2b4f1b90739cd7f847054c/cenc.mpd
-#EXTINF:-1 tvg-name="Sri Lanka Women Vs India Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs India Women
-http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe Women Vs West Indies Women" tvg-logo="" group-title="Cricket",Zimbabwe Women Vs West Indies Women
 https://file.genoads.com/ch1.m3u8
