@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Afghanistan Vs Japan" tvg-logo="" group-title="Cricket",Afghanistan Vs Japan
+http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
+#EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe Women Vs West Indies Women" tvg-logo="" group-title="Cricket",Zimbabwe Women Vs West Indies Women
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-name="Hong Kong C. Vs Malaysia" tvg-logo="" group-title="Cricket",Hong Kong C. Vs Malaysia
+http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
+#EXTINF:-1 tvg-name="Malaysia Vs Oman" tvg-logo="" group-title="Cricket",Malaysia Vs Oman
+http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
+#EXTINF:-1 tvg-name="Hong Kong C. Vs Oman" tvg-logo="" group-title="Cricket",Hong Kong C. Vs Oman
+http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
 #EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70b921e2eae48d00b0a2249b0de197b4:4b994f1b4666368565dd56a76975843e
@@ -23,19 +37,5 @@ https://ois.poltumola.xyz/dx15md/index.m3u8
 https://megatech.com
 #EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
 https://ois.poltumola.xyz/dx15hd/index.m3u8
-#EXTINF:-1 tvg-name="Afghanistan Vs Japan" tvg-logo="" group-title="Cricket",Afghanistan Vs Japan
-http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
-#EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
-https://file.genoads.com/ch1.m3u8
-#EXTINF:-1 tvg-name="Zimbabwe Women Vs West Indies Women" tvg-logo="" group-title="Cricket",Zimbabwe Women Vs West Indies Women
-https://file.genoads.com/ch1.m3u8
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://file.genoads.com/ch1.m3u8
-#EXTINF:-1 tvg-name="Hong Kong C. Vs Malaysia" tvg-logo="" group-title="Cricket",Hong Kong C. Vs Malaysia
-http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
-#EXTINF:-1 tvg-name="Malaysia Vs Oman" tvg-logo="" group-title="Cricket",Malaysia Vs Oman
-http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
-#EXTINF:-1 tvg-name="Hong Kong C. Vs Oman" tvg-logo="" group-title="Cricket",Hong Kong C. Vs Oman
-http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
 #EXTINF:-1 tvg-name="England Under-19 Vs Pakistan Under-19" tvg-logo="" group-title="Cricket",England Under-19 Vs Pakistan Under-19
 http://51.77.217.114:8089/PKEGU19/index.m3u8
