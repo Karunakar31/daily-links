@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd3d76c6c0b61babf97aef83eaa7445c:a81e32e369dc6fa205f7fb06e66f0327
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0c8hkllln2/out/v1/dc0696b8fc684cb281f7eb4466862de9/cenc.mpd
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd3d76c6c0b61babf97aef83eaa7445c:a81e32e369dc6fa205f7fb06e66f0327
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0c8hkllln2/out/v1/dc0696b8fc684cb281f7eb4466862de9/cenc.mpd
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-http://193.47.62.52/hls/VAVAVAAAAAAXX.m3u8?
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://baila-lentoo.pages.dev/nwp/809393.m3u8
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://ois.poltumola.xyz/dx15sd/index.m3u8
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://megatech.com
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://ois.poltumola.xyz/dx15md/index.m3u8
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://ois.poltumola.xyz/dx15hd/index.m3u8
 #EXTINF:-1 tvg-name="Afghanistan Vs Japan" tvg-logo="" group-title="Cricket",Afghanistan Vs Japan
 http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
 #EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
