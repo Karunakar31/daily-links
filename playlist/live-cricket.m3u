@@ -1,7 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Afghanistan Vs Japan" tvg-logo="" group-title="Cricket",Afghanistan Vs Japan
-http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbb11f58d670ba448625bee36773fff:76e8bd546a74e60598e1d59df0b9b3cc
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/docqurfrc3/out/v1/1804c33d898a48cb988e15cca0199512/cenc.mpd
 #EXTINF:-1 tvg-name="Afghanistan Vs Japan" tvg-logo="" group-title="Cricket",Afghanistan Vs Japan
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbb11f58d670ba448625bee36773fff:76e8bd546a74e60598e1d59df0b9b3cc
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/docqurfrc3/out/v1/1804c33d898a48cb988e15cca0199512/cenc.mpd
+#EXTINF:-1 tvg-name="Afghanistan Vs Japan" tvg-logo="" group-title="Cricket",Afghanistan Vs Japan
+https://fhlsport954.tm3drop33weeps.ru/token-IU4un7GWK%2FeGvjMul%2FY6kTqBlMDS1n%2FjZHeiwKNIFTKk5rOYHUFbA5QtqRJWWkgGRXvc3zVnmv9zfZBKXEAY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/52188oq1nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_828401/index.m3u8
+#EXTINF:-1 tvg-name="Afghanistan Vs Japan" tvg-logo="" group-title="Cricket",Afghanistan Vs Japan
+https://nadia01eo.tn76degree12ec3out.cfd
+#EXTINF:-1 tvg-name="Afghanistan Vs Japan" tvg-logo="" group-title="Cricket",Afghanistan Vs Japan
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/AG2026_D2309/ENG/master.m3u8
+#EXTINF:-1 tvg-name="Afghanistan Vs Japan" tvg-logo="" group-title="Cricket",Afghanistan Vs Japan
+https://www.sonyliv.com/
+#EXTINF:-1 tvg-name="Afghanistan Vs Japan" tvg-logo="" group-title="Cricket",Afghanistan Vs Japan
+http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
+#EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+#EXTINF:-1 tvg-name="Zimbabwe Women Vs West Indies Women" tvg-logo="" group-title="Cricket",Zimbabwe Women Vs West Indies Women
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
