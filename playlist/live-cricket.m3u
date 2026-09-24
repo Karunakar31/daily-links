@@ -1,15 +1,2 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cfa1f2f31922239df0f3f27efd76344:ac949494b59d3b4442b6e999525d341b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/50fdmgdsle/out/v1/b71c6576530d40c0bbb5b5374a9e869d/cenc.mpd
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cfa1f2f31922239df0f3f27efd76344:ac949494b59d3b4442b6e999525d341b
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/50fdmgdsle/out/v1/b71c6576530d40c0bbb5b5374a9e869d/cenc.mpd
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8
-#EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
-https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8
+
