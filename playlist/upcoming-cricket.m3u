@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Malaysia Vs Oman" tvg-logo="" group-title="Cricket",Malaysia Vs Oman
 http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
-#EXTINF:-1 tvg-name="Hong Kong C. Vs Oman" tvg-logo="" group-title="Cricket",Hong Kong C. Vs Oman
+#EXTINF:-1 tvg-name="Japan Vs Nepal" tvg-logo="" group-title="Cricket",Japan Vs Nepal
+http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
+#EXTINF:-1 tvg-name="Afghanistan Vs Nepal" tvg-logo="" group-title="Cricket",Afghanistan Vs Nepal
 http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
