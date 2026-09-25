@@ -37,3 +37,9 @@ http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
 http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
 #EXTINF:-1 tvg-name="Afghanistan Vs Nepal" tvg-logo="" group-title="Cricket",Afghanistan Vs Nepal
 http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
+#EXTINF:-1 tvg-name="Afghanistan Vs Nepal" tvg-logo="" group-title="Cricket",Afghanistan Vs Nepal
+http://193.47.62.44/hls/EVVV.m3u8?
+#EXTINF:-1 tvg-name="Afghanistan Vs Nepal" tvg-logo="" group-title="Cricket",Afghanistan Vs Nepal
+http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
+https://file.genoads.com/ch1.m3u8
