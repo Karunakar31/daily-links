@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Japan Vs Nepal" tvg-logo="" group-title="Cricket",Japan Vs Nepal
+#EXTINF:-1 tvg-name="Malaysia Vs Oman" tvg-logo="" group-title="Cricket",Malaysia Vs Oman
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bf67287e378212a80fc35288f2d1b17:160eca864d89bdff4e8f1256ba7646ec
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/brhm0lukoo/out/v1/48d2d472bf554f69a5830b766d301aab/cenc.mpd
-#EXTINF:-1 tvg-name="Japan Vs Nepal" tvg-logo="" group-title="Cricket",Japan Vs Nepal
-http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
-#EXTINF:-1 tvg-name="Japan Vs Nepal" tvg-logo="" group-title="Cricket",Japan Vs Nepal
+#KODIPROP:inputstream.adaptive.license_key=5aab7e7ac344b32e7e1acea2d92c78f3:d6c5d1c0ed77d1f1a0a87af823591c78
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/tkvp43tjk4/out/v1/2030b6c3c68d45dcac5ffd6b60ff64ee/cenc.mpd
+#EXTINF:-1 tvg-name="Malaysia Vs Oman" tvg-logo="" group-title="Cricket",Malaysia Vs Oman
 http://193.47.62.55/hls/sddd.m3u8?
-#EXTINF:-1 tvg-name="Japan Vs Nepal" tvg-logo="" group-title="Cricket",Japan Vs Nepal
+#EXTINF:-1 tvg-name="Malaysia Vs Oman" tvg-logo="" group-title="Cricket",Malaysia Vs Oman
 http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Malaysia Vs Oman" tvg-logo="" group-title="Cricket",Malaysia Vs Oman
+http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
 #EXTINF:-1 tvg-name="England Vs Sri Lanka" tvg-logo="" group-title="Cricket",England Vs Sri Lanka
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cfa1f2f31922239df0f3f27efd76344:ac949494b59d3b4442b6e999525d341b
@@ -33,12 +33,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="Malaysia Vs Oman" tvg-logo="" group-title="Cricket",Malaysia Vs Oman
-http://193.47.62.55/hls/sddd.m3u8?
-#EXTINF:-1 tvg-name="Malaysia Vs Oman" tvg-logo="" group-title="Cricket",Malaysia Vs Oman
-http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Malaysia Vs Oman" tvg-logo="" group-title="Cricket",Malaysia Vs Oman
-http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
 #EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
 https://file.genoads.com/ch1.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe Women Vs West Indies Women" tvg-logo="" group-title="Cricket",Zimbabwe Women Vs West Indies Women

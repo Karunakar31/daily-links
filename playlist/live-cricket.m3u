@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Japan Vs Nepal" tvg-logo="" group-title="Cricket",Japan Vs Nepal
+#EXTINF:-1 tvg-name="Malaysia Vs Oman" tvg-logo="" group-title="Cricket",Malaysia Vs Oman
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bf67287e378212a80fc35288f2d1b17:160eca864d89bdff4e8f1256ba7646ec
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/brhm0lukoo/out/v1/48d2d472bf554f69a5830b766d301aab/cenc.mpd
-#EXTINF:-1 tvg-name="Japan Vs Nepal" tvg-logo="" group-title="Cricket",Japan Vs Nepal
-http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
-#EXTINF:-1 tvg-name="Japan Vs Nepal" tvg-logo="" group-title="Cricket",Japan Vs Nepal
+#KODIPROP:inputstream.adaptive.license_key=5aab7e7ac344b32e7e1acea2d92c78f3:d6c5d1c0ed77d1f1a0a87af823591c78
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/tkvp43tjk4/out/v1/2030b6c3c68d45dcac5ffd6b60ff64ee/cenc.mpd
+#EXTINF:-1 tvg-name="Malaysia Vs Oman" tvg-logo="" group-title="Cricket",Malaysia Vs Oman
 http://193.47.62.55/hls/sddd.m3u8?
-#EXTINF:-1 tvg-name="Japan Vs Nepal" tvg-logo="" group-title="Cricket",Japan Vs Nepal
+#EXTINF:-1 tvg-name="Malaysia Vs Oman" tvg-logo="" group-title="Cricket",Malaysia Vs Oman
 http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Malaysia Vs Oman" tvg-logo="" group-title="Cricket",Malaysia Vs Oman
+http://c8.vfruitfairy.com/Asiancrc12/index.m3u8
