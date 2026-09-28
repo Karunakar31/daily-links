@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Pakistan Vs Hong Kong C." tvg-logo="" group-title="Cricket",Pakistan Vs Hong Kong C.
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a2e91842dcb199f01178ea0c3d63b03:482194761e3cb8c3e37d09f246a3aa72
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/thgxqyztyu/out/v1/4f530bd9dae64942b85a2ddc080823c4/cenc.mpd
-#EXTINF:-1 tvg-name="Pakistan Vs Hong Kong C." tvg-logo="" group-title="Cricket",Pakistan Vs Hong Kong C.
-https://stream.ottplus.live/live/ten_1_hd_abr/playlist.m3u8
 #EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
@@ -27,9 +21,3 @@ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uw
 https://papacito.cfd/m3u/588010/live.m3u8
 #EXTINF:-1 tvg-name="Zimbabwe Women Vs West Indies Women" tvg-logo="" group-title="Cricket",Zimbabwe Women Vs West Indies Women
 http://c8.vfruitfairy.com/WIvsZIM/index.m3u8
-#EXTINF:-1 tvg-name="India Vs Afghanistan" tvg-logo="" group-title="Cricket",India Vs Afghanistan
-http://193.47.62.50/hls/frrr.m3u8?
-#EXTINF:-1 tvg-name="India Vs Afghanistan" tvg-logo="" group-title="Cricket",India Vs Afghanistan
-http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="India Vs Afghanistan" tvg-logo="" group-title="Cricket",India Vs Afghanistan
-https://stream.ottplus.live/live/ten_1_hd_abr/playlist.m3u8
