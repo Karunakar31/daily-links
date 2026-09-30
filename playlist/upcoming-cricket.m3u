@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Pakistan Vs Bangladesh" tvg-logo="" group-title="Cricket",Pakistan Vs Bangladesh
 https://stream.ottplus.live/live/ten_1_hd_abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Zimbabwe Women Vs West Indies Women" tvg-logo="" group-title="Cricket",Zimbabwe Women Vs West Indies Women
+http://c8.vfruitfairy.com/WIvsZIM/index.m3u8
