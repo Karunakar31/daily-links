@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="India Vs Sri Lanka" tvg-logo="" group-title="Cricket",India Vs Sri Lanka
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=939e7b556d7bdc330d46cabb8ea9583e:6790dc9d4d1d92b6927df1c9bf56c02f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wmfuczzm2n/out/v1/1ea16373acdf454989b707d7b23553e0/cenc.mpd
+#EXTINF:-1 tvg-name="India Vs Sri Lanka" tvg-logo="" group-title="Cricket",India Vs Sri Lanka
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi0110/HIN/master.m3u8
+#EXTINF:-1 tvg-name="India Vs Sri Lanka" tvg-logo="" group-title="Cricket",India Vs Sri Lanka
+https://www.sonyliv.com/
 #EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ce45f6a1c4ff0cca79f1fcb2f0161d5:d6dba1c59cc9c34a53deb95d47a6ae99
