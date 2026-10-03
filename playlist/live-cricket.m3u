@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="WCL 2026 Vs WCL 2026" tvg-logo="" group-title="Cricket",WCL 2026 Vs WCL 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e8dfce98828222c090e14a5f39f5bf33:ad47b761acd8ba42ee10390a3775e0e7
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fh0rvu2vmm/out/v1/db5c8bb455b2458bb00a0ecb9d176abe/cenc.mpd
-#EXTINF:-1 tvg-name="WCL 2026 Vs WCL 2026" tvg-logo="" group-title="Cricket",WCL 2026 Vs WCL 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-name="WCL 2026 Vs WCL 2026" tvg-logo="" group-title="Cricket",WCL 2026 Vs WCL 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e8dfce98828222c090e14a5f39f5bf33:ad47b761acd8ba42ee10390a3775e0e7
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fh0rvu2vmm/out/v1/db5c8bb455b2458bb00a0ecb9d176abe/cenc.mpd
-#EXTINF:-1 tvg-name="WCL 2026 Vs WCL 2026" tvg-logo="" group-title="Cricket",WCL 2026 Vs WCL 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-name="Zimbabwe Women Vs West Indies Women" tvg-logo="" group-title="Cricket",Zimbabwe Women Vs West Indies Women
-http://c8.vfruitfairy.com/WIvsZIM/index.m3u8
 #EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
@@ -43,37 +25,3 @@ https://livetv.hotstar.com/mp2/gec-india-1540068337/9e957d4aa8054fdfa75a02de6c38
 https://livetv.hotstar.com/mp1/gec-india-1540068283/9fdb797729344658957bd7382590c557/index.mpd?
 #EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
 https://livetv.hotstar.com/mp2/gec-india-1540068325/822fe9161d924f25a8f14d9a4e6f1b34/index.mpd?
-#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2f0d4bbcead5d0b26b654d9f2bd0b73:0819905841d515ef09147d3a436d370d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d6zz1cyw70/out/v1/a05e0b3952fe4421a28515ca7a95261f/cenc.mpd
-#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2f0d4bbcead5d0b26b654d9f2bd0b73:0819905841d515ef09147d3a436d370d
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d6zz1cyw70/out/v1/a05e0b3952fe4421a28515ca7a95261f/cenc.mpd
-#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
-https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/ea5fc9ae-d5ac-4a8f-bd7f-b67790799977/HLS_ENC/index.m3u8
-#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f8fc6e2e3be85523604a1f8fd46e227:f32f8de160db442f0fe2248e8de052d9
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mzok2ls3uu/out/v1/0ad7f4cfca624501a737fce44ac1805c/cenc.mpd
-#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d823341ae92c269213a9c39c1df891b0:e4f00dc75b4031b3c5fa2e00b03cd7b2
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vqg0oc1cjd/out/v1/f0c8600b39fe42148de4a926f44759cb/cenc.mpd
-#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
-http://193.47.62.55/hls/AAAA.m3u8?
-#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
-http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
-https://stream.ottplus.live/live/ten_1_hd_abr/playlist.m3u8
-#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0310/HIN/std_lrl-800300010.m3u8?hdnea=exp=1791040229~acl=/*~id=42537851556517608958490642516291~hmac=44cf7d9acee7488c1135f53bd1549c251803b4abdf862ef2fcec0e5699011c50
-#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791040229~acl=/*~id=42537851556517608958490642516291~hmac=44cf7d9acee7488c1135f53bd1549c251803b4abdf862ef2fcec0e5699011c50
-#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0310/TAM/std_lrl-800300010.m3u8?hdnea=exp=1791040229~acl=/*~id=42537851556517608958490642516291~hmac=44cf7d9acee7488c1135f53bd1549c251803b4abdf862ef2fcec0e5699011c50
-#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0310/TEL/std_lrl-800300010.m3u8?hdnea=exp=1791040229~acl=/*~id=42537851556517608958490642516291~hmac=44cf7d9acee7488c1135f53bd1549c251803b4abdf862ef2fcec0e5699011c50
-#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0310/KAN/std_lrl-800300010.m3u8?hdnea=exp=1791040229~acl=/*~id=42537851556517608958490642516291~hmac=44cf7d9acee7488c1135f53bd1549c251803b4abdf862ef2fcec0e5699011c50
