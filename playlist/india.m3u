@@ -1,7 +1,37 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2f0d4bbcead5d0b26b654d9f2bd0b73:0819905841d515ef09147d3a436d370d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d6zz1cyw70/out/v1/a05e0b3952fe4421a28515ca7a95261f/cenc.mpd
+#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f8fc6e2e3be85523604a1f8fd46e227:f32f8de160db442f0fe2248e8de052d9
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mzok2ls3uu/out/v1/0ad7f4cfca624501a737fce44ac1805c/cenc.mpd
+#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d823341ae92c269213a9c39c1df891b0:e4f00dc75b4031b3c5fa2e00b03cd7b2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vqg0oc1cjd/out/v1/f0c8600b39fe42148de4a926f44759cb/cenc.mpd
+#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2f0d4bbcead5d0b26b654d9f2bd0b73:0819905841d515ef09147d3a436d370d
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d6zz1cyw70/out/v1/a05e0b3952fe4421a28515ca7a95261f/cenc.mpd
+#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
+http://193.47.62.55/hls/AAAA.m3u8?
+#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
+http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
 https://stream.ottplus.live/live/ten_1_hd_abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0310/HIN/std_lrl-800300010.m3u8?hdnea=exp=1791040229~acl=/*~id=42537851556517608958490642516291~hmac=44cf7d9acee7488c1135f53bd1549c251803b4abdf862ef2fcec0e5699011c50
+#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791040229~acl=/*~id=42537851556517608958490642516291~hmac=44cf7d9acee7488c1135f53bd1549c251803b4abdf862ef2fcec0e5699011c50
+#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0310/TAM/std_lrl-800300010.m3u8?hdnea=exp=1791040229~acl=/*~id=42537851556517608958490642516291~hmac=44cf7d9acee7488c1135f53bd1549c251803b4abdf862ef2fcec0e5699011c50
+#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0310/TEL/std_lrl-800300010.m3u8?hdnea=exp=1791040229~acl=/*~id=42537851556517608958490642516291~hmac=44cf7d9acee7488c1135f53bd1549c251803b4abdf862ef2fcec0e5699011c50
+#EXTINF:-1 tvg-name="Pakistan Vs India" tvg-logo="" group-title="Cricket",Pakistan Vs India
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0310/KAN/std_lrl-800300010.m3u8?hdnea=exp=1791040229~acl=/*~id=42537851556517608958490642516291~hmac=44cf7d9acee7488c1135f53bd1549c251803b4abdf862ef2fcec0e5699011c50
 #EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
