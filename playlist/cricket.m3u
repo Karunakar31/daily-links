@@ -1,16 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="WCL 2026 Vs WCL 2026" tvg-logo="" group-title="Cricket",WCL 2026 Vs WCL 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78090352c9a0d9d111321531abac5d84:e1f3409d25274b3c335f9179b80f481b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4xrvq8cub7/out/v1/e341473ca5c249318f1ec8b9352012c1/cenc.mpd
+#EXTINF:-1 tvg-name="WCL 2026 Vs WCL 2026" tvg-logo="" group-title="Cricket",WCL 2026 Vs WCL 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 #EXTINF:-1 tvg-name="WCL 2026 Vs WCL 2026" tvg-logo="" group-title="Cricket",WCL 2026 Vs WCL 2026
-http://193.47.62.44/hls/TGGGAA.m3u8?
+http://51.75.127.199:3141/starsports2/index.m3u8
 #EXTINF:-1 tvg-name="WCL 2026 Vs WCL 2026" tvg-logo="" group-title="Cricket",WCL 2026 Vs WCL 2026
-http://www.fawanews.sc/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78090352c9a0d9d111321531abac5d84:e1f3409d25274b3c335f9179b80f481b
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4xrvq8cub7/out/v1/e341473ca5c249318f1ec8b9352012c1/cenc.mpd
 #EXTINF:-1 tvg-name="WCL 2026 Vs WCL 2026" tvg-logo="" group-title="Cricket",WCL 2026 Vs WCL 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-name="Zimbabwe Women Vs West Indies Women" tvg-logo="" group-title="Cricket",Zimbabwe Women Vs West Indies Women
+http://c8.vfruitfairy.com/WIvsZIM/index.m3u8
 #EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
