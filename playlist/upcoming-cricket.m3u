@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 #EXTINF:-1 tvg-name="WCL 2026 Vs WCL 2026" tvg-logo="" group-title="Cricket",WCL 2026 Vs WCL 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
