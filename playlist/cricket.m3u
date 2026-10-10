@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf2a8826b3cc5a87caa2b8aa888060db:c0f33b4323fa41faeff80d202d87627d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eunzq9z92j/out/v1/ea61ce095f934361a1dbcd055dde344e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=61b5fe1a7d9d83929d15da6db1c5f427:6e8231835a24911fd035a47e49f5c53b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1dwfmiwgbk/out/v1/713012dd281246dc827872d3920a8443/cenc.mpd
 #EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf2a8826b3cc5a87caa2b8aa888060db:c0f33b4323fa41faeff80d202d87627d
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/eunzq9z92j/out/v1/ea61ce095f934361a1dbcd055dde344e/cenc.mpd
 #EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
@@ -20,7 +16,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 tvg-name="Afghanistan Vs Bangladesh" tvg-logo="" group-title="Cricket",Afghanistan Vs Bangladesh
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09269747be60ae1f8d4283d6d5d01fd2:a46879b547df24d568c8f89ae6c3273c
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v8s736w0hw/out/v1/157d723d80d94a3998a06a8e78ad0686/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v8s736w0hw/out/v1/157d723d80d94a3998a06a8e78ad0686/cenc.mpd
 #EXTINF:-1 tvg-name="Afghanistan Vs Bangladesh" tvg-logo="" group-title="Cricket",Afghanistan Vs Bangladesh
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09269747be60ae1f8d4283d6d5d01fd2:a46879b547df24d568c8f89ae6c3273c
