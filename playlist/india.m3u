@@ -5,11 +5,25 @@
 https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 #EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ddad5a3a8550c203f90b86e0005700b:4dc553c52439eb86922df317a470bccb
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aiu8gnpwij/out/v1/ecb8a3e4e29d4f58970e6494626a02bd/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=acc7b844fa50775eae013d0c65023b3e:70fcb8c7000f4f88ee236a8eeda07332
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd
 #EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ddad5a3a8550c203f90b86e0005700b:4dc553c52439eb86922df317a470bccb
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aiu8gnpwij/out/v1/ecb8a3e4e29d4f58970e6494626a02bd/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=acc7b844fa50775eae013d0c65023b3e:70fcb8c7000f4f88ee236a8eeda07332
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd
 #EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
 http://103.114.11.37:8081/Willow-TV/index.m3u8
+#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
+http://193.47.62.59/hls/NCCCAAQA.m3u8
+#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
+https://nadia01eo.tn76degree12ec3out.cfd
+#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774
+https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?
+#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
+https://www.hotstar.com/
+#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a
+https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?
