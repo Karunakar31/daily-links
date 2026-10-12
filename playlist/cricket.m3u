@@ -1,66 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Afghanistan Vs Bangladesh" tvg-logo="" group-title="Cricket",Afghanistan Vs Bangladesh
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd
-#EXTINF:-1 tvg-name="Afghanistan Vs Bangladesh" tvg-logo="" group-title="Cricket",Afghanistan Vs Bangladesh
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd
-#EXTINF:-1 tvg-name="Afghanistan Vs Bangladesh" tvg-logo="" group-title="Cricket",Afghanistan Vs Bangladesh
-http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8
-#EXTINF:-1 tvg-name="Afghanistan Vs Bangladesh" tvg-logo="" group-title="Cricket",Afghanistan Vs Bangladesh
-https://baila-lentoo.pages.dev/all-sp/809386.m3u8
-#EXTINF:-1 tvg-name="Australia Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",Australia Women Vs Bangladesh Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d9a00a9fc737d5ef4e05c9649eae1b4:58fd9a8122f34cef93c6c4ac432bc1e5
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jhqpjlh8bf/out/v1/6d0833973c0742f7be950ca5738cc98a/cenc.mpd
-#EXTINF:-1 tvg-name="Australia Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",Australia Women Vs Bangladesh Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d9a00a9fc737d5ef4e05c9649eae1b4:58fd9a8122f34cef93c6c4ac432bc1e5
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jhqpjlh8bf/out/v1/6d0833973c0742f7be950ca5738cc98a/cenc.mpd
-#EXTINF:-1 tvg-name="Australia Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",Australia Women Vs Bangladesh Women
-http://193.47.62.44/hls/ZZZZ.m3u8?
-#EXTINF:-1 tvg-name="Australia Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",Australia Women Vs Bangladesh Women
-http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="Australia Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",Australia Women Vs Bangladesh Women
-https://dai-fancode.pages.dev/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Australia Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",Australia Women Vs Bangladesh Women
-https://fancode.com/
-#EXTINF:-1 tvg-name="Australia Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",Australia Women Vs Bangladesh Women
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
-#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=acc7b844fa50775eae013d0c65023b3e:70fcb8c7000f4f88ee236a8eeda07332
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd
-#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=acc7b844fa50775eae013d0c65023b3e:70fcb8c7000f4f88ee236a8eeda07332
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd
-#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
-http://103.114.11.37:8081/Willow-TV/index.m3u8
-#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
-http://193.47.62.59/hls/NCCCAAQA.m3u8
-#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
-https://nadia01eo.tn76degree12ec3out.cfd
-#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774
-https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?
-#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
-https://www.hotstar.com/
-#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a
-https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?
 #EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93a6a7eba3555210bbeb9a8bc1770a71:86b8aed2b10c0124d6da65bdeafa6707
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ik0zeufmnr/out/v1/4ce238b19c5c4541bff0e2697c5d3fc5/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=abceab2f1340be6c70c54b7176d30608:9c281b70e5626752d2481f498677b3df
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd
 #EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
@@ -69,8 +11,8 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 #EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93a6a7eba3555210bbeb9a8bc1770a71:86b8aed2b10c0124d6da65bdeafa6707
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ik0zeufmnr/out/v1/4ce238b19c5c4541bff0e2697c5d3fc5/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=abceab2f1340be6c70c54b7176d30608:9c281b70e5626752d2481f498677b3df
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd
 #EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
 http://193.47.62.50/hls/HHHHRX.m3u8
 #EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
@@ -101,3 +43,61 @@ http://51.75.127.199:3141/starsports2/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-name="Australia Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",Australia Women Vs Bangladesh Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d9a00a9fc737d5ef4e05c9649eae1b4:58fd9a8122f34cef93c6c4ac432bc1e5
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jhqpjlh8bf/out/v1/6d0833973c0742f7be950ca5738cc98a/cenc.mpd
+#EXTINF:-1 tvg-name="Australia Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",Australia Women Vs Bangladesh Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d9a00a9fc737d5ef4e05c9649eae1b4:58fd9a8122f34cef93c6c4ac432bc1e5
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jhqpjlh8bf/out/v1/6d0833973c0742f7be950ca5738cc98a/cenc.mpd
+#EXTINF:-1 tvg-name="Australia Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",Australia Women Vs Bangladesh Women
+http://193.47.62.44/hls/ZZZZ.m3u8?
+#EXTINF:-1 tvg-name="Australia Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",Australia Women Vs Bangladesh Women
+http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="Australia Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",Australia Women Vs Bangladesh Women
+https://dai-fancode.pages.dev/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Australia Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",Australia Women Vs Bangladesh Women
+https://fancode.com/
+#EXTINF:-1 tvg-name="Australia Women Vs Bangladesh Women" tvg-logo="" group-title="Cricket",Australia Women Vs Bangladesh Women
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="Afghanistan Vs Bangladesh" tvg-logo="" group-title="Cricket",Afghanistan Vs Bangladesh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd
+#EXTINF:-1 tvg-name="Afghanistan Vs Bangladesh" tvg-logo="" group-title="Cricket",Afghanistan Vs Bangladesh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd
+#EXTINF:-1 tvg-name="Afghanistan Vs Bangladesh" tvg-logo="" group-title="Cricket",Afghanistan Vs Bangladesh
+http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8
+#EXTINF:-1 tvg-name="Afghanistan Vs Bangladesh" tvg-logo="" group-title="Cricket",Afghanistan Vs Bangladesh
+https://baila-lentoo.pages.dev/all-sp/809386.m3u8
+#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=acc7b844fa50775eae013d0c65023b3e:70fcb8c7000f4f88ee236a8eeda07332
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd
+#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=acc7b844fa50775eae013d0c65023b3e:70fcb8c7000f4f88ee236a8eeda07332
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd
+#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
+http://103.114.11.37:8081/Willow-TV/index.m3u8
+#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
+http://193.47.62.59/hls/NCCCAAQA.m3u8
+#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
+https://nadia01eo.tn76degree12ec3out.cfd
+#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774
+https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?
+#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
+https://www.hotstar.com/
+#EXTINF:-1 tvg-name="India Vs West Indies" tvg-logo="" group-title="Cricket",India Vs West Indies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a
+https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?
