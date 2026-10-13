@@ -1,2 +1,13 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-name="Afghanistan Vs Bangladesh" tvg-logo="" group-title="Cricket",Afghanistan Vs Bangladesh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd
+#EXTINF:-1 tvg-name="Afghanistan Vs Bangladesh" tvg-logo="" group-title="Cricket",Afghanistan Vs Bangladesh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd
+#EXTINF:-1 tvg-name="Afghanistan Vs Bangladesh" tvg-logo="" group-title="Cricket",Afghanistan Vs Bangladesh
+http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8
+#EXTINF:-1 tvg-name="Afghanistan Vs Bangladesh" tvg-logo="" group-title="Cricket",Afghanistan Vs Bangladesh
+https://baila-lentoo.pages.dev/all-sp/809386.m3u8
