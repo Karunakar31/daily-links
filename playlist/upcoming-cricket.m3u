@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bdc52b31dcf25b0515a61fb9d0f444a2:468ae45daef1021713e7ea869a340f96
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yi1ah9sgsj/out/v1/ffe37797429b4ed28810e8d7735124fc/cenc.mpd
-#EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bdc52b31dcf25b0515a61fb9d0f444a2:468ae45daef1021713e7ea869a340f96
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yi1ah9sgsj/out/v1/ffe37797429b4ed28810e8d7735124fc/cenc.mpd
-#EXTINF:-1 tvg-name="South Africa Vs Australia" tvg-logo="" group-title="Cricket",South Africa Vs Australia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1ee06e6e306aa92e9a4658f739a1596:b993e1f264c6a637cd28427242f5f967
@@ -59,3 +41,9 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd?__hdnea__=st=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99ce7c4be7222f0c0760734bb1a7c726:9c2f0502932c19e0ccd9c8acc5c7790e
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/dwurwq3gqy/out/v1/cad9647fdbd64c08afb4ebfb1390768c/cenc.mpd
+#EXTINF:-1 tvg-name="WOMEN'S IPL AUCTIONS Vs WOMEN'S IPL AUCTIONS" tvg-logo="" group-title="Cricket",WOMEN'S IPL AUCTIONS Vs WOMEN'S IPL AUCTIONS
+https://admin2.formaturamaxi.com.br/sky1.m3u8
+#EXTINF:-1 tvg-name="WOMEN'S IPL AUCTIONS Vs WOMEN'S IPL AUCTIONS" tvg-logo="" group-title="Cricket",WOMEN'S IPL AUCTIONS Vs WOMEN'S IPL AUCTIONS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
