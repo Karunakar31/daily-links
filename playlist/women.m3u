@@ -1,22 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Melbourne Renegades Women Vs Sydney Sixers Women" tvg-logo="" group-title="Cricket",Melbourne Renegades Women Vs Sydney Sixers Women
+#EXTINF:-1 tvg-name="Melbourne Stars Women Vs Hobart Hurricanes Women" tvg-logo="" group-title="Cricket",Melbourne Stars Women Vs Hobart Hurricanes Women
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81cceef47300d899003a2dd4f80a0ec4:0db92cc3f3a7b1c97af4aaef56d641ef
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r6vs6zdomz/out/v1/d34a7d179f4f49f2b2f08ec490165d8b/cenc.mpd
-#EXTINF:-1 tvg-name="Melbourne Renegades Women Vs Sydney Sixers Women" tvg-logo="" group-title="Cricket",Melbourne Renegades Women Vs Sydney Sixers Women
+#EXTINF:-1 tvg-name="Melbourne Stars Women Vs Hobart Hurricanes Women" tvg-logo="" group-title="Cricket",Melbourne Stars Women Vs Hobart Hurricanes Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81cceef47300d899003a2dd4f80a0ec4:0db92cc3f3a7b1c97af4aaef56d641ef
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/r6vs6zdomz/out/v1/d34a7d179f4f49f2b2f08ec490165d8b/cenc.mpd
+#EXTINF:-1 tvg-name="Melbourne Stars Women Vs Hobart Hurricanes Women" tvg-logo="" group-title="Cricket",Melbourne Stars Women Vs Hobart Hurricanes Women
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="Melbourne Renegades Women Vs Sydney Sixers Women" tvg-logo="" group-title="Cricket",Melbourne Renegades Women Vs Sydney Sixers Women
+#EXTINF:-1 tvg-name="Melbourne Stars Women Vs Hobart Hurricanes Women" tvg-logo="" group-title="Cricket",Melbourne Stars Women Vs Hobart Hurricanes Women
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-name="Brisbane Heat Women Vs Sydney Sixers Women" tvg-logo="" group-title="Cricket",Brisbane Heat Women Vs Sydney Sixers Women
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="Melbourne Stars Women Vs Hobart Hurricanes Women" tvg-logo="" group-title="Cricket",Melbourne Stars Women Vs Hobart Hurricanes Women
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="Melbourne Stars Women Vs Hobart Hurricanes Women" tvg-logo="" group-title="Cricket",Melbourne Stars Women Vs Hobart Hurricanes Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-name="WOMEN'S IPL AUCTIONS Vs WOMEN'S IPL AUCTIONS" tvg-logo="" group-title="Cricket",WOMEN'S IPL AUCTIONS Vs WOMEN'S IPL AUCTIONS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
