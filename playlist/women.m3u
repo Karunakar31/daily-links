@@ -1,9 +1,2 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Brisbane Heat Women Vs Sydney Sixers Women" tvg-logo="" group-title="Cricket",Brisbane Heat Women Vs Sydney Sixers Women
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="Brisbane Heat Women Vs Sydney Sixers Women" tvg-logo="" group-title="Cricket",Brisbane Heat Women Vs Sydney Sixers Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
-https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
-#EXTINF:-1 tvg-name="Brisbane Heat Women Vs Sydney Sixers Women" tvg-logo="" group-title="Cricket",Brisbane Heat Women Vs Sydney Sixers Women
-http://51.77.217.114:8089/Wbbl52/index.m3u8
+
