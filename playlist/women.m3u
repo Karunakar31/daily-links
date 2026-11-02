@@ -1,9 +1,2 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Melbourne Stars Women Vs Perth Scorchers Women" tvg-logo="" group-title="Cricket",Melbourne Stars Women Vs Perth Scorchers Women
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="Melbourne Stars Women Vs Perth Scorchers Women" tvg-logo="" group-title="Cricket",Melbourne Stars Women Vs Perth Scorchers Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-name="Melbourne Stars Women Vs Perth Scorchers Women" tvg-logo="" group-title="Cricket",Melbourne Stars Women Vs Perth Scorchers Women
-http://51.77.217.114:8089/Wbbl52/index.m3u8
+
