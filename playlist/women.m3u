@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Sydney Thunder Women Vs Perth Scorchers Women" tvg-logo="" group-title="Cricket",Sydney Thunder Women Vs Perth Scorchers Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2c92cec93ed53bbc297d9ab55ae4c72:6dfa3680190db85be7659d6faaac5d91
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd
+#EXTINF:-1 tvg-name="Sydney Thunder Women Vs Perth Scorchers Women" tvg-logo="" group-title="Cricket",Sydney Thunder Women Vs Perth Scorchers Women
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+#EXTINF:-1 tvg-name="Sydney Thunder Women Vs Perth Scorchers Women" tvg-logo="" group-title="Cricket",Sydney Thunder Women Vs Perth Scorchers Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2c92cec93ed53bbc297d9ab55ae4c72:6dfa3680190db85be7659d6faaac5d91
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd
 #EXTINF:-1 tvg-name="Adelaide Strikers Women Vs Brisbane Heat Women" tvg-logo="" group-title="Cricket",Adelaide Strikers Women Vs Brisbane Heat Women
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
@@ -13,5 +23,3 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=755296074254464e7c3aaee0f9189f0a:ed96b2f0b70c789daa69b64c1195ff3a
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ubdi2yucnd/out/v1/8ef7e7dc1a994f058e795e429ae797e6/cenc.mpd
-#EXTINF:-1 tvg-name="Sydney Thunder Women Vs Perth Scorchers Women" tvg-logo="" group-title="Cricket",Sydney Thunder Women Vs Perth Scorchers Women
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
