@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE" tvg-logo="" group-title="Cricket",ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=195416cacf5f56985edb79d6e04589c3:cedc20717599a61a9142b393bfe146a7
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/siyxr4echv/out/v1/6a15797378764495a7c28e017733f64f/cenc.mpd
-#EXTINF:-1 tvg-name="ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE" tvg-logo="" group-title="Cricket",ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE
-https://live.msnetworks.net/a-sports/master.m3u8
 #EXTINF:-1 tvg-name="Bangladesh Vs West Indies" tvg-logo="" group-title="Cricket",Bangladesh Vs West Indies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
@@ -79,3 +73,9 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhdal9buc7/
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 #EXTINF:-1 tvg-name="Women's Big Bash League Vs Women's Big Bash League" tvg-logo="" group-title="Cricket",Women's Big Bash League Vs Women's Big Bash League
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+#EXTINF:-1 tvg-name="ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE" tvg-logo="" group-title="Cricket",ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=195416cacf5f56985edb79d6e04589c3:cedc20717599a61a9142b393bfe146a7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/siyxr4echv/out/v1/6a15797378764495a7c28e017733f64f/cenc.mpd
+#EXTINF:-1 tvg-name="ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE" tvg-logo="" group-title="Cricket",ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE
+https://live.msnetworks.net/a-sports/master.m3u8
