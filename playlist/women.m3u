@@ -1,11 +1,2 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Women's Big Bash League Vs Women's Big Bash League" tvg-logo="" group-title="Cricket",Women's Big Bash League Vs Women's Big Bash League
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21ef535c5597589225d278308c2a5c93:a4a38ac31294c388aaec39cab4aae93a
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zsuvftyusq/out/v1/edc42cc5fdff4e56b1139a1b4a9ea02a/cenc.mpd
-#EXTINF:-1 tvg-name="Women's Big Bash League Vs Women's Big Bash League" tvg-logo="" group-title="Cricket",Women's Big Bash League Vs Women's Big Bash League
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-name="Women's Big Bash League Vs Women's Big Bash League" tvg-logo="" group-title="Cricket",Women's Big Bash League Vs Women's Big Bash League
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+
