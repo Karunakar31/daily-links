@@ -1,11 +1,2 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE" tvg-logo="" group-title="Cricket",ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-#EXTINF:-1 tvg-name="ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE" tvg-logo="" group-title="Cricket",ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e9def1e0c216818e8edc06ce10d25c9:4743d779da68303948a6e7e18fc77056
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q6p7ehxwmc/out/v1/64ff7b94fefb4ec4b838bc86e9b32bda/cenc.mpd
-#EXTINF:-1 tvg-name="ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE" tvg-logo="" group-title="Cricket",ABU DHABI T20 LEAGUE Vs ABU DHABI T20 LEAGUE
-https://live.msnetworks.net/a-sports/master.m3u8
+
