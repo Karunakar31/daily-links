@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Afghanistan Under-19 Vs India Under-19" tvg-logo="" group-title="Cricket",Afghanistan Under-19 Vs India Under-19
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=558ca0dbe07bf76ecee0c2570cec8f90:bffef63168d2229b6fe946a65cd6e0aa
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfhi45qzel/out/v1/ab0216dbe96d408ea761a7856b61e404/cenc.mpd
+#EXTINF:-1 tvg-name="Afghanistan Under-19 Vs India Under-19" tvg-logo="" group-title="Cricket",Afghanistan Under-19 Vs India Under-19
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69b4f7d5d85ff47192fce27c107246f7:8993f991655c84eb324bad2c1c551cc1
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ezawp6dxef/out/v1/89f7935bf21246fb971d93c016044f01/cenc.mpd
 #EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
@@ -19,7 +27,3 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9dalamxc1r/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd
-#EXTINF:-1 tvg-name="Afghanistan Under-19 Vs India Under-19" tvg-logo="" group-title="Cricket",Afghanistan Under-19 Vs India Under-19
-https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
-#EXTINF:-1 tvg-name="Afghanistan Under-19 Vs India Under-19" tvg-logo="" group-title="Cricket",Afghanistan Under-19 Vs India Under-19
-https://gooz.aapmains.net
