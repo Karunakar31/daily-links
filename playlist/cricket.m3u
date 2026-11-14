@@ -1,36 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+#EXTINF:-1 tvg-name="Pakistan Under-19 Vs India Under-19" tvg-logo="" group-title="Cricket",Pakistan Under-19 Vs India Under-19
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a074c6c1178670701cbfeca48c0abe5:d7d84ab8144591ba0a49e443c571bf10
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dcu7rpwyvi/out/v1/05f98d7430fd4ceeb3317fe61cc536b0/cenc.mpd
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+#KODIPROP:inputstream.adaptive.license_key=6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd
+#EXTINF:-1 tvg-name="Pakistan Under-19 Vs India Under-19" tvg-logo="" group-title="Cricket",Pakistan Under-19 Vs India Under-19
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ccabc091fc06e2c983228d547530c5d:0dad1a9082f3e94f66b3b38864ff0f08
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x9rbps3nff/out/v1/737eb86856de4824b26f7af699a34b56/cenc.mpd
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+#KODIPROP:inputstream.adaptive.license_key=c32f4ea1b4dd4e4736ee667ee02aa8bb:3ae921b11d3dcabb54a7433f065c2efa
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2fqqd9w1dv/out/v1/640bbe357b4e4656a3a25ef401b40943/cenc.mpd
+#EXTINF:-1 tvg-name="Pakistan Under-19 Vs India Under-19" tvg-logo="" group-title="Cricket",Pakistan Under-19 Vs India Under-19
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+#KODIPROP:inputstream.adaptive.license_key=6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd
+#EXTINF:-1 tvg-name="Pakistan Under-19 Vs India Under-19" tvg-logo="" group-title="Cricket",Pakistan Under-19 Vs India Under-19
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9daab9f2057ca46ae108997a0886b434:220b4c0284b9a045c49c8cf1ddbb49a8
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iuqnuk7pr4/out/v1/e3422bcef5ec40a591e96d528b83bdd6/cenc.mpd
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2848e6ec50f63a4a5ed5e0c0bb94c870:c6d49139023938d6a73f6a3141b2ff5e
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7vhf8r60nl/out/v1/5d0ce0e49c454459a1f6c58562ce4884/cenc.mpd
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9daab9f2057ca46ae108997a0886b434:220b4c0284b9a045c49c8cf1ddbb49a8
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6learkrmkk/out/v1/ea7695de219f46d1bf645bd975854712/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-name="Pakistan Under-19 Vs India Under-19" tvg-logo="" group-title="Cricket",Pakistan Under-19 Vs India Under-19
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-name="Pakistan Under-19 Vs India Under-19" tvg-logo="" group-title="Cricket",Pakistan Under-19 Vs India Under-19
+http://103.114.11.37:8081/Willow-TV/index.m3u8
 #EXTINF:-1 tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="" group-title="Cricket",Afghanistan Vs Zimbabwe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b21487d48dba161df1dbcb2709e78ac5:495d4dfd655791c39933461c3751bde3
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j7kojz9zjq/out/v1/364b343c25d549ebade260951e5ae871/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x8iyqzo7wh/out/v1/8c628f2f334e46a683092f62d2659733/cenc.mpd
 #EXTINF:-1 tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="" group-title="Cricket",Afghanistan Vs Zimbabwe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b21487d48dba161df1dbcb2709e78ac5:495d4dfd655791c39933461c3751bde3
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/j7kojz9zjq/out/v1/364b343c25d549ebade260951e5ae871/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x8iyqzo7wh/out/v1/8c628f2f334e46a683092f62d2659733/cenc.mpd
 #EXTINF:-1 tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="" group-title="Cricket",Afghanistan Vs Zimbabwe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
@@ -43,6 +39,24 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 http://193.47.62.44/hls/D222A.m3u8
 #EXTINF:-1 tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="" group-title="Cricket",Afghanistan Vs Zimbabwe
 https://nadia01eo.tn76degree12ec3out.cfd
+#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f703fd09044cca52e2574b38fb30a6f9:35494900afade256b06dce9fbd4e3018
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd
+#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
+http://193.47.62.41/hls/ZZZZAA.m3u8
+#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
+https://nadia01eo.tn76degree12ec3out.cfd
+#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 #EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb
@@ -57,20 +71,6 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 http://193.47.62.50/hls/VFFFA.m3u8
 #EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
 https://nadia01eo.tn76degree12ec3out.cfd
-#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=636a1180048a50dcdcb44283999a7a9b:fd4f90a2703266be6aea6b6d01274a07
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u4j10cfyp1/out/v1/ca19243e974e4cb099314f26276b2991/cenc.mpd
-#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=636a1180048a50dcdcb44283999a7a9b:fd4f90a2703266be6aea6b6d01274a07
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u4j10cfyp1/out/v1/ca19243e974e4cb099314f26276b2991/cenc.mpd
-#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
