@@ -1,47 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="" group-title="Cricket",Afghanistan Vs Zimbabwe
+#EXTINF:-1 tvg-name="ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE" tvg-logo="" group-title="Cricket",ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6745cf86849992016a18fa701bbe4c7:1868048f6a964c749f14fb2fc26788f4
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/obarp6nvg5/out/v1/99d085ed0a6e40c58b53a53d7b823278/cenc.mpd
-#EXTINF:-1 tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="" group-title="Cricket",Afghanistan Vs Zimbabwe
+#KODIPROP:inputstream.adaptive.license_key=eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xctbh0jely/out/v1/5fa99c274f9d4ba896fa7d398393398b/cenc.mpd
+#EXTINF:-1 tvg-name="ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE" tvg-logo="" group-title="Cricket",ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6745cf86849992016a18fa701bbe4c7:1868048f6a964c749f14fb2fc26788f4
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/obarp6nvg5/out/v1/99d085ed0a6e40c58b53a53d7b823278/cenc.mpd
-#EXTINF:-1 tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="" group-title="Cricket",Afghanistan Vs Zimbabwe
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-name="ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE" tvg-logo="" group-title="Cricket",ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE
+https://live.msnetworks.net/a-sports/master.m3u8
+#EXTINF:-1 tvg-name="South Africa Vs Bangladesh" tvg-logo="" group-title="Cricket",South Africa Vs Bangladesh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd
+#EXTINF:-1 tvg-name="South Africa Vs Bangladesh" tvg-logo="" group-title="Cricket",South Africa Vs Bangladesh
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+#EXTINF:-1 tvg-name="South Africa Vs Bangladesh" tvg-logo="" group-title="Cricket",South Africa Vs Bangladesh
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1 tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="" group-title="Cricket",Afghanistan Vs Zimbabwe
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="" group-title="Cricket",Afghanistan Vs Zimbabwe
-http://193.47.62.44/hls/D222A.m3u8
-#EXTINF:-1 tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="" group-title="Cricket",Afghanistan Vs Zimbabwe
-https://nadia01eo.tn76degree12ec3out.cfd
-#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ab1c1daaf8a93ee5d8c333ae41de6d0:e731018711c1800989fed4fa07080e73
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wxvmelrkkb/out/v1/73f74a8b5e474e69acd8654c4d505fca/cenc.mpd?
-#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
-http://193.47.62.41/hls/ZZZZAA.m3u8
-#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
-https://nadia01eo.tn76degree12ec3out.cfd
-#EXTINF:-1 tvg-name="South Africa Vs Bangladesh" tvg-logo="" group-title="Cricket",South Africa Vs Bangladesh
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d872367d3ff927c4abf0198dfeb01d2:47945393588cf479b728df327f3bef53
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd
-#EXTINF:-1 tvg-name="South Africa Vs Bangladesh" tvg-logo="" group-title="Cricket",South Africa Vs Bangladesh
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 #EXTINF:-1 tvg-name="South Africa Vs Bangladesh" tvg-logo="" group-title="Cricket",South Africa Vs Bangladesh
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 #EXTINF:-1 tvg-name="South Africa Vs Bangladesh" tvg-logo="" group-title="Cricket",South Africa Vs Bangladesh
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d872367d3ff927c4abf0198dfeb01d2:47945393588cf479b728df327f3bef53
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd
