@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="NPL Vs NPL" tvg-logo="" group-title="Cricket",NPL Vs NPL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-name="NPL Vs NPL" tvg-logo="" group-title="Cricket",NPL Vs NPL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://ott-lb.nettv.com.np/npl/live_match/index.mpd
-#EXTINF:-1 tvg-name="NPL Vs NPL" tvg-logo="" group-title="Cricket",NPL Vs NPL
-http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8
-#EXTINF:-1 tvg-name="NPL Vs NPL" tvg-logo="" group-title="Cricket",NPL Vs NPL
-http://162.251.160.53:8089/NPLT20/index.m3u8
-#EXTINF:-1 tvg-name="NPL Vs NPL" tvg-logo="" group-title="Cricket",NPL Vs NPL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
-#EXTINF:-1 tvg-name="NPL Vs NPL" tvg-logo="" group-title="Cricket",NPL Vs NPL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1 tvg-name="NPL Vs NPL" tvg-logo="" group-title="Cricket",NPL Vs NPL
-https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="NPL Vs NPL" tvg-logo="" group-title="Cricket",NPL Vs NPL
-https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="NPL Vs NPL" tvg-logo="" group-title="Cricket",NPL Vs NPL
-https://fancode.com/
 #EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2cc5711d3688fa4b639af9c7d0f11f1:dfd6faef548d25c8e4e8bd0c81e10cae
@@ -45,6 +19,20 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kun3tuq8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd?
+#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd
+#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd
+#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
+#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
+http://193.47.62.41/hls/RREGEGE.m3u8
+#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
+https://nadia01eo.tn76degree12ec3out.cfd
 #EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7e146b29b33caca854620c0fb05bea:e895d427078bb109a0f6b8fd690dd105
@@ -75,3 +63,23 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 http://193.47.62.41/hls/vvvve.m3u8
 #EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
 http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="South Africa Vs Bangladesh" tvg-logo="" group-title="Cricket",South Africa Vs Bangladesh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd
+#EXTINF:-1 tvg-name="South Africa Vs Bangladesh" tvg-logo="" group-title="Cricket",South Africa Vs Bangladesh
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+#EXTINF:-1 tvg-name="South Africa Vs Bangladesh" tvg-logo="" group-title="Cricket",South Africa Vs Bangladesh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-name="South Africa Vs Bangladesh" tvg-logo="" group-title="Cricket",South Africa Vs Bangladesh
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
+#EXTINF:-1 tvg-name="South Africa Vs Bangladesh" tvg-logo="" group-title="Cricket",South Africa Vs Bangladesh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd
+#EXTINF:-1 tvg-name="South Africa Vs Bangladesh" tvg-logo="" group-title="Cricket",South Africa Vs Bangladesh
+http://193.47.62.59/hls/RREGEGEAA.m3u8
+#EXTINF:-1 tvg-name="South Africa Vs Bangladesh" tvg-logo="" group-title="Cricket",South Africa Vs Bangladesh
+https://nadia01eo.tn76degree12ec3out.cfd

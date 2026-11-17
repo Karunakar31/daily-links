@@ -1,28 +1,38 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="" group-title="Cricket",Afghanistan Vs Zimbabwe
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd
-#EXTINF:-1 tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="" group-title="Cricket",Afghanistan Vs Zimbabwe
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd
-#EXTINF:-1 tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="" group-title="Cricket",Afghanistan Vs Zimbabwe
-https://stream1.liveland.af/hls/tv/ariana/playlist.m3u8
-#EXTINF:-1 tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="" group-title="Cricket",Afghanistan Vs Zimbabwe
-https://liveland.af/
-#EXTINF:-1 tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="" group-title="Cricket",Afghanistan Vs Zimbabwe
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1 tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="" group-title="Cricket",Afghanistan Vs Zimbabwe
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="" group-title="Cricket",Afghanistan Vs Zimbabwe
-http://193.47.62.44/hls/RREGEGEA.m3u8
-#EXTINF:-1 tvg-name="Afghanistan Vs Zimbabwe" tvg-logo="" group-title="Cricket",Afghanistan Vs Zimbabwe
+#EXTINF:-1 tvg-name="SIMULACAST Vs SIMULACAST" tvg-logo="" group-title="Cricket",SIMULACAST Vs SIMULACAST
+http://193.47.62.41/hls/YDDD.m3u8
+#EXTINF:-1 tvg-name="SIMULACAST Vs SIMULACAST" tvg-logo="" group-title="Cricket",SIMULACAST Vs SIMULACAST
 https://nadia01eo.tn76degree12ec3out.cfd
+#EXTINF:-1 tvg-name="ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE" tvg-logo="" group-title="Cricket",ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b50eedac4fd1a7f6068fc90c875a2f2e:b6c288c9a0112f3729538b3fb37bd044
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5ijjfwkrfb/out/v1/6be8fdc7d3324eb2b7774e8081c508cc/cenc.mpd
+#EXTINF:-1 tvg-name="ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE" tvg-logo="" group-title="Cricket",ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-name="ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE" tvg-logo="" group-title="Cricket",ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE
+https://live.msnetworks.net/a-sports/master.m3u8
+#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2cc5711d3688fa4b639af9c7d0f11f1:dfd6faef548d25c8e4e8bd0c81e10cae
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yqqst5pqux/out/v1/073a062a7b0847ce932d5eadcebc0ac4/cenc.mpd?
+#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be1f10aeaca62da127a95ce24f9ca1c8:19afcfb83c9fbac9b3b6717776474356
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/urcccugwau/out/v1/a9db6d34fd7c475892f37f566feb5d14/cenc.mpd?
+#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f64db3174349a969b3f9686b28fa2ec:9a24a60537b3628ce17fc07404520d16
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kun3tuq8ds/out/v1/2888a4861ca042d1a01fc66e65c44981/cenc.mpd?
+#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd?
 #EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7
@@ -37,28 +47,36 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 http://193.47.62.41/hls/RREGEGE.m3u8
 #EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
 https://nadia01eo.tn76degree12ec3out.cfd
-#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
+#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd
-#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
+#KODIPROP:inputstream.adaptive.license_key=ec7e146b29b33caca854620c0fb05bea:e895d427078bb109a0f6b8fd690dd105
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cs4bb976aa/out/v1/18bfdac2326c4055b5be76a41172ff9c/cenc.mpd
+#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
+#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd
-#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
 https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
-#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
+#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd
-#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
-http://193.47.62.41/hls/ZZZZAA.m3u8
-#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
-https://nadia01eo.tn76degree12ec3out.cfd
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
+http://193.47.62.41/hls/vvvve.m3u8
+#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
+http://www.fawanews.sc/
 #EXTINF:-1 tvg-name="South Africa Vs Bangladesh" tvg-logo="" group-title="Cricket",South Africa Vs Bangladesh
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c
@@ -105,63 +123,25 @@ https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="NPL Vs NPL" tvg-logo="" group-title="Cricket",NPL Vs NPL
 https://fancode.com/
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d2cc5711d3688fa4b639af9c7d0f11f1:dfd6faef548d25c8e4e8bd0c81e10cae
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yqqst5pqux/out/v1/073a062a7b0847ce932d5eadcebc0ac4/cenc.mpd?
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be1f10aeaca62da127a95ce24f9ca1c8:19afcfb83c9fbac9b3b6717776474356
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/urcccugwau/out/v1/a9db6d34fd7c475892f37f566feb5d14/cenc.mpd?
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f64db3174349a969b3f9686b28fa2ec:9a24a60537b3628ce17fc07404520d16
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kun3tuq8ds/out/v1/2888a4861ca042d1a01fc66e65c44981/cenc.mpd?
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd?
-#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7e146b29b33caca854620c0fb05bea:e895d427078bb109a0f6b8fd690dd105
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cs4bb976aa/out/v1/18bfdac2326c4055b5be76a41172ff9c/cenc.mpd
-#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
+#KODIPROP:inputstream.adaptive.license_key=82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd
+#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
+#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
+#KODIPROP:inputstream.adaptive.license_key=82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd
+#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
 https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
-#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
+#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
-http://193.47.62.41/hls/vvvve.m3u8
-#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
-http://www.fawanews.sc/
-#EXTINF:-1 tvg-name="ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE" tvg-logo="" group-title="Cricket",ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xctbh0jely/out/v1/5fa99c274f9d4ba896fa7d398393398b/cenc.mpd
-#EXTINF:-1 tvg-name="ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE" tvg-logo="" group-title="Cricket",ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-#EXTINF:-1 tvg-name="ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE" tvg-logo="" group-title="Cricket",ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE
-https://live.msnetworks.net/a-sports/master.m3u8
+#KODIPROP:inputstream.adaptive.license_key=93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd
+#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
+http://193.47.62.41/hls/ZZZZAA.m3u8
+#EXTINF:-1 tvg-name="WBBL Vs WBBL" tvg-logo="" group-title="Cricket",WBBL Vs WBBL
+https://nadia01eo.tn76degree12ec3out.cfd
