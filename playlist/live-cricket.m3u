@@ -1,48 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
+#EXTINF:-1 tvg-name="ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE" tvg-logo="" group-title="Cricket",ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd
-#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
+#KODIPROP:inputstream.adaptive.license_key=b50eedac4fd1a7f6068fc90c875a2f2e:b6c288c9a0112f3729538b3fb37bd044
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5ijjfwkrfb/out/v1/6be8fdc7d3324eb2b7774e8081c508cc/cenc.mpd
+#EXTINF:-1 tvg-name="ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE" tvg-logo="" group-title="Cricket",ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd
-#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
-https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
-#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
-http://193.47.62.41/hls/RREGEGE.m3u8
-#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
-https://nadia01eo.tn76degree12ec3out.cfd
-#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=205451a6cd81dce284519a33dd57a1db:2dcfd1bbf6616d09b01d969efa0658a6
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd
-#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=205451a6cd81dce284519a33dd57a1db:2dcfd1bbf6616d09b01d969efa0658a6
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd
-#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
-https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
-#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
-http://193.47.62.44/hls/qqqq.m3u8
-#EXTINF:-1 tvg-name="Australia Vs England" tvg-logo="" group-title="Cricket",Australia Vs England
-http://www.fawanews.sc/
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-name="ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE" tvg-logo="" group-title="Cricket",ABU DHABI T10 LEAGUE Vs ABU DHABI T10 LEAGUE
+https://live.msnetworks.net/a-sports/master.m3u8
 #EXTINF:-1 tvg-name="South Africa Vs Bangladesh" tvg-logo="" group-title="Cricket",South Africa Vs Bangladesh
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c
