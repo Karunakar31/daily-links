@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=766c7943cfc3e9d982ff49ca5e16bb90:f715c4b43971ca6990af7eff70f021b0
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=a478f5af8b826d44778571031c84e257:ceabaa285b51b50a60cf5240715a6f28
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1rio9enthp/out/v1/349d14aa7815498f8c11ab98f7100aaa/cenc.mpd
 #EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ebc640cb03dbdf8677190f7e4b2e96b0:7ab2c0204d41d1eefeca0cc04622c4cc
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2crmhngewx/out/v1/7005e762d047462aa11136773a136dfa/cenc.mpd?
+#KODIPROP:inputstream.adaptive.license_key=fda7a391d6346eb3176d0379fdc094d0:1ee285d5bec7f6855d51e3e5f630ad1f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mebvsdzu7s/out/v1/563c92c11fff4290a160e365f6996c34/cenc.mpd
 #EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=080deb5f5141f1274093066904865667:af9d012f808345520ac2d3b2cc9026de
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m0edrlrm8n/out/v1/769e4d71dfec4c4cb8189a0bf5051266/cenc.mpd?
+#KODIPROP:inputstream.adaptive.license_key=424a04fa4464fdb9d5f3d61ddf48776a:85a5da47db9f57cdccdbac01c980aece
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/szeafaauqf/out/v1/6b31170c3b5749928bff04fc71f02b06/cenc.mpd
 #EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
@@ -23,3 +23,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 http://193.47.62.41/hls/qaqaqa.m3u8
 #EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
 https://nadia01eo.tn76degree12ec3out.cfd
+#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a478f5af8b826d44778571031c84e257:ceabaa285b51b50a60cf5240715a6f28
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1rio9enthp/out/v1/349d14aa7815498f8c11ab98f7100aaa/cenc.mpd
