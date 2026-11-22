@@ -93,3 +93,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=61403ba13e0032108b86ec3078314ec9:ec2ac53d37954d51dd4d9eb11ecf322b
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0xfrvmdavw/out/v1/7124ee54ff4148b1860534204d651f31/cenc.mpd
+#EXTINF:-1 tvg-name="Pakistan A Vs INDIA A" tvg-logo="" group-title="Cricket",Pakistan A Vs INDIA A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
+https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
