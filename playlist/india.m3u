@@ -19,3 +19,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 http://193.47.62.41/hls/qaqaqa.m3u8
 #EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
 https://nadia01eo.tn76degree12ec3out.cfd
+#EXTINF:-1 tvg-name="India A Vs United Arab Emirates A" tvg-logo="" group-title="Cricket",India A Vs United Arab Emirates A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80b7d868c24a42338b5ebeb1ec7c1e4b:dc42470ebbfd8cacb3cf731b54a8cb38
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g9oxryhrzt/out/v1/e20c53d9b97b47e2aa4093369cd1e421/cenc.mpd
+#EXTINF:-1 tvg-name="India A Vs United Arab Emirates A" tvg-logo="" group-title="Cricket",India A Vs United Arab Emirates A
+https://www.primevideo.com/
