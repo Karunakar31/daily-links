@@ -1,154 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Italia T10 Vs Italia T10" tvg-logo="" group-title="Cricket",Italia T10 Vs Italia T10
-https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8
-#EXTINF:-1 tvg-name="Italia T10 Vs Italia T10" tvg-logo="" group-title="Cricket",Italia T10 Vs Italia T10
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
-#EXTINF:-1 tvg-name="Italia T10 Vs Italia T10" tvg-logo="" group-title="Cricket",Italia T10 Vs Italia T10
-https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8
-#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=64dc1d4bb91d3450b9d4ae4a0726d637:ce8b3415503515323800502c4cd46037
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcjujmrzz8/out/v1/96349312752b430f8b8b3733b0841b41/cenc.mpd
-#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
-https://cdn03lhr-n.tamashaweb.com:8087/appcast/ILT-S05-SVOD-abr/playlist.m3u8
-#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
-http://103.205.132.29:8081/Unite8-sports-1/index.m3u8
-#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffa2f9e64ca542f9a13f6ebc11292468:ac0b546c754884618e5b2c2c986e4735
-https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd
-#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f
-https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
-#EXTINF:-1 tvg-name="Melbourne Renegades Women Vs Brisbane Heat Women" tvg-logo="" group-title="Cricket",Melbourne Renegades Women Vs Brisbane Heat Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e929ffbf0190098c52fa2c689dd2311e:b499ea7a1c854eaddbf3021a7b3d40bc
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd
-#EXTINF:-1 tvg-name="Melbourne Renegades Women Vs Brisbane Heat Women" tvg-logo="" group-title="Cricket",Melbourne Renegades Women Vs Brisbane Heat Women
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-name="Melbourne Renegades Women Vs Brisbane Heat Women" tvg-logo="" group-title="Cricket",Melbourne Renegades Women Vs Brisbane Heat Women
-https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
-#EXTINF:-1 tvg-name="Melbourne Renegades Women Vs Brisbane Heat Women" tvg-logo="" group-title="Cricket",Melbourne Renegades Women Vs Brisbane Heat Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-name="Melbourne Renegades Women Vs Brisbane Heat Women" tvg-logo="" group-title="Cricket",Melbourne Renegades Women Vs Brisbane Heat Women
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-#EXTINF:-1 tvg-name="Melbourne Renegades Women Vs Brisbane Heat Women" tvg-logo="" group-title="Cricket",Melbourne Renegades Women Vs Brisbane Heat Women
-https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2HZf1c4uBg6Tcge46xGoTKmLKvC7RQ5KC9L96kuLbF3cwhm5vYSp6TYtQ2LGJ13UsJm2jAV3qQks/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc2qBiLSsNzyssA23pyejpKFDTjB4g33F8Rqu9L5V2DaCZzchisiRB4daZXrKjudPUvyiupPRQX94daqqMJskJspCfMUg7BGCSdoxBnZdNDeBbh4cnWWeS1Y1vLbsHBCYQ1PzcdWhEFRmCtduUG8ZQYjSsg4Lrp3xtHKrGpR4e3WLaPRWVtW5a6XKSYofidm6sWaGt1aUggBbMEiUfuNzxUB3pgbZ5SN7Pmob4J3uhyR87HtHSJC9LwWAF3M29KgtVqoJhdHqL1qFuuMEhbHLrgxocXjREFt4NQ96hndJqoT5EZM8oeYsHBcgEc2ybZQq1qE7fthkKqNdPFss3cGbcN5pWXbghE7uQPJddUwwArxGTAa7dbqHMXuRZaAmqb7eGjwN7EYUAkUyxVC2xR551bkJNPc8YWkERsJLqC9mZRjTkKBDGBh8Ko63nv6ez5okKYZ9V21ez2vs6D3fkpj1gh6Jn95ZegMTbhGdmidFk7dWcDXWS9bCaimgUcTKJQnz7MVgMZmGLdqKSs419iGrp1zRaBXykqPue9quU28audCPfsF2FwWc96ih5r41WN8yXr256QKcLpsj4X3j75UFmdvo3imTJzAPdQswnANdYnX1UALd2S2
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a993ba0f7bf4b83d0ccb44a591e2a51c:2bd5e352dd929f561daa14de1fc1a7a1
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3yznekgktt/out/v1/858249b12acb46b99a95fbfab5887011/cenc.mpd
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
-https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a993ba0f7bf4b83d0ccb44a591e2a51c:2bd5e352dd929f561daa14de1fc1a7a1
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3yznekgktt/out/v1/858249b12acb46b99a95fbfab5887011/cenc.mpd
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
-https://live.msnetworks.net/ten-sports/master.m3u8
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795426927~acl=/*~id=84219570040938269250347123670804~hmac=6603ecc577564305dccf422ccdd48bfd57a48dbf28a6d8b3639adfb22b653070
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795426927~acl=/*~id=84219570040938269250347123670804~hmac=6603ecc577564305dccf422ccdd48bfd57a48dbf28a6d8b3639adfb22b653070
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795426927~acl=/*~id=84219570040938269250347123670804~hmac=6603ecc577564305dccf422ccdd48bfd57a48dbf28a6d8b3639adfb22b653070
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795426927~acl=/*~id=84219570040938269250347123670804~hmac=6603ecc577564305dccf422ccdd48bfd57a48dbf28a6d8b3639adfb22b653070
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795426927~acl=/*~id=84219570040938269250347123670804~hmac=6603ecc577564305dccf422ccdd48bfd57a48dbf28a6d8b3639adfb22b653070
-#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
-https://dai.google.com/linear/hls/event/bS5bRXLITKKz7UK_serxVw/master.m3u8
-#EXTINF:-1 tvg-name="Bangladesh Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Thailand Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1795021544~acl=*%2fchannel(vcg-01-ch-hd-07)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=5bb93f39e3f5d1d1097cc13df511c119ded4c5b1b5ea5ae79b17baf370c3894e/manifest.mpd?vcfilter=f0290586-3e56-4fd8-bc61-4a8278513418
-#EXTINF:-1 tvg-name="Bangladesh Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Thailand Women
-https://ml-pull-rtmp-pk1.myco.io/Feed2/hls/index.m3u8
-#EXTINF:-1 tvg-name="Bangladesh Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Thailand Women
-https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-B-abr/playlist.m3u8
-#EXTINF:-1 tvg-name="Netherlands Women Vs Zimbabwe Women" tvg-logo="" group-title="Cricket",Netherlands Women Vs Zimbabwe Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795021612~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=f35348c7fbb05d1aad3da10e0fd7a946e123b0a4ad8a992c4fdb2c38506d5d5d/manifest.mpd?vcfilter=6fcd44d2-69c5-43bd-880b-4e7bda3b8711
-#EXTINF:-1 tvg-name="Netherlands Women Vs Zimbabwe Women" tvg-logo="" group-title="Cricket",Netherlands Women Vs Zimbabwe Women
-https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8
-#EXTINF:-1 tvg-name="Netherlands Women Vs Zimbabwe Women" tvg-logo="" group-title="Cricket",Netherlands Women Vs Zimbabwe Women
-https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8
-#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d129d1272d5a71f72a74839d021c46a6:b357d476f2f374c66dff8fa650df717b
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pd55oxz1mc/out/v1/c546a7bbf34a4a5d8f10c9718ef5ea15/cenc.mpd
-#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
-https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
-#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
-https://cdn03khi-n.tamashaweb.com:8087/appcast/SL-vs-PAK-2026-SVOD-abr/playlist.m3u8
-#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
-https://mbgthz-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8
-#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
-https://live.msnetworks.net/ptv-sports/master.m3u8
-#EXTINF:-1 tvg-name="UAE Vs Nepal" tvg-logo="" group-title="Cricket",UAE Vs Nepal
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7341f16081ecb92ed172ef9df6f443ce:566b8cf0a31255d55785b24ade0a999c
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd
-#EXTINF:-1 tvg-name="UAE Vs Nepal" tvg-logo="" group-title="Cricket",UAE Vs Nepal
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
-https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
-#EXTINF:-1 tvg-name="UAE Vs Nepal" tvg-logo="" group-title="Cricket",UAE Vs Nepal
-https://sonydaimenew.akamaized.net/hls/live/2018457/criclive2211/ENG/master.m3u8?hdnea=exp=1795369829~acl=/*~id=36174367699410305724247024336931~hmac=48585ca95e46e6fb786953efff169aa47ab584b94a7fa8858442153a01e9d040
-#EXTINF:-1 tvg-name="UAE Vs Nepal" tvg-logo="" group-title="Cricket",UAE Vs Nepal
-https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8
-#EXTINF:-1 tvg-name="UAE Vs Nepal" tvg-logo="" group-title="Cricket",UAE Vs Nepal
-https://live.msnetworks.net/ten-sports/master.m3u8
-#EXTINF:-1 tvg-name="UAE Vs Nepal" tvg-logo="" group-title="Cricket",UAE Vs Nepal
-https://dai.google.com/linear/hls/event/yaROyE-bScOVYZWWXQoBdQ/master.m3u8
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=04fada1ca01dd6c5f607f8fe0888a692:9f3089dd8bedd300f801277ce8510bc8
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zenfbe10ry/out/v1/b0b56246975f46b9aec8db7586e25a61/cenc.mpd
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
-https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-b-abr/playlist.m3u8
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-https://live.msnetworks.net/ptv-sports/master.m3u8
 #EXTINF:-1 tvg-name="South Africa Vs Bangladesh" tvg-logo="" group-title="Cricket",South Africa Vs Bangladesh
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c0a5ca2bcc67426156a65d85d53f5ae:02b0a91443f3b8682dd08912875eeb61
@@ -183,19 +33,153 @@ https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 https://playztv-apps.pages.dev/ptv-sports/index.m3u8
 #EXTINF:-1 tvg-name="South Africa Vs Bangladesh" tvg-logo="" group-title="Cricket",South Africa Vs Bangladesh
 http://193.47.62.59/hls/RREGEGEAA.m3u8
-#EXTINF:-1 tvg-name="Pakistan A Vs Nepal" tvg-logo="" group-title="Cricket",Pakistan A Vs Nepal
+#EXTINF:-1 tvg-name="Melbourne Renegades Women Vs Brisbane Heat Women" tvg-logo="" group-title="Cricket",Melbourne Renegades Women Vs Brisbane Heat Women
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac685b471a4e1d6c4be3fe7429595d9d:db72f4347277225954d7170f0ec6992f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1zdpsgfa6p/out/v1/0be3672943164ddc9df8372d522c3842/cenc.mpd
-#EXTINF:-1 tvg-name="Pakistan A Vs Nepal" tvg-logo="" group-title="Cricket",Pakistan A Vs Nepal
+#KODIPROP:inputstream.adaptive.license_key=e929ffbf0190098c52fa2c689dd2311e:b499ea7a1c854eaddbf3021a7b3d40bc
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd
+#EXTINF:-1 tvg-name="Melbourne Renegades Women Vs Brisbane Heat Women" tvg-logo="" group-title="Cricket",Melbourne Renegades Women Vs Brisbane Heat Women
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+#EXTINF:-1 tvg-name="Melbourne Renegades Women Vs Brisbane Heat Women" tvg-logo="" group-title="Cricket",Melbourne Renegades Women Vs Brisbane Heat Women
+https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Melbourne Renegades Women Vs Brisbane Heat Women" tvg-logo="" group-title="Cricket",Melbourne Renegades Women Vs Brisbane Heat Women
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4dd3868a0b6eee01223b50a94b43587c:9aafad044ccd8f63a413f0e28561e8b3
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfrlbe7fbg/out/v1/639c9067b4a84f7bb2f537e92b3dc7ab/cenc.mpd
-#EXTINF:-1 tvg-name="Pakistan A Vs Nepal" tvg-logo="" group-title="Cricket",Pakistan A Vs Nepal
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 tvg-name="Melbourne Renegades Women Vs Brisbane Heat Women" tvg-logo="" group-title="Cricket",Melbourne Renegades Women Vs Brisbane Heat Women
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+#EXTINF:-1 tvg-name="Melbourne Renegades Women Vs Brisbane Heat Women" tvg-logo="" group-title="Cricket",Melbourne Renegades Women Vs Brisbane Heat Women
+https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2HZf1c4uBg6Tcge46xGoTKmLKvC7RQ5KC9L96kuLbF3cwhm5vYSp6TYtQ2LGJ13UsJm2jAV3qQks/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc2qBiLSsNzyssA23pyejpKFDTjB4g33F8Rqu9L5V2DaCZzchisiRB4daZXrKjudPUvyiupPRQX94daqqMJskJspCfMUg7BGCSdoxBnZdNDeBbh4cnWWeS1Y1vLbsHBCYQ1PzcdWhEFRmCtduUG8ZQYjSsg4Lrp3xtHKrGpR4e3WLaPRWVtW5a6XKSYofidm6sWaGt1aUggBbMEiUfuNzxUB3pgbZ5SN7Pmob4J3uhyR87HtHSJC9LwWAF3M29KgtVqoJhdHqL1qFuuMEhbHLrgxocXjREFt4NQ96hndJqoT5EZM8oeYsHBcgEc2ybZQq1qE7fthkKqNdPFss3cGbcN5pWXbghE7uQPJddUwwArxGTAa7dbqHMXuRZaAmqb7eGjwN7EYUAkUyxVC2xR551bkJNPc8YWkERsJLqC9mZRjTkKBDGBh8Ko63nv6ez5okKYZ9V21ez2vs6D3fkpj1gh6Jn95ZegMTbhGdmidFk7dWcDXWS9bCaimgUcTKJQnz7MVgMZmGLdqKSs419iGrp1zRaBXykqPue9quU28audCPfsF2FwWc96ih5r41WN8yXr256QKcLpsj4X3j75UFmdvo3imTJzAPdQswnANdYnX1UALd2S2
+#EXTINF:-1 tvg-name="Italia T10 Vs Italia T10" tvg-logo="" group-title="Cricket",Italia T10 Vs Italia T10
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1 tvg-name="Italia T10 Vs Italia T10" tvg-logo="" group-title="Cricket",Italia T10 Vs Italia T10
+https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8
+#EXTINF:-1 tvg-name="Italia T10 Vs Italia T10" tvg-logo="" group-title="Cricket",Italia T10 Vs Italia T10
+https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7dcfc23b4712a8031fa154bfb07917e7:fd7078d53cb394fed87690a2d408385e
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gfshrnrosi/out/v1/38ade1f0001545678654acfccb674b40/cenc.mpd
+#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
+https://cdn03lhr-n.tamashaweb.com:8087/appcast/ILT-S05-SVOD-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
+http://103.205.132.29:8081/Unite8-sports-1/index.m3u8
+#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffa2f9e64ca542f9a13f6ebc11292468:ac0b546c754884618e5b2c2c986e4735
+https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd
+#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f
+https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04fada1ca01dd6c5f607f8fe0888a692:9f3089dd8bedd300f801277ce8510bc8
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zenfbe10ry/out/v1/b0b56246975f46b9aec8db7586e25a61/cenc.mpd
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
+https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-b-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://live.msnetworks.net/ptv-sports/master.m3u8
+#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a993ba0f7bf4b83d0ccb44a591e2a51c:2bd5e352dd929f561daa14de1fc1a7a1
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3yznekgktt/out/v1/858249b12acb46b99a95fbfab5887011/cenc.mpd
+#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
+#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a993ba0f7bf4b83d0ccb44a591e2a51c:2bd5e352dd929f561daa14de1fc1a7a1
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3yznekgktt/out/v1/858249b12acb46b99a95fbfab5887011/cenc.mpd
+#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+https://live.msnetworks.net/ten-sports/master.m3u8
+#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795426927~acl=/*~id=84219570040938269250347123670804~hmac=6603ecc577564305dccf422ccdd48bfd57a48dbf28a6d8b3639adfb22b653070
+#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795426927~acl=/*~id=84219570040938269250347123670804~hmac=6603ecc577564305dccf422ccdd48bfd57a48dbf28a6d8b3639adfb22b653070
+#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795426927~acl=/*~id=84219570040938269250347123670804~hmac=6603ecc577564305dccf422ccdd48bfd57a48dbf28a6d8b3639adfb22b653070
+#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795426927~acl=/*~id=84219570040938269250347123670804~hmac=6603ecc577564305dccf422ccdd48bfd57a48dbf28a6d8b3639adfb22b653070
+#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795426927~acl=/*~id=84219570040938269250347123670804~hmac=6603ecc577564305dccf422ccdd48bfd57a48dbf28a6d8b3639adfb22b653070
+#EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
+https://dai.google.com/linear/hls/event/bS5bRXLITKKz7UK_serxVw/master.m3u8
+#EXTINF:-1 tvg-name="Bangladesh A Vs India A" tvg-logo="" group-title="Cricket",Bangladesh A Vs India A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7341f16081ecb92ed172ef9df6f443ce:566b8cf0a31255d55785b24ade0a999c
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd
+#EXTINF:-1 tvg-name="Bangladesh A Vs India A" tvg-logo="" group-title="Cricket",Bangladesh A Vs India A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
+https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
+#EXTINF:-1 tvg-name="Bangladesh A Vs India A" tvg-logo="" group-title="Cricket",Bangladesh A Vs India A
+https://sonydaimenew.akamaized.net/hls/live/2018457/criclive2211/ENG/master.m3u8?hdnea=exp=1795369829~acl=/*~id=36174367699410305724247024336931~hmac=48585ca95e46e6fb786953efff169aa47ab584b94a7fa8858442153a01e9d040
+#EXTINF:-1 tvg-name="Bangladesh A Vs India A" tvg-logo="" group-title="Cricket",Bangladesh A Vs India A
 https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8
-#EXTINF:-1 tvg-name="Pakistan A Vs Nepal" tvg-logo="" group-title="Cricket",Pakistan A Vs Nepal
+#EXTINF:-1 tvg-name="Bangladesh A Vs India A" tvg-logo="" group-title="Cricket",Bangladesh A Vs India A
+https://live.msnetworks.net/ten-sports/master.m3u8
+#EXTINF:-1 tvg-name="Bangladesh A Vs India A" tvg-logo="" group-title="Cricket",Bangladesh A Vs India A
+https://dai.google.com/linear/hls/event/yaROyE-bScOVYZWWXQoBdQ/master.m3u8
+#EXTINF:-1 tvg-name="Bangladesh Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Thailand Women
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac685b471a4e1d6c4be3fe7429595d9d:db72f4347277225954d7170f0ec6992f
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1zdpsgfa6p/out/v1/0be3672943164ddc9df8372d522c3842/cenc.mpd
-#EXTINF:-1 tvg-name="Pakistan A Vs Nepal" tvg-logo="" group-title="Cricket",Pakistan A Vs Nepal
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795556164~acl=/*~id=83143876600458032276763961949467~hmac=72e5a14c6606af548705e64a24f227a39ca0b5d7ea777f56f844b153cd3ef9a6
+#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1795021544~acl=*%2fchannel(vcg-01-ch-hd-07)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=5bb93f39e3f5d1d1097cc13df511c119ded4c5b1b5ea5ae79b17baf370c3894e/manifest.mpd?vcfilter=f0290586-3e56-4fd8-bc61-4a8278513418
+#EXTINF:-1 tvg-name="Bangladesh Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Thailand Women
+https://ml-pull-rtmp-pk1.myco.io/Feed2/hls/index.m3u8
+#EXTINF:-1 tvg-name="Bangladesh Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Thailand Women
+https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-B-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Netherlands Women Vs Zimbabwe Women" tvg-logo="" group-title="Cricket",Netherlands Women Vs Zimbabwe Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795021612~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=f35348c7fbb05d1aad3da10e0fd7a946e123b0a4ad8a992c4fdb2c38506d5d5d/manifest.mpd?vcfilter=6fcd44d2-69c5-43bd-880b-4e7bda3b8711
+#EXTINF:-1 tvg-name="Netherlands Women Vs Zimbabwe Women" tvg-logo="" group-title="Cricket",Netherlands Women Vs Zimbabwe Women
+https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8
+#EXTINF:-1 tvg-name="Netherlands Women Vs Zimbabwe Women" tvg-logo="" group-title="Cricket",Netherlands Women Vs Zimbabwe Women
+https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d129d1272d5a71f72a74839d021c46a6:b357d476f2f374c66dff8fa650df717b
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pd55oxz1mc/out/v1/c546a7bbf34a4a5d8f10c9718ef5ea15/cenc.mpd
+#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
+https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
+https://cdn03khi-n.tamashaweb.com:8087/appcast/SL-vs-PAK-2026-SVOD-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
+https://mbgthz-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8
+#EXTINF:-1 tvg-name="Pakistan Vs Sri Lanka" tvg-logo="" group-title="Cricket",Pakistan Vs Sri Lanka
+https://live.msnetworks.net/ptv-sports/master.m3u8

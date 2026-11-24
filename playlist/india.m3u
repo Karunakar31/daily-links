@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04fada1ca01dd6c5f607f8fe0888a692:9f3089dd8bedd300f801277ce8510bc8
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zenfbe10ry/out/v1/b0b56246975f46b9aec8db7586e25a61/cenc.mpd
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
+https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-b-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://live.msnetworks.net/ptv-sports/master.m3u8
 #EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a993ba0f7bf4b83d0ccb44a591e2a51c:2bd5e352dd929f561daa14de1fc1a7a1
@@ -27,33 +57,19 @@ https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh
 https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795426927~acl=/*~id=84219570040938269250347123670804~hmac=6603ecc577564305dccf422ccdd48bfd57a48dbf28a6d8b3639adfb22b653070
 #EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
 https://dai.google.com/linear/hls/event/bS5bRXLITKKz7UK_serxVw/master.m3u8
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
+#EXTINF:-1 tvg-name="Bangladesh A Vs India A" tvg-logo="" group-title="Cricket",Bangladesh A Vs India A
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=04fada1ca01dd6c5f607f8fe0888a692:9f3089dd8bedd300f801277ce8510bc8
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zenfbe10ry/out/v1/b0b56246975f46b9aec8db7586e25a61/cenc.mpd
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
+#KODIPROP:inputstream.adaptive.license_key=7341f16081ecb92ed172ef9df6f443ce:566b8cf0a31255d55785b24ade0a999c
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd
+#EXTINF:-1 tvg-name="Bangladesh A Vs India A" tvg-logo="" group-title="Cricket",Bangladesh A Vs India A
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
 https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-b-abr/playlist.m3u8
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b
-#EXTINF:-1 tvg-name="India A Vs UAE" tvg-logo="" group-title="Cricket",India A Vs UAE
-https://live.msnetworks.net/ptv-sports/master.m3u8
+#EXTINF:-1 tvg-name="Bangladesh A Vs India A" tvg-logo="" group-title="Cricket",Bangladesh A Vs India A
+https://sonydaimenew.akamaized.net/hls/live/2018457/criclive2211/ENG/master.m3u8?hdnea=exp=1795369829~acl=/*~id=36174367699410305724247024336931~hmac=48585ca95e46e6fb786953efff169aa47ab584b94a7fa8858442153a01e9d040
+#EXTINF:-1 tvg-name="Bangladesh A Vs India A" tvg-logo="" group-title="Cricket",Bangladesh A Vs India A
+https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Bangladesh A Vs India A" tvg-logo="" group-title="Cricket",Bangladesh A Vs India A
+https://live.msnetworks.net/ten-sports/master.m3u8
+#EXTINF:-1 tvg-name="Bangladesh A Vs India A" tvg-logo="" group-title="Cricket",Bangladesh A Vs India A
+https://dai.google.com/linear/hls/event/yaROyE-bScOVYZWWXQoBdQ/master.m3u8
