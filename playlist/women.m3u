@@ -1,19 +1,2 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BBL Women's Vs BBL Women's" tvg-logo="" group-title="Cricket",BBL Women's Vs BBL Women's
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f91b8bf06f3e791e41238b4190311c9e:eff5b8fafef1f8b3d988be38ff7e539e
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ilhybzuiyi/out/v1/04f4624f561f4dd69467e1e219f03568/cenc.mpd
-#EXTINF:-1 tvg-name="BBL Women's Vs BBL Women's" tvg-logo="" group-title="Cricket",BBL Women's Vs BBL Women's
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
-#EXTINF:-1 tvg-name="BBL Women's Vs BBL Women's" tvg-logo="" group-title="Cricket",BBL Women's Vs BBL Women's
-https://www.primevideo.com/
-#EXTINF:-1 tvg-name="BBL Women's Vs BBL Women's" tvg-logo="" group-title="Cricket",BBL Women's Vs BBL Women's
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-name="BBL Women's Vs BBL Women's" tvg-logo="" group-title="Cricket",BBL Women's Vs BBL Women's
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f91b8bf06f3e791e41238b4190311c9e:eff5b8fafef1f8b3d988be38ff7e539e
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ilhybzuiyi/out/v1/04f4624f561f4dd69467e1e219f03568/cenc.mpd
+
