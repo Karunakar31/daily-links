@@ -1,13 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sri Lanka Women Vs Ireland Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs Ireland Women
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https
-#EXTINF:-1 tvg-name="Sri Lanka Women Vs Ireland Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs Ireland Women
+#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://prb2.prbw.workers.dev/proxy/https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795610969~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixHQixJRSxNTA%3d%3d~hmac=477a7a43f563dd728866718e7c98b423ad723952af71b2fb46b3ed2295dcb766/manifest.mpd?vcfilter=f4fc6796-0bc7-4b43-b9a6-db875faeaa76
-#EXTINF:-1 tvg-name="Sri Lanka Women Vs Ireland Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs Ireland Women
-https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka Women Vs Ireland Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs Ireland Women
-https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka Women Vs Ireland Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs Ireland Women
-https://in-mc-vod.fancode.com/mumbai/4250688_english_hls_6c02a53fb925699_1ta-di_h264/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=d7070587c4a7d8db325db4540da4777c:c474bc272c73fdce1298511ac95bfdce
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lvpxnd9lm7/out/v1/ec8487d426a14be59423e84d2fb4c8ee/cenc.mpd
+#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
+https://cdn03lhr-n.tamashaweb.com:8087/appcast/ILT-S05-SVOD-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
+http://103.205.132.29:8081/Unite8-sports-1/index.m3u8
+#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffa2f9e64ca542f9a13f6ebc11292468:ac0b546c754884618e5b2c2c986e4735
+https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd
+#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f
+https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
+#EXTINF:-1 tvg-name="ILT T20 Vs ILT T20" tvg-logo="" group-title="Cricket",ILT T20 Vs ILT T20
+https://in-mc-vod.fancode.com/mumbai/4251054_english_hls_b961d4d41363338_1ta-di_h264/index.m3u8
