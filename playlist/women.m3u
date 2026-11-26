@@ -1,44 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sydney Sixers Women Vs Melbourne Stars Women" tvg-logo="" group-title="Cricket",Sydney Sixers Women Vs Melbourne Stars Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41901192b980eddd911c8cd7e5c516df:fabf22ee583ee08d1638dc18578d5174
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/teiohs2xmz/out/v1/3369f17367944191984b7d95012548e8/cenc.mpd
-#EXTINF:-1 tvg-name="Sydney Sixers Women Vs Melbourne Stars Women" tvg-logo="" group-title="Cricket",Sydney Sixers Women Vs Melbourne Stars Women
-https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2GapTrGM8HC5WXnbA6bzAozHCCBMY52Y3TC69oRNUsW2vE2ZqcprUHApPAgvNRbeECYmKzYiConP/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc9GqKQhD4zgqPicqVYwswYaABaCB3jwPAVvkLx1EL32F2KP8DFeqn44MqnMRhyb3p6Wpqeusjeicq8xNzCTPcJ7BL1QnMsoqBMdBQQ2Rf5pqiKHyzRJXH7YqGAtwX5xUnwwkRXHzRnH5XGPPt754h4jDns8muXs4NJ8jNe7LrtbKsjbyqZrD4KBXZDdW8bd5snaakLojDTsTdN8bSFtRmptuLfjxcZnm6MeWtsooShecHSWN9gTEfftm9EpmSZoKg9ndKURd3nwe5eS6AvSJfEL6AyQQi9EcSTEoAYpfWFP8zt4VF9yLd7CrUoMyRvNRjeCUgYThtBdNjJuMHKhK66Y3sASuAYfxNC1dL7enmuk8pbWhJ5ZqvGjhcns48NfPqK485rCSiQyFMyRFJaoGABnJJzSYJnSZys4F1p4hvbQwF2SMoh5aRQJ9rcNF6R4HSrr1qVjesjFoGvcSV3reXYWao1J89yJ2hsZkvs6nQcCDrSVyEjHc4zsY4MDDsPYaB7tPFxVGZZmmojfu156r1pc8sjPb2yna1oMCexRoqyLxwWd8iytJ3jyBGrgxrxtz58NrDVaBWJik2a&sid=193794596381
-#EXTINF:-1 tvg-name="Sydney Sixers Women Vs Melbourne Stars Women" tvg-logo="" group-title="Cricket",Sydney Sixers Women Vs Melbourne Stars Women
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-#EXTINF:-1 tvg-name="Sydney Sixers Women Vs Melbourne Stars Women" tvg-logo="" group-title="Cricket",Sydney Sixers Women Vs Melbourne Stars Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-name="Sydney Sixers Women Vs Melbourne Stars Women" tvg-logo="" group-title="Cricket",Sydney Sixers Women Vs Melbourne Stars Women
-https://in-mc-vod.fancode.com/mumbai/4250421_english_hls_c58bc13b0511119_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Bangladesh Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Thailand Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1795021544~acl=*%2fchannel(vcg-01-ch-hd-07)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=5bb93f39e3f5d1d1097cc13df511c119ded4c5b1b5ea5ae79b17baf370c3894e/manifest.mpd?vcfilter=f0290586-3e56-4fd8-bc61-4a8278513418
-#EXTINF:-1 tvg-name="Bangladesh Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Thailand Women
-https://ml-pull-rtmp-pk1.myco.io/Feed2/hls/index.m3u8
-#EXTINF:-1 tvg-name="Bangladesh Women Vs Thailand Women" tvg-logo="" group-title="Cricket",Bangladesh Women Vs Thailand Women
-https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-B-abr/playlist.m3u8
-#EXTINF:-1 tvg-name="Netherlands Women Vs Zimbabwe Women" tvg-logo="" group-title="Cricket",Netherlands Women Vs Zimbabwe Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795021612~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=f35348c7fbb05d1aad3da10e0fd7a946e123b0a4ad8a992c4fdb2c38506d5d5d/manifest.mpd?vcfilter=6fcd44d2-69c5-43bd-880b-4e7bda3b8711
-#EXTINF:-1 tvg-name="Netherlands Women Vs Zimbabwe Women" tvg-logo="" group-title="Cricket",Netherlands Women Vs Zimbabwe Women
-https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8
-#EXTINF:-1 tvg-name="Netherlands Women Vs Zimbabwe Women" tvg-logo="" group-title="Cricket",Netherlands Women Vs Zimbabwe Women
-https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka Women Vs Ireland Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs Ireland Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://prb2.prbw.workers.dev/proxy/https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795610969~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixHQixJRSxNTA%3d%3d~hmac=477a7a43f563dd728866718e7c98b423ad723952af71b2fb46b3ed2295dcb766/manifest.mpd?vcfilter=f4fc6796-0bc7-4b43-b9a6-db875faeaa76
-#EXTINF:-1 tvg-name="Sri Lanka Women Vs Ireland Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs Ireland Women
-https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka Women Vs Ireland Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs Ireland Women
-https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8
-#EXTINF:-1 tvg-name="Sri Lanka Women Vs Ireland Women" tvg-logo="" group-title="Cricket",Sri Lanka Women Vs Ireland Women
-https://in-mc-vod.fancode.com/mumbai/4250688_english_hls_6c02a53fb925699_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Melbourne Renegades Women Vs Brisbane Heat Women" tvg-logo="" group-title="Cricket",Melbourne Renegades Women Vs Brisbane Heat Women
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26c4fabdcc5a260a6e451538cfb05b78:92f785e2cf78b827cc1505bce8326fac
@@ -53,3 +13,17 @@ https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 #EXTINF:-1 tvg-name="Melbourne Renegades Women Vs Brisbane Heat Women" tvg-logo="" group-title="Cricket",Melbourne Renegades Women Vs Brisbane Heat Women
 https://in-mc-vod.fancode.com/mumbai/4250419_english_hls_ed10a05d9311864_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Sydney Sixers Women Vs Melbourne Stars Women" tvg-logo="" group-title="Cricket",Sydney Sixers Women Vs Melbourne Stars Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41901192b980eddd911c8cd7e5c516df:fabf22ee583ee08d1638dc18578d5174
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/teiohs2xmz/out/v1/3369f17367944191984b7d95012548e8/cenc.mpd
+#EXTINF:-1 tvg-name="Sydney Sixers Women Vs Melbourne Stars Women" tvg-logo="" group-title="Cricket",Sydney Sixers Women Vs Melbourne Stars Women
+https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2GapTrGM8HC5WXnbA6bzAozHCCBMY52Y3TC69oRNUsW2vE2ZqcprUHApPAgvNRbeECYmKzYiConP/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc9GqKQhD4zgqPicqVYwswYaABaCB3jwPAVvkLx1EL32F2KP8DFeqn44MqnMRhyb3p6Wpqeusjeicq8xNzCTPcJ7BL1QnMsoqBMdBQQ2Rf5pqiKHyzRJXH7YqGAtwX5xUnwwkRXHzRnH5XGPPt754h4jDns8muXs4NJ8jNe7LrtbKsjbyqZrD4KBXZDdW8bd5snaakLojDTsTdN8bSFtRmptuLfjxcZnm6MeWtsooShecHSWN9gTEfftm9EpmSZoKg9ndKURd3nwe5eS6AvSJfEL6AyQQi9EcSTEoAYpfWFP8zt4VF9yLd7CrUoMyRvNRjeCUgYThtBdNjJuMHKhK66Y3sASuAYfxNC1dL7enmuk8pbWhJ5ZqvGjhcns48NfPqK485rCSiQyFMyRFJaoGABnJJzSYJnSZys4F1p4hvbQwF2SMoh5aRQJ9rcNF6R4HSrr1qVjesjFoGvcSV3reXYWao1J89yJ2hsZkvs6nQcCDrSVyEjHc4zsY4MDDsPYaB7tPFxVGZZmmojfu156r1pc8sjPb2yna1oMCexRoqyLxwWd8iytJ3jyBGrgxrxtz58NrDVaBWJik2a&sid=193794596381
+#EXTINF:-1 tvg-name="Sydney Sixers Women Vs Melbourne Stars Women" tvg-logo="" group-title="Cricket",Sydney Sixers Women Vs Melbourne Stars Women
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+#EXTINF:-1 tvg-name="Sydney Sixers Women Vs Melbourne Stars Women" tvg-logo="" group-title="Cricket",Sydney Sixers Women Vs Melbourne Stars Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 tvg-name="Sydney Sixers Women Vs Melbourne Stars Women" tvg-logo="" group-title="Cricket",Sydney Sixers Women Vs Melbourne Stars Women
+https://in-mc-vod.fancode.com/mumbai/4250421_english_hls_c58bc13b0511119_1ta-di_h264/index.m3u8
