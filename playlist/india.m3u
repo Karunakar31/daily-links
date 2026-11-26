@@ -1,20 +1,40 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd
 #EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
 https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
 #EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
-https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-b-abr/playlist.m3u8
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234
 #EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd
 #EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
 https://live.msnetworks.net/ptv-sports/master.m3u8
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-b-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795729631~acl=/*~id=71906393317453163041642085557665~hmac=fd8747e11df1686b03df4990fad6eb167e4598ac50ff14f1841bff001ceb2234
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8
+#EXTINF:-1 tvg-name="India A Vs Sri Lanka A" tvg-logo="" group-title="Cricket",India A Vs Sri Lanka A
+https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8
 #EXTINF:-1 tvg-name="New Zealand Vs India" tvg-logo="" group-title="Cricket",New Zealand Vs India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a993ba0f7bf4b83d0ccb44a591e2a51c:2bd5e352dd929f561daa14de1fc1a7a1
